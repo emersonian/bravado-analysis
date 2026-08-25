@@ -75,7 +75,7 @@ The books:
 
 ### 3.4 The $226,744 owner receivable is never disclosed
 
-Both 2026 investor documents present detailed creditor tables, down to a $344 Uline balance. Neither mentions that the largest single receivable on the company's books is **$226,744 due from the founder** (Finaloop: *Due to/from owner — non-interest balance — Jeremiah Tallerine*; QuickBooks predecessors: *Due from Jer* $75,441 + overdrawn *Due to Jeremiah* $88,082 + draws). Investors deciding whether to defer their own loans (Nguyen $88,767; Blake $7,500) were never told the founder's balance exists.
+Both 2026 investor documents present detailed creditor tables, down to a $344 Uline balance. Neither mentions that the largest single receivable on the company's books is **$226,744 due from the founder** (Finaloop: *Due to/from owner — non-interest balance — Jeremiah Tallerine*; QuickBooks predecessors: *Due from Jer* $75,441 + overdrawn *Due to Jeremiah* $88,082 + draws). Investors deciding whether to defer their own loans (Nguyen $88,767; Blake Benthall personally $7,500 — a short-term bridge loan agreed to be repaid as **$8,500 within one month**, per Blake) were never told the founder's balance exists.
 
 ### 3.5 "July 7, 2026: the operating account held $107"
 
@@ -103,7 +103,7 @@ The "three-year arc" starts at 2024 and attributes the collapse to the departed 
 - **Bill deletions by Jer in Jul–Aug 2025** (QB audit log): Unishippers bills (~$2.7K), Berlin Packaging ($1,022), John Henry's PO bills (~$11.4K), SBG bills ($10,412 + $6,929 + $5,401), an HTS invoice ($3,000). Deleting A/P bills reduces recorded liabilities; the Unishippers deletions at least are consistent with the disclosed "disputed for cause" position, and PO-bill duplication cleanup is plausible for the rest. Intent can't be established from the log alone.
 - **Aug 24 briefing restates the July KeHE numbers**: Jul 22 doc promised PO 3773648 at "~$9,573 net"; the Aug pack lists the "Original (Jul 22)" value for that PO as $8,389, and the PO actually paid **$4,736.72**. The shortfall is disclosed (the 86-case yield miss), but the "original" column was quietly lowered by $1,184.
 - **Internal inconsistencies** in the Jul 22 doc: 2024 margin stated as both 28.7% and 28.5%; 2024 "operating loss" appears as both −$360,005 and −$261,672; the monthly H2 table (net +$35,363, Dec bank $30,692) doesn't tie to the locked workbook's ROLLUP (END-OF-MONTH BANK Dec $35,363) because the ROLLUP row ignores starting cash. Sloppiness, but all in the direction a careful reader would catch.
-- **Blake/Comatri's $7,500 loan** (listed in both 2026 docs) appears on **neither** balance sheet (QB or Finaloop) as a liability. The equity is there (*Member Equity — "Coinbase"* $50,010 in QB ≈ Comatri's two investments; Finaloop *Capital — Blake Benthall* $54,610 including the $4,600 added 5/1/2026), but the loan was apparently never booked.
+- **Blake Benthall's personal $7,500 loan** (listed in both 2026 docs; distinct from Comatri's equity investment) appears on **neither** balance sheet (QB or Finaloop) as a liability. Per Blake, its terms were repayment of **$8,500 within one month** — so the debt schedules also understate the obligation by the $1,000 agreed repayment premium, and a one-month bridge is being unilaterally stretched to 2027. The equity is there (*Member Equity — "Coinbase"* $50,010 in QB ≈ Comatri's two investments; Finaloop *Capital — Blake Benthall* $54,610 including the $4,600 added 5/1/2026), but the loan was apparently never booked.
 
 ---
 
@@ -120,7 +120,7 @@ Buc-ee's dropping the hot-sauce category; the SBG proposal being declined and th
 | ~2024 (1st agreement, not in repo) | Equity (implied: $50,010 QB equity − $35,000) | ~$15,010 |
 | Nov 26, 2024 | 2nd investment agreement — 700 shares (Comatri total 1,000 of 10,700 = 9.3%) | $35,000 |
 | May 1, 2026 | Additional capital (Finaloop, Found deposit) | $4,600 |
-| — | Loan (acknowledged in both 2026 investor docs; never booked on either balance sheet) | $7,500 |
+| — | Personal loan from Blake Benthall, not Comatri (acknowledged in both 2026 investor docs at $7,500; never booked on either balance sheet; per Blake, repayable as $8,500 within one month) | $7,500 ($8,500 due) |
 
 Context at the time of the Nov 2024 signing (per QB): equity −$472K, 2024 heading to a −$295K net loss, liabilities $699K. The agreement's company representations include "no outstanding assessments or other liabilities" (§2d) — defensible only if read as tax-specific. The agreement did purchase financial-records access rights (§1a), which is what makes this repository's analysis possible.
 

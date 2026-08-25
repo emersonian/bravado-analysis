@@ -57,7 +57,7 @@ v4 is not merely a subset. New material appears, including new claims of certain
 - **The KeHE figure was raised.** Draft: *"A confirmed KeHE purchase order delivers **$8,389** in cash in early August."* v4: *"PO 3773648 (~**$9,573** net Aug 10)"* plus a second PO. Actual collected: **$4,736.72**. Note the sequel — the August briefing's "Original (Jul 22)" column lists that PO at **$8,389**, i.e. it quotes the *private draft's* number, understating by $1,184 what the circulated document had actually promised.
 - **A new margin-trajectory table** (2024 / 1H 2025 / 2H 2025 / 2026 YTD) and the H2 month-by-month cash table — genuinely useful additions.
 - **"Nothing is hidden"** (draft: "nothing is being hidden or ignored") — the assertion survives into the version with $220K less itemized.
-- **Three creditors the draft never mentioned:** Endorphin Farms **$89,298**, past-due rent **$16,475**, KeHE open chargebacks $2,424 — plus **Blake's own $7,500 loan**, which appears in v4 but *not* in the copy sent to Blake.
+- **Three creditors the draft never mentioned:** Endorphin Farms **$89,298**, past-due rent **$16,475**, KeHE open chargebacks $2,424 — plus **Blake's own personal $7,500 loan** (a bridge loan repayable as $8,500 within one month), which appears in v4 — at $7,500, not the agreed $8,500 — but *not* in the copy sent to Blake.
 
 ## 6. The debt table: same size, different contents, $220K less
 

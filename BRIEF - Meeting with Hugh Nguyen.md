@@ -69,7 +69,7 @@ Set aside any single misstatement. Here is what the ledgers show happened while 
 
 Same transaction type — company pays the founder's personal credit card — treated three different ways in three years, each less transparent than the last. Records demand must therefore include: **his personal card statements and receipts for every owner reimbursement**, without which (per basic accountable-plan rules) these payments are indistinguishable from compensation or distributions.
 
-And the ask attached to all of it: **Hugh and I keep our loans frozen** ($88,767 + $7,500, "deferral requested," resumption maybe March 2027), his father's $69,440 is "forgiven" (yet still on the books, no forgiveness ever recorded — and its removal is exactly what turns the real ~$805K of liabilities into the "$736K" he reported), and a **$25,000 payable to Mark Clark** appears in no investor debt table at all while a $344 Uline balance gets its own row.
+And the ask attached to all of it: **Hugh and I keep our loans frozen** (Nguyen $88,767; my personal $7,500 bridge loan — agreed as **$8,500 back within one month**, now carried at $7,500 with "deferral requested" to 2027), his father's $69,440 is "forgiven" (yet still on the books, no forgiveness ever recorded — and its removal is exactly what turns the real ~$805K of liabilities into the "$736K" he reported), and a **$25,000 payable to Mark Clark** appears in no investor debt table at all while a $344 Uline balance gets its own row.
 
 ---
 
@@ -128,7 +128,7 @@ And the ask attached to all of it: **Hugh and I keep our loans frozen** ($88,767
 
 **Bottom line: $200,000 in; $14,121 back ($11,233 principal + $2,888 interest); $88,767 loan outstanding; $100,000 of equity in a company with roughly negative $620K of book equity.**
 
-*(Comatri, for comparison: $50,010 equity for 9.3% — $15,010 mid-2024 + $35,000 Nov 2024 — plus $4,600 booked to my capital May 2026 that I'm verifying Comatri actually sent, plus a $7,500 loan that appears on neither balance sheet.)*
+*(Comatri, for comparison: $50,010 equity for 9.3% — $15,010 mid-2024 + $35,000 Nov 2024 — plus $4,600 booked to my capital May 2026 that I'm verifying Comatri actually sent. Separately, I personally lent $7,500 as a one-month bridge, to be repaid as $8,500; it was never repaid, appears on neither balance sheet, is carried in the investor docs at $7,500 — $1,000 below the agreed repayment — and is now being deferred to 2027.)*
 
 ---
 

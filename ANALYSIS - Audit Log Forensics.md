@@ -55,7 +55,7 @@ Attachments deleted in fall 2025: "Unishippers - The Shipping Company That Works
 
 ### 2.4 Family repaid while trade creditors stretched
 
-The Nguyens received loan repayments in 2025 (balance $100,000 → $88,767, including a $4,707 payment Jer entered and paid on Aug 30, 2025), and Mark Clark's $5,000 loan went to zero — while SBG, rent, Uline, and Berlin Packaging went past due into 2026. Balances disclosed to investors are accurate; the *ordering* of who got paid is the notable fact. (Blake's $7,500 loan, never booked on either balance sheet, could not have been "scheduled" by the books at all.)
+The Nguyens received loan repayments in 2025 (balance $100,000 → $88,767, including a $4,707 payment Jer entered and paid on Aug 30, 2025), and Mark Clark's $5,000 loan went to zero — while SBG, rent, Uline, and Berlin Packaging went past due into 2026. Balances disclosed to investors are accurate; the *ordering* of who got paid is the notable fact. (Blake Benthall's personal $7,500 bridge loan — repayable as $8,500 within one month, per Blake — was never booked on either balance sheet and could not have been "scheduled" by the books at all.)
 
 ---
 
