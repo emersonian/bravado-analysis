@@ -20,13 +20,16 @@ One more piece of their judgment is on the record. In **January–February 2025*
 
 All figures from the general ledger; payments classified by their bank descriptions.
 
-| Year | Cash out to Jer / his creditors | Substantiated by itemized split JEs | Payments left charged against accrued wages | Unsubstantiated excess (accountants' sweep or balance) |
-|---|---|---|---|---|
-| 2022 | ~$46,200 | **$46,188** | — | ~$0 (account netted flat) |
-| 2023 | ~$30,300 | **$39,474** | $0 | $0 — substantiation *exceeded* payments; company owed Jer $9,132 at YE |
-| 2024 | ~$83,000 | **$45,047** | **$35,644** (real paydown of accrued wages) | small; swept $21,315 to "Due from Jer" at YE (incl. prior balances) |
-| 2025 | **$116,025** ($110,694 via 33500 + $5,331 draws) | **$22,612** | $0 — every wage-charged payment was reversed out by the accountants | **$93,413** |
-| 2026 (Jan–Jul, Finaloop) | $50,316 | **$0** | $0 (no payroll to him at all) | $49,392 after $924 was flagged personal → his receivable |
+| Year | Cash out to Jer / his creditors | Substantiated by itemized split JEs | Payments left charged against accrued wages | Unsubstantiated excess (accountants' sweep or balance) | Jer's wages booked for the year (paid + newly accrued)¹ | Company net income (loss) for the year² |
+|---|---|---|---|---|---|---|
+| 2022 | ~$46,200 | **$46,188** | — | ~$0 (account netted flat) | not separable (Gusto-aggregated; no accrual account yet) | n/a — no 2022 P&L in the record (CFO trend sheet shows negative operating cash) |
+| 2023 | ~$30,300 | **$39,474** | $0 | $0 — substantiation *exceeded* payments; company owed Jer $9,132 at YE | **$68,750** accrued unpaid (account established; may include earlier periods) | **($564,654)** |
+| 2024 | ~$83,000 | **$45,047** | **$35,644** (real paydown of accrued wages) | small; swept $21,315 to "Due from Jer" at YE (incl. prior balances) | **$74,775** ($35,644 paid + $39,131 newly accrued) | **($294,663)** |
+| 2025 | **$116,025** ($110,694 via 33500 + $5,331 draws) | **$22,612** | $0 — every wage-charged payment was reversed out by the accountants | **$93,413** | **$69,033** accrued, $0 paid as wages | **($115,190)** — and ($271,832) operating, before the one-time $155K ERC |
+| 2026 (Jan–Jul, Finaloop) | $50,316 | **$0** | $0 (no payroll to him at all) | $49,392 after $924 was flagged personal → his receivable | **$0** — no pay to him through payroll; cash moved as distributions/"reimbursements" instead | ≈ **($57,300)** operating, Jan–Jul (Finaloop ledger reconstruction) |
+
+¹ *"Wages booked" and the cash-out columns overlap by design, not double-count: the accrued wages are the liability his draws were later argued to net against. His W-2 salary actually paid through Gusto in earlier years cannot be isolated per person (Gusto posts aggregate journal entries); the accrual account begins with the $68,750 opening balance dated 2023.*
+² *QuickBooks net income per year; 2026 is the Finaloop-based operating reconstruction through the Jul 23 export. The juxtaposition to notice: in every year from 2023 on, Jer's booked compensation plus unsubstantiated cash-out ran at $69K–$162K while the company lost $115K–$565K — his economics were the most protected line in the business.*
 
 Three things jump out:
 
