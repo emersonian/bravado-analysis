@@ -22,7 +22,7 @@
 
 6. **While telling us he "skipped paychecks" and "put money in," the ledger shows money flowing out to him.** In **2025**: ~**$93K net** — bi-monthly $2,500 draws (one memo literally says "OWNERS BI-MONTHLY DRAW") plus the company paying his personal Apple Card ($10,891 in one payment), Citi, Capital One, and Credit One cards. In **Jan–Jul 2026**: another ~**$50K** ($21.7K "distributions" + $27.6K "owner reimbursements" to his personal cards/accounts), against $3,830 he put back in.
 7. **The timing is damning.** ~$33K went to his personal accounts in **January–February 2026** — the strong post-holiday collection months — and the company hit its cash floor in April–July, which he attributed entirely to macro conditions and Buc-ee's. During the "cash crisis" months, company accounts paid his therapy, cinema, and GoPuff in **Brooklyn** (he'd moved to NYC in Jan 2026).
-8. **Net of everything, the sacrifice is roughly a wash.** Even crediting all $176,914 of unpaid wages, his draw/receivable balances offset nearly all of it — the books put his net position somewhere between *he owes the company ~$50K* and *the company owes him ~$8–19K*. The July document (per the other analysis) claimed ~$101K was still owed to him, by counting only $75K of his draws and ignoring another ~$93K sitting in QuickBooks.
+8. **Net of everything, the sacrifice is roughly a wash — and the July document misstated it in writing.** The 8-page version Jer gave me privately says the $176,914 of unpaid wages "absorbs the $75K I have drawn," leaving "~$101K net." His own QuickBooks shows **$168,854 drawn** ($75,441 + $88,082 + $5,331) — the claim understates his draws by **$93,854**, and the true net is ~$8K, not ~$101K. Same document opens with "every number in this document is real."
 
 ## C. The story doesn't match the record
 
@@ -41,7 +41,7 @@
 
 1. **Compare notes:** Did Hugh get the same July/August documents? Anything different or additional?
 2. **Did Hugh and Christy give written consent to Comatri's admission as a member?** The Operating Agreement (§1.9) requires *unanimous written consent* — I've never seen theirs. Also: Mark Clark's.
-3. **Have they ever received a K-1?** (Goes to the S-election problem: Jer later claimed my C-corp can't hold its interest. The tax filings will show how *all* of us were treated.)
+3. **Have they ever received a K-1?** The 8-page July doc confirms K-1 filings exist and quotes the 2024 return ($862,582 gross receipts, $67,869 cash-basis loss) — so a pass-through return was filed for 2024. Who got K-1s, and was Comatri among them? (Goes to the S-election problem: Jer later claimed my C-corp can't hold its interest.)
 4. **A joint books-and-records demand** under Operating Agreement §4.6 (both of us together is much stronger): the December 2025 Finaloop management report + migration workpapers (this single package resolves the $69,033, the owner-receivable, and the liability bridge), tax returns/2553/K-1s, bank statements, the Hot Shots/SBG correspondence from July 2026, and the written creditor "arrangements."
 5. **Align before March 2027**, when he wants us to approve resuming investor-loan payments — neither of us should answer that individually.
 6. Discuss whether it's time for shared counsel (member-dispute / investment-misrepresentation practice). The pattern is strong enough to justify it; it is **not** yet a proven fraud case, and I don't want either of us overstating it.
