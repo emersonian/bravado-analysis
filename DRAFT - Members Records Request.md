@@ -47,6 +47,7 @@ We have kept this request deliberately light. Every item in Sections A–D is an
 10. The **written creditor arrangements** referenced in the August 24 briefing's statement that "every creditor is now on a written, scheduled arrangement": the SBG payoff agreement, the Endorphin Farms arrangement, the Anthony Tallerine loan and repayment terms, the OnDeck restructure, the landlord rent rider, and the SBA hardship-plan approval — whichever of these exist in writing.
 11. The **member loan documents**: the Nguyen loan note or agreement (including its interest terms), any documentation of the $7,500 Benthall/Comatri loan, and the proposed **deferral agreements** for both, in writing, for our review and signature.
 12. The **current member ledger / capitalization table**, and all **written member consents** obtained for the admission of members under Operating Agreement §1.9 (including for Comatri, Inc. and Mark Clark), together with any document purporting to transfer, redeem, or retitle any member's interest.
+13. The complete documentation of the **Anthony Tallerine line of credit ($69,440)**: the original loan or line-of-credit agreement and advance history, and — because the July 22 State of the Business describes this obligation as "**Forgiven**" while it remains recorded as a liability on the Company's books — **any written forgiveness, release, or gift instrument**, together with the accounting and tax treatment applied to it (a forgiven debt ordinarily produces cancellation-of-indebtedness income to the Company, which flows through to the members' K-1s). If no forgiveness writing exists, please say so; see also confirmation E3 below.
 
 ## E. Brief written confirmations *(within 10 business days)*
 
@@ -54,7 +55,7 @@ So that the record is clear, we ask that you confirm the following in a short si
 
 - **E1.** A list of each version of the July 2026 "State of the Business" document that was distributed, and to whom.
 - **E2.** Who received Schedules K-1 for tax year 2024, and under which form (1065 or 1120-S).
-- **E3.** Whether the $69,440 Anthony Tallerine line of credit has been forgiven (if so, please attach the writing) or remains an obligation of the Company.
+- **E3.** Whether the $69,440 Anthony Tallerine line of credit has been forgiven or remains an obligation of the Company (the underlying documents are item 13 above; this confirmation is the one-sentence answer).
 - **E4.** The Company's current statement of (a) amounts owed to you (accrued wages) and (b) amounts owed by you or drawn by you (owner receivable, draws, distributions), as of the most recent close.
 
 ---
