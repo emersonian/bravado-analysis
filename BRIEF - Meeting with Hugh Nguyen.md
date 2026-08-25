@@ -52,7 +52,7 @@ Each of these is a statement of **existing fact** (not a forecast), made in writ
 
 Set aside any single misstatement. Here is what the ledgers show happened while we were being told a story of founder sacrifice:
 
-**The five-year picture (companion chart deck: "Bravado, by the Books" artifact):**
+**The five-year picture (companion chart deck: "Bravado Spice — Financial Analysis" artifact):**
 
 | Year | Company net result | Company total debt | Cash to Jer | Documented | Undocumented |
 |---|---:|---:|---:|---:|---:|

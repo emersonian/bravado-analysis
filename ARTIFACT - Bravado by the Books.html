@@ -1,4 +1,4 @@
-<title>Bravado, by the Books</title>
+<title>Bravado Spice — Financial Analysis</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -72,6 +72,12 @@
   tbody td:first-child{font-family:"IBM Plex Sans",sans-serif;font-size:14px}
   tbody tr:last-child td{border-bottom:none}
   .fine{font-size:12.5px;color:var(--muted);margin-top:14px;line-height:1.5;max-width:72ch}
+  /* personal-spending table */
+  .ptable th:nth-child(2),.ptable td:nth-child(2){text-align:left}
+  .ptable td:first-child{white-space:nowrap}
+  .ptable tr.grp td{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);text-align:left;padding-top:18px;border-bottom:1px solid var(--baseline)}
+  .ptable tr.ok td{background:var(--chip)}
   /* next steps */
   ol.asks{margin:6px 0 0;padding:0;list-style:none;counter-reset:a;display:flex;flex-direction:column;gap:12px}
   ol.asks li{counter-increment:a;display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:baseline;font-size:15.5px}
@@ -87,8 +93,8 @@
 <div class="wrap">
 
 <header>
-  <div class="eyebrow">Private briefing &nbsp;·&nbsp; prepared by Blake Benthall for Hugh &amp; Christy Nguyen &nbsp;·&nbsp; August 2026</div>
-  <h1>Bravado, by the Books</h1>
+  <div class="eyebrow">Private briefing &nbsp;·&nbsp; August 2026</div>
+  <h1>Bravado Spice — Financial Analysis</h1>
   <p class="thesis">Figures below are drawn from Bravado Spice LLC's own records — QuickBooks (2014–2026), the
   Finaloop general ledger (July 22, 2026 export), and the QuickBooks audit log — and compared against the
   investor communications: the October 2024 materials, the July 22, 2026 "State of the Business" (v4)
@@ -104,26 +110,7 @@
 </div>
 
 <section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT A</span><h2 class="ex-title">Liabilities, net results, and payments to the founder</h2></div>
-  <p class="ex-sub">Year-end total liabilities above the baseline — the solid segment is the portion owed to the
-  founder himself; net loss below it; payments to the founder or his personal creditors as the line, plotted on
-  an independent scale with values as labeled.</p>
-  <div class="legend">
-    <span><span class="sw" style="background:var(--books)"></span>Liabilities owed to the founder</span>
-    <span><span class="sw" style="background:var(--books);opacity:.45"></span>Other liabilities</span>
-    <span><span class="sw" style="background:var(--loss)"></span>Net loss</span>
-    <span><span class="sw line" style="background:var(--jer)"></span>Payments to founder &amp; personal creditors (independent scale)</span>
-  </div>
-  <div id="chMain"></div>
-  <p class="fine">* 2026 = January–July, per the Finaloop ledger at the July 22 export. The 2025 net result of
-  ($115,190) includes $156,642 of one-time employee-retention-credit income; the operating result was ($271,832),
-  shown as the lighter extension. The founder's portion of liabilities is the accrued-wage balance owed to
-  Jeremiah Tallerine plus any year-end credit balance in his owner account: $68,750 (2023) → $107,880 (2024) →
-  $176,914 (2025), carried unchanged in Finaloop through July 2026; $0 in 2022.</p>
-</section>
-
-<section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT B</span><h2 class="ex-title">Business performance, 2014–2026</h2></div>
+  <div class="ex-head"><span class="ex-label">FIGURE A</span><h2 class="ex-title">Bravado — Business performance, 2014–2026</h2></div>
   <p class="ex-sub">Annual revenue in blue; the year's net result beside it — profit in green, loss in red.
   Per the QuickBooks profit-and-loss reports; 2026 per the Finaloop ledger, January–July.</p>
   <div class="legend">
@@ -139,7 +126,66 @@
 </section>
 
 <section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT C</span><h2 class="ex-title">Statements to investors vs. general ledger</h2></div>
+  <div class="ex-head"><span class="ex-label">FIGURE B</span><h2 class="ex-title">Bravado — Liabilities, net results, and payments to the founder, 2020–2026</h2></div>
+  <p class="ex-sub">Per year: total liabilities at year-end (left bar — the solid segment is the portion owed to
+  the founder himself) and the net result (right bar — profit in green, loss in red). The line is cash paid to
+  the founder or his personal creditors, plotted on an independent scale with values as labeled.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--books)"></span>Liabilities owed to the founder</span>
+    <span><span class="sw" style="background:var(--books);opacity:.45"></span>Other liabilities</span>
+    <span><span class="sw" style="background:var(--profit)"></span>Net profit</span>
+    <span><span class="sw" style="background:var(--loss)"></span>Net loss</span>
+    <span><span class="sw line" style="background:var(--jer)"></span>Payments to founder &amp; personal creditors (independent scale)</span>
+  </div>
+  <div id="chMain"></div>
+  <p class="fine">* 2026 = January–July, per the Finaloop ledger at the July 22 export. Liabilities per the
+  QuickBooks balance sheet ($45,728 at year-end 2020; $378,042 at 2021); net results per the profit-and-loss
+  exports. The 2025 net result of ($115,190) includes $156,642 of one-time employee-retention-credit income;
+  the operating result was ($271,832), shown as the lighter extension. The founder's portion of liabilities is
+  the accrued-wage balance owed to Jeremiah Tallerine plus any year-end credit balance in his owner account:
+  $68,750 (2023) → $107,880 (2024) → $176,914 (2025), carried unchanged in Finaloop through July 2026; $0
+  before 2023. The 2020–2021 line values count non-payroll draws only — the founder drew a W-2 salary through
+  Gusto in those years, which the aggregate payroll entries do not separate by person.</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">FIGURE C</span><h2 class="ex-title">Bravado — Reimbursement documentation, by year</h2></div>
+  <p class="ex-sub">Payments to the founder and his personal accounts, divided between amounts with itemized
+  ledger entries and amounts without. The dashed line marks the end of the outside accounting firm's engagement.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--docfill);border:1px solid var(--baseline)"></span>Itemized in ledger</span>
+    <span><span class="sw" style="background:var(--jer)"></span>No itemization located</span>
+  </div>
+  <div id="chDoc"></div>
+  <p class="fine">Strata Cloud Accountants' last activity in QuickBooks is March 27, 2026 (1,111 logged events
+  in January 2026, 198 in February, 6 in March, then none). Gusto payroll ended the same week — last wage entry
+  March 24, 2026.</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">FIGURE D</span><h2 class="ex-title">Bravado — Payments to the founder, by month</h2></div>
+  <p class="ex-sub">Monthly cash from company accounts to the founder or his personal creditors, January 2023 –
+  July 2026. QuickBooks founder accounts through 2025 (gross cash in the month paid; journal reclassifications
+  excluded); Finaloop distributions and owner reimbursements for 2026. Blue markers show investment capital
+  received; the dashed line marks the founder's relocation to New York City.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--jer)"></span>Cash to founder &amp; personal creditors, per month</span>
+    <span><span class="sw" style="background:var(--books);clip-path:polygon(0 25%,100% 25%,50% 100%)"></span>Investment received (Nguyen / Comatri)</span>
+  </div>
+  <div id="chMonthly"></div>
+  <p class="fine">Capital received: the $200,000 Nguyen wire on December 29, 2023, and Comatri, Inc.'s two
+  transfers — $15,010 on July 22, 2024 and $35,000 on December 2, 2024 (agreement signed November 26, 2024).
+  The December 2023, January 2025, and January–February 2026 payment peaks follow, respectively, the Nguyen
+  wire, the $226,200 SBA disbursement (January 3, 2025), and the two strongest collection months of 2026. Because this chart counts gross cash in the month paid and excludes
+  year-end journal reclassifications, annual sums differ from Figure F, which applies the substantiation
+  methodology of the reimbursement analysis: the difference is largest in 2023, when ~$43K of transfers to the
+  founder's personal checking were booked to the draw account and partly offset by his deposits back (~$5.4K)
+  and the CPA's mid-year equalization entries. Amounts he contributed back are not netted in either 2026 series
+  ($3,830 contributed January–July 2026).</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">FIGURE E</span><h2 class="ex-title">Bravado — Statements to investors vs. general ledger</h2></div>
   <p class="ex-sub">Six figures from the July 2026 "State of the Business" documents, with the corresponding
   ledger amounts. Sourcing below.</p>
   <div class="legend">
@@ -155,21 +201,7 @@
 </section>
 
 <section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT D</span><h2 class="ex-title">Reimbursement documentation, by year</h2></div>
-  <p class="ex-sub">Payments to the founder and his personal accounts, divided between amounts with itemized
-  ledger entries and amounts without. The dashed line marks the end of the outside accounting firm's engagement.</p>
-  <div class="legend">
-    <span><span class="sw" style="background:var(--docfill);border:1px solid var(--baseline)"></span>Itemized in ledger</span>
-    <span><span class="sw" style="background:var(--jer)"></span>No itemization located</span>
-  </div>
-  <div id="chDoc"></div>
-  <p class="fine">Strata Cloud Accountants' last activity in QuickBooks is March 27, 2026 (1,111 logged events
-  in January 2026, 198 in February, 6 in March, then none). Gusto payroll ended the same week — last wage entry
-  March 24, 2026.</p>
-</section>
-
-<section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT E</span><h2 class="ex-title">Performance, draws, and documentation</h2></div>
+  <div class="ex-head"><span class="ex-label">FIGURE F</span><h2 class="ex-title">Bravado — Performance, draws, and documentation</h2></div>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Year</th><th>Net result</th><th>Total liabilities</th><th>Payments to founder</th><th>Itemized</th><th>Not itemized</th></tr></thead>
@@ -191,7 +223,55 @@
 </section>
 
 <section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT F</span><h2 class="ex-title">Proposed next steps</h2></div>
+  <div class="ex-head"><span class="ex-label">FIGURE G</span><h2 class="ex-title">Bravado — Personal accounts and spending paid with company funds</h2></div>
+  <p class="ex-sub">Selected ledger entries, categorized. Descriptions and classifications are the ledgers' own;
+  Finaloop's classification "Personal expenses" is abbreviated "flagged personal." The final group shows
+  examples of reimbursements recorded with itemized support through the same accounts.</p>
+  <div style="overflow-x:auto">
+  <table class="ptable">
+    <thead><tr><th>Date</th><th>Description (per ledger)</th><th>Amount</th><th>Paid from</th><th>Ledger treatment</th></tr></thead>
+    <tbody>
+      <tr class="grp"><td colspan="5">Personal credit-card bills</td></tr>
+      <tr><td>Jan 30, 2025</td><td>APPLECARD GSBANK (personal card)</td><td>$10,890.90</td><td>Chase operating</td><td>Owner account; no itemization</td></tr>
+      <tr><td>Jan 31, 2025</td><td>BK OF AMER VI/MC (personal card)</td><td>$10,103.60</td><td>Chase operating</td><td>Owner account; no itemization</td></tr>
+      <tr><td>Feb 12, 2026</td><td>CAPITAL ONE (personal card, single largest 2026)</td><td>$6,500.00</td><td>Chase checking</td><td>"Reimbursement to owners"; no itemization</td></tr>
+      <tr><td>May 26, 2026</td><td>CHASE CREDIT CRD - EPAY (personal card)</td><td>$300.00</td><td>Found operating</td><td>Flagged personal</td></tr>
+      <tr class="grp"><td colspan="5">Transfers to personal bank accounts</td></tr>
+      <tr><td>Apr–Dec 2025</td><td>Bi-monthly $2,500 to Capital One personal checking 5820 (ledger memo: "OWNERS BI-MONTHLY DRAW")</td><td>$2,500 ×~17</td><td>Chase / Found</td><td>Owner account; no itemization</td></tr>
+      <tr><td>Jan 14 – Feb 27, 2026</td><td>Four $2,500 transfers to Capital One personal checking 5820</td><td>$10,000.00</td><td>Chase checking</td><td>Distributions</td></tr>
+      <tr><td>Mar–Jul 2026</td><td>Thirteen further transfers to the same personal account ($7.50 to $2,000)</td><td>$6,809.42</td><td>Chase / savings</td><td>"Reimbursement to owners"; no itemization</td></tr>
+      <tr class="grp"><td colspan="5">Personal loans &amp; finance</td></tr>
+      <tr><td>Jun 30, 2026</td><td>ONEMAIN FINANCIAL (personal installment loan)</td><td>$46.13</td><td>Found operating</td><td>Flagged personal</td></tr>
+      <tr class="grp"><td colspan="5">Healthcare (providers named in the ledger; described generically here)</td></tr>
+      <tr><td>Mar 1 – Jul 22, 2026</td><td>Telehealth provider, recurring ×7 — the last on the day of the July 22 investor meeting</td><td>$30.00 ×7</td><td>Found / company card</td><td>Flagged personal</td></tr>
+      <tr><td>Jun 26 &amp; Jul 15, 2026</td><td>Therapy practice, Brooklyn ×2</td><td>$210.00 ×2</td><td>Found operating</td><td>Flagged personal</td></tr>
+      <tr><td>Jun 11, 2026</td><td>Pharmacy, Brooklyn</td><td>$21.26</td><td>Company card</td><td>Flagged personal</td></tr>
+      <tr class="grp"><td colspan="5">Entertainment, dining &amp; delivery</td></tr>
+      <tr><td>Jun 26, 2026</td><td>NITEHAWK PROSPECT PARK (cinema), Brooklyn</td><td>$57.91</td><td>Found operating</td><td>Flagged personal</td></tr>
+      <tr><td>Jun 23 &amp; 25, 2026</td><td>GO PUFF (delivery) ×2</td><td>$40.65</td><td>Company card</td><td>Flagged personal</td></tr>
+      <tr><td>May 14 &amp; 28, 2026</td><td>Brooklyn cafés (SQ LITTLE ZELDA; SQ BROOKLYN BRIDGE) ×2</td><td>$14.70</td><td>Found operating</td><td>Flagged personal</td></tr>
+      <tr><td>May 1, 2026</td><td>MYWOOF.COM (pet supplies)</td><td>$22.85</td><td>Company card</td><td>Flagged personal</td></tr>
+      <tr class="grp"><td colspan="5">Classified as business travel in the same months</td></tr>
+      <tr><td>May 26, 2026</td><td>JETBLUE, Long Island NY</td><td>$305.50</td><td>Found operating</td><td>"Flights" (business)</td></tr>
+      <tr><td>Mar–Jun 2026</td><td>MTA*NYCT PAYGO subway fares ×11</td><td>$3.00 ×11</td><td>Found / company cards</td><td>"Public transit" (business)</td></tr>
+      <tr class="grp"><td colspan="5">For contrast — reimbursements recorded with itemized support (examples)</td></tr>
+      <tr class="ok"><td>Jun 2, 2025</td><td>AJE-415: "8.5x12 Bubble-Mailer Padded Envelope"</td><td>$446.38</td><td>—</td><td>Itemized reimbursement</td></tr>
+      <tr class="ok"><td>Jul 7, 2025</td><td>AJE-449: "The boxery and Amazon Basics… copy printer paper"</td><td>$803.75</td><td>—</td><td>Itemized reimbursement</td></tr>
+      <tr class="ok"><td>Sep 21, 2025</td><td>AJE-474: "Spirit Airlines"</td><td>$557.56</td><td>—</td><td>Itemized reimbursement</td></tr>
+      <tr class="ok"><td>Dec 1, 2025</td><td>AJE-506: "Reimbursement of Hertz, Shell Oil, Walmart"</td><td>$4,820.93</td><td>—</td><td>Itemized reimbursement</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="fine">The 2026 "flagged personal" rows carry Finaloop's own classification ("Personal transaction
+  paid from Found / company card") and were charged to the founder's owner account. The 2025 card-bill payments
+  were initially charged against accrued wages; the accountants reversed that treatment (AJE-387/388) and moved
+  them to the owner clearing account. The final group is drawn from the 23 itemized reimbursement entries the
+  bookkeepers recorded in 2025 ($22,612 in total) — the founder regularly fronted genuine business costs, and
+  the books record those with line-item detail. The rows above it have no such detail in either ledger.</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><h2 class="ex-title">Proposed next steps</h2></div>
   <ol class="asks">
     <li><div><b>Records request.</b> Existing documents only: federal returns and K-1s, any Form 2553, the December 2025 Finaloop report, bank statements, written creditor agreements, and member consents.</div></li>
     <li><div><b>Tax classification.</b> The form number on the members' K-1 packages — Form 1065 (partnership) or Form 1120-S (S corporation) — determines whether a corporate member is permissible.</div></li>
@@ -200,34 +280,11 @@
   </ol>
 </section>
 
-<section class="exhibit">
-  <div class="ex-head"><span class="ex-label">EXHIBIT G</span><h2 class="ex-title">Payments to the founder, by month</h2></div>
-  <p class="ex-sub">Monthly cash from company accounts to the founder or his personal creditors, January 2023 –
-  July 2026. QuickBooks founder accounts through 2025 (gross cash in the month paid; journal reclassifications
-  excluded); Finaloop distributions and owner reimbursements for 2026. Blue markers show investment capital
-  received; the dashed line marks the founder's relocation to New York City.</p>
-  <div class="legend">
-    <span><span class="sw" style="background:var(--jer)"></span>Cash to founder &amp; personal creditors, per month</span>
-    <span><span class="sw" style="background:var(--books);clip-path:polygon(0 25%,100% 25%,50% 100%)"></span>Investment received (Nguyen / Comatri)</span>
-  </div>
-  <div id="chMonthly"></div>
-  <p class="fine">Capital received: the $200,000 Nguyen wire on December 29, 2023, and Comatri, Inc.'s two
-  transfers — $15,010 on July 22, 2024 and $35,000 on December 2, 2024 (agreement signed November 26, 2024).
-  The December 2023, January 2025, and January–February 2026 payment peaks follow, respectively, the Nguyen
-  wire, the $226,200 SBA disbursement (January 3, 2025), and the two strongest collection months of 2026. Because this chart counts gross cash in the month paid and excludes
-  year-end journal reclassifications, annual sums differ from Exhibit E, which applies the substantiation
-  methodology of the reimbursement analysis: the difference is largest in 2023, when ~$43K of transfers to the
-  founder's personal checking were booked to the draw account and partly offset by his deposits back (~$5.4K)
-  and the CPA's mid-year equalization entries. Amounts he contributed back are not netted in either 2026 series
-  ($3,830 contributed January–July 2026).</p>
-</section>
-
 <footer>
   Sources: Bravado Spice LLC QuickBooks (2014–2026), Finaloop general ledger (export of Jul 23, 2026),
   QuickBooks audit logs, and the investor communications of Oct 2024, Jul 22 2026 (the circulated v4 and the
   eight-page version shared privately with Blake Benthall), and Aug 24 2026. Figures are as recorded in those
-  documents and ledgers; no legal conclusions are asserted. Workings: seven analysis memos in the shared
-  repository.
+  documents and ledgers; no legal conclusions are asserted.
 </footer>
 </div>
 <div id="tip" role="presentation"></div>
@@ -251,48 +308,48 @@ function roundTop(x,y,w,h,r){ if(h<=r) r=Math.max(0,h-1);
 function roundBottom(x,y,w,h,r){ if(h<=r) r=Math.max(0,h-1);
   return `M${x} ${y} L${x+w} ${y} L${x+w} ${y+h-r} Q${x+w} ${y+h} ${x+w-r} ${y+h} L${x+r} ${y+h} Q${x} ${y+h} ${x} ${y+h-r} Z`;}
 
-const debt=[502261,869363,699125,805512,907500];
-const debtJer=[0,75418,107880,176914,176914];          // portion of liabilities owed to the founder
-const loss=[30966,564654,294663,115190,57300];        // net loss, shown downward
-const lossWash=[0,0,0,156642,0];                       // 2025 pre-credit extension
-const jer=[46200,30300,83000,116025,50316];
-
-// EXHIBIT A — single combined chart: liabilities up, losses down, founder line overlaid on its own scale
+// FIGURE B — liabilities, net results, and founder payments, 2020–2026
 (function(){
-  const W=800,H=396,padL=8,padR=8;
-  const y0=234;                       // shared baseline
-  const PPD=5000;                     // dollars per px for both bar directions
+  const yrs=['2020','2021','2022','2023','2024','2025','2026*'];
+  const debt=[45728,378042,502261,869363,699125,805512,907500];
+  const debtJer=[0,0,0,75418,107880,176914,176914];      // portion of liabilities owed to the founder
+  const net=[309938,-116154,-30966,-564654,-294663,-115190,-57300];
+  const netWash=[0,0,0,0,0,156642,0];                    // 2025 pre-credit extension
+  const jer=[38042,7622,46200,30300,83000,116025,50316]; // cash to founder & personal creditors
+  const W=800,H=396,padL=8,padR=8,y0=234,PPD=5000,bw=20;
   const svg=svgEl('svg',{viewBox:`0 0 ${W} ${H}`});
-  const n=YEARS.length, slot=(W-padL-padR)/n, bw=24;
+  const n=yrs.length, slot=(W-padL-padR)/n;
   const yLine=v=>y0-88-(v/130000)*112;   // independent scale for the line, over the upper bars
   svg.appendChild(svgEl('line',{x1:padL,x2:W-padR,y1:y0,y2:y0,stroke:'var(--baseline)','stroke-width':1}));
   for(let i=0;i<n;i++){
-    const cx=padL+slot*i+slot/2, x=cx-bw/2, yr=YEARS[i].replace('*','');
-    // year label at the bottom
-    const t=svgEl('text',{x:cx,y:H-6,'text-anchor':'middle','class':'axis'}); t.textContent=YEARS[i]; svg.appendChild(t);
-    // liabilities, upward — lighter full bar with solid founder-owed segment at its base
-    const dh=debt[i]/PPD, dtop=y0-dh;
-    const tipDebt=yr+(i==4?' (Jul 22, Finaloop)':'')+'\nTotal liabilities '+fmt(debt[i])+'\nof which owed to the founder '+fmt(debtJer[i]);
-    const db=svgEl('path',{d:roundTop(x,dtop,bw,dh,4),fill:'var(--books)',opacity:.45});
+    const cx=padL+slot*i+slot/2, yr=yrs[i].replace('*','');
+    const t=svgEl('text',{x:cx,y:H-6,'text-anchor':'middle','class':'axis'}); t.textContent=yrs[i]; svg.appendChild(t);
+    // liabilities (left bar) — lighter full bar with solid founder-owed segment at its base
+    const dh=debt[i]/PPD, dx=cx-1-bw, dtop=y0-dh;
+    const tipDebt=yr+(i==6?' (Jul 22, Finaloop)':'')+'\nTotal liabilities '+fmt(debt[i])+'\nof which owed to the founder '+fmt(debtJer[i]);
+    const db=svgEl('path',{d:roundTop(dx,dtop,bw,dh,4),fill:'var(--books)',opacity:.45});
     db.dataset.tip=tipDebt; svg.appendChild(db);
     if(debtJer[i]>0){
       const jh=debtJer[i]/PPD;
-      const jb=svgEl('rect',{x,y:y0-jh,width:bw,height:jh,fill:'var(--books)'});
+      const jb=svgEl('rect',{x:dx,y:y0-jh,width:bw,height:jh,fill:'var(--books)'});
       jb.dataset.tip=tipDebt; svg.appendChild(jb);
     }
-    const dl=svgEl('text',{x:cx,y:dtop-6,'text-anchor':'middle','class':'val'}); dl.textContent=fmtK(debt[i]); svg.appendChild(dl);
-    // net loss, downward
-    const lh=loss[i]/PPD;
-    const lb=svgEl('path',{d:roundBottom(x,y0,bw,lh,4),fill:'var(--loss)'});
-    lb.dataset.tip=yr+'\nNet loss '+fmt(loss[i])+(lossWash[i]?'\nOperating loss $271,832\n(one-time $155K credit in between)':''); svg.appendChild(lb);
-    let lEnd=y0+lh;
-    if(lossWash[i]>0){
-      const wh=lossWash[i]/PPD;
-      const wr=svgEl('rect',{x,y:lEnd+2,width:bw,height:wh-2,fill:'var(--loss)',opacity:.18,rx:4});
-      wr.dataset.tip=lb.dataset.tip; svg.appendChild(wr); lEnd+=wh;
+    const dl=svgEl('text',{x:cx-1-bw/2,y:dtop-6,'text-anchor':'middle','class':'val'}); dl.textContent=fmtK(debt[i]); svg.appendChild(dl);
+    // net result (right bar): profit up in green, loss down in red
+    const nh=Math.abs(net[i])/PPD, nx=cx+1;
+    const tipNet=yr+'\nNet result '+(net[i]<0?'(':'')+fmt(Math.abs(net[i]))+(net[i]<0?')':'')+(netWash[i]?'\nOperating loss $271,832\n(one-time $155K credit in between)':'');
+    let nb, labY;
+    if(net[i]>=0){ nb=svgEl('path',{d:roundTop(nx,y0-nh,bw,nh,4),fill:'var(--profit)'}); labY=y0-nh-6; }
+    else { nb=svgEl('path',{d:roundBottom(nx,y0,bw,nh,4),fill:'var(--loss)'}); labY=y0+nh+15; }
+    nb.dataset.tip=tipNet; svg.appendChild(nb);
+    if(netWash[i]>0){
+      const wh=netWash[i]/PPD;
+      const wr=svgEl('rect',{x:nx,y:y0+nh+2,width:bw,height:wh-2,fill:'var(--loss)',opacity:.18,rx:4});
+      wr.dataset.tip=tipNet; svg.appendChild(wr); labY=y0+nh+wh+15;
     }
-    const ll=svgEl('text',{x:cx,y:lEnd+15,'text-anchor':'middle','class':'val'});
-    ll.textContent = lossWash[i]>0 ? '$115K → $272K*' : fmtK(loss[i]); svg.appendChild(ll);
+    const nl=svgEl('text',{x:nx+bw/2,y:labY,'text-anchor':'middle','class':'val'});
+    nl.textContent = netWash[i]>0 ? '$115K → $272K*' : (net[i]<0?'−':'+')+fmtK(Math.abs(net[i])).replace('$','$');
+    svg.appendChild(nl);
   }
   // founder-payments line, independent scale, drawn last so it sits over the bars
   let d=''; const pts=[];
@@ -301,7 +358,7 @@ const jer=[46200,30300,83000,116025,50316];
   pts.forEach((p,i)=>{
     svg.appendChild(svgEl('circle',{cx:p[0],cy:p[1],r:6,fill:'var(--surface)'}));
     const c=svgEl('circle',{cx:p[0],cy:p[1],r:4.5,fill:'var(--jer)'});
-    c.dataset.tip=YEARS[i].replace('*','')+'\nTo founder & personal creditors '+fmt(jer[i]); svg.appendChild(c);
+    c.dataset.tip=yrs[i].replace('*','')+'\nTo founder & personal creditors '+fmt(jer[i])+(i<2?'\n(non-payroll draws; W-2 salary separate)':''); svg.appendChild(c);
     const lab=svgEl('text',{x:p[0],y:p[1]-11,'text-anchor':'middle','class':'val'}); lab.textContent=fmtK(jer[i]); svg.appendChild(lab);
   });
   const m=document.getElementById('chMain'); m.appendChild(svg); bindTips(m);
@@ -345,17 +402,23 @@ const pairs=[
  {label:'2026 operating loss, Jan–Jun', told:21974, books:57295, chip:'2.6×'},
  {label:'“The $75K I have drawn” †', told:75000, books:168854, chip:'2.3×'},
  {label:'Cash in the bank, July 7', told:107,    books:2379,  chip:'22×'},
- {label:'Total liabilities, end of 2025', told:736000, books:805512, chip:'+$69,440'},
+ {label:'Total liabilities, end of 2025', told:736000, books:805512, chip:'+$69,440',
+  extra:{tag:'OMITTED', val:69440, note:'the family loan listed as “Forgiven”'}},
 ];
 const pw=document.getElementById('pairs');
 pairs.forEach(p=>{
   const mx=Math.max(p.told,p.books);
   const row=document.createElement('div'); row.className='pair';
-  row.innerHTML=`<div class="plabel"><b>${p.label}</b><span class="chipd">${p.chip}</span></div>
+  let html=`<div class="plabel"><b>${p.label}</b><span class="chipd">${p.chip}</span></div>
   <div class="bars">
     <div class="btag">STATED</div><div class="btrack"><div class="bfill" style="background:var(--told);width:${Math.max(0.5,p.told/mx*72)}%"></div><span class="bval" style="left:${Math.max(0.5,p.told/mx*72)}%">${fmt(p.told)}</span></div>
-    <div class="btag">LEDGER</div><div class="btrack"><div class="bfill" style="background:var(--books);width:${p.books/mx*72}%"></div><span class="bval" style="left:${p.books/mx*72}%">${fmt(p.books)}</span></div>
-  </div>`;
+    <div class="btag">LEDGER</div><div class="btrack"><div class="bfill" style="background:var(--books);width:${p.books/mx*72}%"></div><span class="bval" style="left:${p.books/mx*72}%">${fmt(p.books)}</span></div>`;
+  if(p.extra){
+    html+=`
+    <div class="btag">${p.extra.tag}</div><div class="btrack"><div class="bfill" style="background:var(--jer);width:${p.extra.val/mx*72}%"></div><span class="bval" style="left:${p.extra.val/mx*72}%">${fmt(p.extra.val)} — ${p.extra.note}</span></div>`;
+  }
+  html+=`</div>`;
+  row.innerHTML=html;
   pw.appendChild(row);
 });
 
@@ -434,10 +497,19 @@ pairs.forEach(p=>{
     tr.dataset.tip=c.tip; svg.appendChild(tr);
     const tl=svgEl('text',{x:cx,y:padT-21,'text-anchor':'middle','class':'val','font-size':'10.5'}); tl.textContent=c.label; svg.appendChild(tl);
   });
+  // Benthall personal loan — never booked in either ledger; dated by its first appearance in the
+  // company's records (added to the cash-plan debt schedule Jul 20, 2026)
+  (function(){
+    const cx=padL+slot*42+slot/2;
+    const tr=svgEl('path',{d:`M${cx-5} ${padT-16} L${cx+5} ${padT-16} L${cx} ${padT-8} Z`,fill:'none',stroke:'var(--ink2)','stroke-width':1.5});
+    tr.dataset.tip='Benthall personal loan $7,500\n(repayable as $8,500 within one month)\nNever booked in either ledger; first appears\nin company records Jul 20, 2026, added to the\ncash-plan debt schedule as $7,500, deferred';
+    svg.appendChild(tr);
+    const tl=svgEl('text',{x:cx+2,y:padT-21,'text-anchor':'end','class':'val','font-size':'10.5'}); tl.textContent='Benthall loan $7.5K'; svg.appendChild(tl);
+  })();
   // NYC relocation marker at January 2026
   const mx=padL+slot*36;
   svg.appendChild(svgEl('line',{x1:mx,x2:mx,y1:padT-8,y2:H-padB,stroke:'var(--muted)','stroke-width':1,'stroke-dasharray':'4 3'}));
-  const ml=svgEl('text',{x:mx+8,y:padT-12,'text-anchor':'start','class':'axis','font-size':'10'}); ml.textContent='NYC move · Jan 2026'; svg.appendChild(ml);
+  const ml=svgEl('text',{x:mx-8,y:padT-12,'text-anchor':'end','class':'axis','font-size':'10'}); ml.textContent='NYC move · Jan 2026'; svg.appendChild(ml);
   const m=document.getElementById('chMonthly'); m.appendChild(svg); bindTips(m);
 })();
 </script>
