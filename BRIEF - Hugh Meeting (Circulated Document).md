@@ -78,7 +78,7 @@ v4 blamed the 2026 collapse on consumer spending and Buc-ee's. What it never men
 | 02/18/2026 | CAPITAL ONE ONLINE PMT + transfer | $6,360.89 | Both |
 | 02/27/2026 | Online Realtime Transfer to Capital One | $2,500.00 | Distribution |
 
-None of the 2026 "Reimbursements to owners" ($27,640 total Jan–Jul) is supported by itemized expenses — they are lump payments of his personal Capital One/Petal card **bills**, booked straight to a P&L expense line with no receipts and no category detail. (In 2023 the company did this properly — itemized monthly reimbursement entries. The process was abandoned exactly as the amounts grew.)
+None of the 2026 "Reimbursements to owners" ($27,640 total Jan–Jul) is supported by itemized expenses — they are lump payments of his personal Capital One/Petal card **bills**, booked straight to a P&L expense line with no receipts and no category detail. Fairness note: ~$153K of his 2022–2025 reimbursements WERE properly itemized and are not disputed — the substantiation system worked for years and collapsed exactly as the amounts grew (5:1 unsubstantiated by 2025, no substantiation at all in 2026). Full tiering: `ANALYSIS - Reimbursement Legitimacy.md`.
 
 ## 5. "The plan does not depend on new borrowing" — for six days
 
