@@ -204,15 +204,17 @@
   <div class="ex-head"><span class="ex-label">EXHIBIT G</span><h2 class="ex-title">Payments to the founder, by month</h2></div>
   <p class="ex-sub">Monthly cash from company accounts to the founder or his personal creditors, January 2023 –
   July 2026. QuickBooks founder accounts through 2025 (gross cash in the month paid; journal reclassifications
-  excluded); Finaloop distributions and owner reimbursements for 2026. The dashed line marks the founder's
-  relocation to New York City.</p>
+  excluded); Finaloop distributions and owner reimbursements for 2026. Blue markers show investment capital
+  received; the dashed line marks the founder's relocation to New York City.</p>
   <div class="legend">
     <span><span class="sw" style="background:var(--jer)"></span>Cash to founder &amp; personal creditors, per month</span>
+    <span><span class="sw" style="background:var(--books);clip-path:polygon(0 25%,100% 25%,50% 100%)"></span>Investment received (Nguyen / Comatri)</span>
   </div>
   <div id="chMonthly"></div>
-  <p class="fine">The December 2023, January 2025, and January–February 2026 peaks follow, respectively, the
-  $200,000 Nguyen wire (December 29, 2023), the $226,200 SBA disbursement (January 3, 2025), and the two
-  strongest collection months of 2026. Because this chart counts gross cash in the month paid and excludes
+  <p class="fine">Capital received: the $200,000 Nguyen wire on December 29, 2023, and Comatri, Inc.'s two
+  transfers — $15,010 on July 22, 2024 and $35,000 on December 2, 2024 (agreement signed November 26, 2024).
+  The December 2023, January 2025, and January–February 2026 payment peaks follow, respectively, the Nguyen
+  wire, the $226,200 SBA disbursement (January 3, 2025), and the two strongest collection months of 2026. Because this chart counts gross cash in the month paid and excludes
   year-end journal reclassifications, annual sums differ from Exhibit E, which applies the substantiation
   methodology of the reimbursement analysis: the difference is largest in 2023, when ~$43K of transfers to the
   founder's personal checking were booked to the draw account and partly offset by his deposits back (~$5.4K)
@@ -396,7 +398,7 @@ pairs.forEach(p=>{
     15349,17861,5500,3410,3569,2783,920                                // 2026 Jan–Jul
   ];
   const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  const W=800,H=224,padL=8,padR=8,padT=24,padB=28,max=32000;
+  const W=800,H=240,padL=8,padR=8,padT=40,padB=28,max=32000;
   const svg=svgEl('svg',{viewBox:`0 0 ${W} ${H}`});
   const n=vals.length, slot=(W-padL-padR)/n, bw=Math.min(12,slot*.66);
   const y=v=>padT+(H-padT-padB)*(1-v/max);
@@ -420,10 +422,22 @@ pairs.forEach(p=>{
       }
     }
   }
+  // investment capital received — Nguyen wire and Comatri's two transfers
+  const CAPITAL=[
+    {i:11, label:'Nguyen $200K',  tip:'Dec 29, 2023\nNguyen investment received $200,000'},
+    {i:18, label:'Comatri $15K',  tip:'Jul 22, 2024\nComatri investment received $15,010'},
+    {i:23, label:'Comatri $35K',  tip:'Dec 2, 2024\nComatri investment received $35,000\n(agreement signed Nov 26, 2024)'},
+  ];
+  CAPITAL.forEach(c=>{
+    const cx=padL+slot*c.i+slot/2;
+    const tr=svgEl('path',{d:`M${cx-5} ${padT-16} L${cx+5} ${padT-16} L${cx} ${padT-8} Z`,fill:'var(--books)'});
+    tr.dataset.tip=c.tip; svg.appendChild(tr);
+    const tl=svgEl('text',{x:cx,y:padT-21,'text-anchor':'middle','class':'val','font-size':'10.5'}); tl.textContent=c.label; svg.appendChild(tl);
+  });
   // NYC relocation marker at January 2026
   const mx=padL+slot*36;
   svg.appendChild(svgEl('line',{x1:mx,x2:mx,y1:padT-8,y2:H-padB,stroke:'var(--muted)','stroke-width':1,'stroke-dasharray':'4 3'}));
-  const ml=svgEl('text',{x:mx+8,y:padT-2,'text-anchor':'start','class':'axis','font-size':'10'}); ml.textContent='NYC move · Jan 2026'; svg.appendChild(ml);
+  const ml=svgEl('text',{x:mx+8,y:padT-12,'text-anchor':'start','class':'axis','font-size':'10'}); ml.textContent='NYC move · Jan 2026'; svg.appendChild(ml);
   const m=document.getElementById('chMonthly'); m.appendChild(svg); bindTips(m);
 })();
 </script>
