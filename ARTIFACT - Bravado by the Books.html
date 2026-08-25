@@ -175,6 +175,9 @@
   <div id="chMonthly"></div>
   <p class="fine">Capital received: the $200,000 Nguyen wire on December 29, 2023, and Comatri, Inc.'s two
   transfers — $15,010 on July 22, 2024 and $35,000 on December 2, 2024 (agreement signed November 26, 2024).
+  The hollow marker is Blake Benthall's personal $7,500 bridge loan of April 29, 2026 (repayable as $8,500
+  within one month), never booked in either ledger; it first appears in company records on July 20, 2026, added
+  to the cash-plan debt schedule at $7,500, already marked for deferral.
   The December 2023, January 2025, and January–February 2026 payment peaks follow, respectively, the Nguyen
   wire, the $226,200 SBA disbursement (January 3, 2025), and the two strongest collection months of 2026. Because this chart counts gross cash in the month paid and excludes
   year-end journal reclassifications, annual sums differ from Figure F, which applies the substantiation
@@ -497,14 +500,13 @@ pairs.forEach(p=>{
     tr.dataset.tip=c.tip; svg.appendChild(tr);
     const tl=svgEl('text',{x:cx,y:padT-21,'text-anchor':'middle','class':'val','font-size':'10.5'}); tl.textContent=c.label; svg.appendChild(tl);
   });
-  // Benthall personal loan — never booked in either ledger; dated by its first appearance in the
-  // company's records (added to the cash-plan debt schedule Jul 20, 2026)
+  // Benthall personal loan, Apr 29 2026 — never booked in either ledger
   (function(){
-    const cx=padL+slot*42+slot/2;
+    const cx=padL+slot*39+slot/2;
     const tr=svgEl('path',{d:`M${cx-5} ${padT-16} L${cx+5} ${padT-16} L${cx} ${padT-8} Z`,fill:'none',stroke:'var(--ink2)','stroke-width':1.5});
-    tr.dataset.tip='Benthall personal loan $7,500\n(repayable as $8,500 within one month)\nNever booked in either ledger; first appears\nin company records Jul 20, 2026, added to the\ncash-plan debt schedule as $7,500, deferred';
+    tr.dataset.tip='Apr 29, 2026\nBenthall personal loan $7,500\n(repayable as $8,500 within one month)\nNever booked in either ledger; first appears\nin company records Jul 20, 2026, added to the\ncash-plan debt schedule as $7,500, deferred';
     svg.appendChild(tr);
-    const tl=svgEl('text',{x:cx+2,y:padT-21,'text-anchor':'end','class':'val','font-size':'10.5'}); tl.textContent='Benthall loan $7.5K'; svg.appendChild(tl);
+    const tl=svgEl('text',{x:cx,y:padT-21,'text-anchor':'middle','class':'val','font-size':'10.5'}); tl.textContent='Benthall loan $7.5K'; svg.appendChild(tl);
   })();
   // NYC relocation marker at January 2026
   const mx=padL+slot*36;
