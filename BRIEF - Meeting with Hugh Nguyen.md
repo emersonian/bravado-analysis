@@ -59,6 +59,16 @@ Set aside any single misstatement. Here is what the ledgers show happened while 
 | Mar–Jul 2026 ("the $107 months") | "Down to our last hundred dollars" | Distributions and "owner reimbursements" continued; the operating account and company card paid his **personal expenses in Brooklyn** (healthcare, restaurants, a cinema, groceries, subway — he'd moved to NYC in January). A **$10K loan from his own father** was raised at the bottom, six days after writing "the plan does not depend on new borrowing." |
 | 2026 totals | — | **~$50K to Jer personally** (Jan–Jul) vs. $3,830 contributed back — almost exactly equal to the ~$50K paid to the **entire remaining team** over the same months. |
 
+**The reimbursement machinery — from documented to opaque in three years.** Proper practice: itemize each business expense charged to a personal card, book it to its real category, then reimburse against that record. Bravado's own history shows it knew how — and stopped:
+
+| Year | Cash to Jer's cards/accounts | Substantiated by itemized entries | Transparency |
+|---|---|---|---|
+| 2023 | $30,642 | **$39,774** (monthly "Jer Reimbursement" journal entries, split to expense categories) | Documentation *exceeded* payments — the process worked |
+| 2025 | **$110,694** | **$22,612** (named items: boxery, roll labels, Hertz, Spirit Airlines…) | **Only ~20% substantiated.** The unsubstantiated remainder is exactly the **$88,082** debit balance the July doc omitted from "what I have drawn" |
+| 2026 (Jan–Jul) | $27,640 "reimbursements" + $21,752 "distributions" | **$0 itemized** — the $27.6K is lump payments of his personal Capital One/Petal card bills, booked straight to a P&L expense called "Reimbursements to owners," with no category allocation and no receipts in the system | **None.** Paying a card *bill* hides the merchants entirely — and this line was then excluded from the operating loss he reported to us |
+
+Same transaction type — company pays the founder's personal credit card — treated three different ways in three years, each less transparent than the last. Records demand must therefore include: **his personal card statements and receipts for every owner reimbursement**, without which (per basic accountable-plan rules) these payments are indistinguishable from compensation or distributions.
+
 And the ask attached to all of it: **Hugh and I keep our loans frozen** ($88,767 + $7,500, "deferral requested," resumption maybe March 2027), his father's $69,440 is "forgiven" (yet still on the books, no forgiveness ever recorded — and its removal is exactly what turns the real ~$805K of liabilities into the "$736K" he reported), and a **$25,000 payable to Mark Clark** appears in no investor debt table at all while a $344 Uline balance gets its own row.
 
 ---
