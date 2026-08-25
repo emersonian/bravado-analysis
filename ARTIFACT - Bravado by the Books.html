@@ -1,0 +1,293 @@
+<title>Bravado, by the Books</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+    --grid:#e1e0d9; --baseline:#c3c2b7; --hair:rgba(11,11,11,.10);
+    --books:#2a78d6; --jer:#eb6834; --loss:#e34948; --told:#c9c7bf; --docfill:#dddcd4;
+    --chip:#f0efec;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink2:#c3c2b7; --muted:#898781;
+      --grid:#2c2c2a; --baseline:#383835; --hair:rgba(255,255,255,.10);
+      --books:#3987e5; --jer:#d95926; --loss:#e66767; --told:#4a4a46; --docfill:#33332f;
+      --chip:#262623;
+    }
+  }
+  :root[data-theme="dark"]{
+    --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --baseline:#383835; --hair:rgba(255,255,255,.10);
+    --books:#3987e5; --jer:#d95926; --loss:#e66767; --told:#4a4a46; --docfill:#33332f;
+    --chip:#262623;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--page);color:var(--ink);
+       font:400 16px/1.55 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;}
+  .wrap{max-width:860px;margin:0 auto;padding:56px 24px 80px;display:flex;flex-direction:column;gap:64px}
+  .mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace}
+  .eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
+  header h1{font-size:40px;line-height:1.1;font-weight:600;margin:10px 0 14px;letter-spacing:-.01em;text-wrap:balance}
+  header p.thesis{font-size:17px;color:var(--ink2);max-width:62ch;margin:0}
+  .exhibit{background:var(--surface);border:1px solid var(--hair);border-radius:10px;padding:28px 28px 24px}
+  .ex-head{display:flex;align-items:baseline;gap:14px;margin-bottom:4px}
+  .ex-label{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;color:var(--muted)}
+  .ex-title{font-size:20px;font-weight:600;margin:0}
+  .ex-sub{color:var(--ink2);font-size:14px;margin:2px 0 20px;max-width:66ch}
+  /* KPI row */
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+  .kpi{background:var(--surface);border:1px solid var(--hair);border-radius:10px;padding:16px 18px}
+  .kpi .v{font-size:26px;font-weight:600;letter-spacing:-.01em;line-height:1.15}
+  .kpi .v small{font-size:15px;font-weight:500;color:var(--ink2)}
+  .kpi .k{font-size:12.5px;color:var(--muted);margin-top:5px;line-height:1.35}
+  /* legend */
+  .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:12.5px;color:var(--ink2);margin-bottom:12px}
+  .legend span{display:inline-flex;align-items:center;gap:7px}
+  .sw{width:11px;height:11px;border-radius:3px;display:inline-block}
+  .sw.line{width:16px;height:2px;border-radius:1px;position:relative}
+  .sw.line::after{content:"";position:absolute;left:5px;top:-3px;width:8px;height:8px;border-radius:50%;background:inherit;box-shadow:0 0 0 2px var(--surface)}
+  /* charts */
+  svg{display:block;width:100%;height:auto}
+  svg text{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;fill:var(--ink2)}
+  svg text.val{fill:var(--ink);font-size:11.5px;paint-order:stroke;stroke:var(--surface);stroke-width:3px;stroke-linejoin:round}
+  svg text.axis{fill:var(--muted)}
+  /* stated vs ledger rows */
+  .pairs{display:flex;flex-direction:column;gap:16px;margin-top:6px}
+  .pair .plabel{display:flex;justify-content:space-between;align-items:baseline;font-size:14px;margin-bottom:6px}
+  .pair .plabel b{font-weight:600}
+  .chipd{font-family:"IBM Plex Mono",monospace;font-size:12px;background:var(--chip);border:1px solid var(--hair);
+         border-radius:999px;padding:2px 10px;color:var(--ink)}
+  .bars{display:grid;grid-template-columns:52px 1fr;gap:4px 10px;align-items:center}
+  .btag{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.08em;color:var(--muted);text-align:right}
+  .btrack{position:relative;height:16px}
+  .bfill{position:absolute;left:0;top:1px;height:14px;border-radius:0 4px 4px 0;min-width:2px}
+  .bval{position:absolute;top:0;line-height:16px;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink);white-space:nowrap;padding-left:8px}
+  /* table */
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:9px 10px;text-align:right;font-variant-numeric:tabular-nums}
+  th:first-child,td:first-child{text-align:left}
+  thead th{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:500;border-bottom:1px solid var(--baseline)}
+  tbody td{border-bottom:1px solid var(--grid);font-family:"IBM Plex Mono",monospace;font-size:13px}
+  tbody td:first-child{font-family:"IBM Plex Sans",sans-serif;font-size:14px}
+  tbody tr:last-child td{border-bottom:none}
+  .fine{font-size:12.5px;color:var(--muted);margin-top:14px;line-height:1.5;max-width:72ch}
+  /* next steps */
+  ol.asks{margin:6px 0 0;padding:0;list-style:none;counter-reset:a;display:flex;flex-direction:column;gap:12px}
+  ol.asks li{counter-increment:a;display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:baseline;font-size:15.5px}
+  ol.asks li::before{content:counter(a,decimal-leading-zero);font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted)}
+  ol.asks b{font-weight:600}
+  footer{color:var(--muted);font-size:12.5px;line-height:1.6;max-width:72ch}
+  #tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--page);font:12px/1.4 "IBM Plex Mono",monospace;
+       padding:6px 9px;border-radius:6px;opacity:0;transition:opacity .1s;z-index:9;max-width:260px;white-space:pre-line}
+  @media (prefers-reduced-motion: reduce){#tip{transition:none}}
+  @media (max-width:560px){header h1{font-size:31px}.exhibit{padding:20px 16px}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Private briefing &nbsp;·&nbsp; prepared by Blake Benthall for Hugh &amp; Christy Nguyen &nbsp;·&nbsp; August 2026</div>
+  <h1>Bravado, by the Books</h1>
+  <p class="thesis">Figures below are drawn from Bravado Spice LLC's own records — QuickBooks (2020–2026), the
+  Finaloop general ledger (July 22, 2026 export), and the QuickBooks audit log — and compared against the
+  investor communications of October 2024, July 2026, and August 2026.</p>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="v mono">$200,000 <small>→ $14,121</small></div><div class="k">Nguyen funds advanced vs. repayments received to date</div></div>
+  <div class="kpi"><div class="v mono">15 / 15</div><div class="k">Discrepancies identified between investor statements and the ledger; each overstates performance or understates founder draws</div></div>
+  <div class="kpi"><div class="v mono">$107 <small>vs $2,379</small></div><div class="k">July 7, 2026 cash balance as stated vs. per the reconciled ledger</div></div>
+  <div class="kpi"><div class="v mono">$0</div><div class="k">Itemized ledger support for the $50,316 paid toward the founder's personal accounts, Jan–Jul 2026</div></div>
+</div>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">EXHIBIT A</span><h2 class="ex-title">Liabilities, net results, and payments to the founder</h2></div>
+  <p class="ex-sub">Year-end total liabilities above the baseline; net loss below it; payments to the founder or
+  his personal creditors as the line, plotted on an independent scale with values as labeled.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--books)"></span>Total liabilities, year-end</span>
+    <span><span class="sw" style="background:var(--loss)"></span>Net loss</span>
+    <span><span class="sw line" style="background:var(--jer)"></span>Payments to founder &amp; personal creditors (independent scale)</span>
+  </div>
+  <div id="chMain"></div>
+  <p class="fine">* 2026 = January–July, per the Finaloop ledger at the July 22 export. The 2025 net result of
+  ($115,190) includes $156,642 of one-time employee-retention-credit income; the operating result was ($271,832),
+  shown as the lighter extension.</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">EXHIBIT B</span><h2 class="ex-title">Statements to investors vs. general ledger</h2></div>
+  <p class="ex-sub">Six figures from the July 2026 investor documents, with the corresponding ledger amounts.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--told)"></span>As stated to investors</span>
+    <span><span class="sw" style="background:var(--books)"></span>Per general ledger</span>
+  </div>
+  <div class="pairs" id="pairs"></div>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">EXHIBIT C</span><h2 class="ex-title">Reimbursement documentation, by year</h2></div>
+  <p class="ex-sub">Payments to the founder and his personal accounts, divided between amounts with itemized
+  ledger entries and amounts without.</p>
+  <div class="legend">
+    <span><span class="sw" style="background:var(--docfill);border:1px solid var(--baseline)"></span>Itemized in ledger</span>
+    <span><span class="sw" style="background:var(--jer)"></span>No itemization located</span>
+  </div>
+  <div id="chDoc"></div>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">EXHIBIT D</span><h2 class="ex-title">Performance, draws, and documentation</h2></div>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Year</th><th>Net result</th><th>Total liabilities</th><th>Payments to founder</th><th>Itemized</th><th>Not itemized</th></tr></thead>
+    <tbody>
+      <tr><td>2022</td><td>($30,966)</td><td>$502,261</td><td>$46,200</td><td>$46,188</td><td>~$0</td></tr>
+      <tr><td>2023</td><td>($564,654)</td><td>$869,363</td><td>$30,300</td><td>$39,474</td><td>$0</td></tr>
+      <tr><td>2024</td><td>($294,663)</td><td>$699,125</td><td>$83,000</td><td>$80,691</td><td>~$2,300</td></tr>
+      <tr><td>2025</td><td>($115,190)</td><td>$805,512</td><td>$116,025</td><td>$22,612</td><td>$93,413</td></tr>
+      <tr><td>2026 · 7 mo</td><td>($57,300)</td><td>$907,500</td><td>$50,316</td><td>$0</td><td>$50,316</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="fine">Net results per the QuickBooks profit-and-loss reports (2022 computed from the full general
+  ledger by the same account structure; the method reproduces the 2023–2025 reports to the dollar). 2025
+  includes $156,642 of one-time employee-retention-credit income; the operating result was ($271,832). 2026 is
+  the seven-month result and balances per the Finaloop ledger at the July 22 export. Liability totals include
+  trade payables, $176,914 of wages accrued to the founder, and the $69,440 loan described to investors as
+  forgiven. The July 2026 documents stated year-end 2025 liabilities of $736,000.</p>
+</section>
+
+<section class="exhibit">
+  <div class="ex-head"><span class="ex-label">EXHIBIT E</span><h2 class="ex-title">Proposed next steps</h2></div>
+  <ol class="asks">
+    <li><div><b>Records request.</b> Existing documents only: federal returns and K-1s, any Form 2553, the December 2025 Finaloop report, bank statements, written creditor agreements, and member consents.</div></li>
+    <li><div><b>Tax classification.</b> The form number on the members' K-1 packages — Form 1065 (partnership) or Form 1120-S (S corporation) — determines whether a corporate member is permissible.</div></li>
+    <li><div><b>Defer commitments.</b> No loan-resumption or deferral decisions until the requested records are received.</div></li>
+    <li><div><b>Counsel review.</b> The written statements in the investor documents, reviewed against the company's records.</div></li>
+  </ol>
+</section>
+
+<footer>
+  Sources: Bravado Spice LLC QuickBooks (2020–2026), Finaloop general ledger (export of Jul 23, 2026),
+  QuickBooks audit logs, and the investor communications of Oct 2024, Jul 22 2026, and Aug 24 2026. Figures are
+  as recorded in those documents and ledgers; no legal conclusions are asserted. Workings: seven analysis memos
+  in the shared repository.
+</footer>
+</div>
+<div id="tip" role="presentation"></div>
+
+<script>
+const YEARS = ['2022','2023','2024','2025','2026*'];
+const fmtK = n => n>=1e6 ? '$'+(n/1e6).toFixed(2)+'M' : '$'+Math.round(n/1e3)+'K';
+const fmt  = n => '$'+Math.round(n).toLocaleString('en-US');
+const tip = document.getElementById('tip');
+function bindTips(root){
+  root.querySelectorAll('[data-tip]').forEach(el=>{
+    el.addEventListener('mousemove',e=>{ tip.textContent=el.dataset.tip; tip.style.opacity=1;
+      tip.style.left=Math.min(e.clientX+14, innerWidth-280)+'px'; tip.style.top=(e.clientY+16)+'px';});
+    el.addEventListener('mouseleave',()=>tip.style.opacity=0);
+  });
+}
+const NS='http://www.w3.org/2000/svg';
+function svgEl(tag,attrs){const e=document.createElementNS(NS,tag);for(const k in attrs)e.setAttribute(k,attrs[k]);return e;}
+function roundTop(x,y,w,h,r){ if(h<=r) r=Math.max(0,h-1);
+  return `M${x} ${y+h} L${x} ${y+r} Q${x} ${y} ${x+r} ${y} L${x+w-r} ${y} Q${x+w} ${y} ${x+w} ${y+r} L${x+w} ${y+h} Z`;}
+function roundBottom(x,y,w,h,r){ if(h<=r) r=Math.max(0,h-1);
+  return `M${x} ${y} L${x+w} ${y} L${x+w} ${y+h-r} Q${x+w} ${y+h} ${x+w-r} ${y+h} L${x+r} ${y+h} Q${x} ${y+h} ${x} ${y+h-r} Z`;}
+
+const debt=[502261,869363,699125,805512,907500];
+const loss=[30966,564654,294663,115190,57300];        // net loss, shown downward
+const lossWash=[0,0,0,156642,0];                       // 2025 pre-credit extension
+const jer=[46200,30300,83000,116025,50316];
+
+// EXHIBIT A — single combined chart: liabilities up, losses down, founder line overlaid on its own scale
+(function(){
+  const W=800,H=396,padL=8,padR=8;
+  const y0=234;                       // shared baseline
+  const PPD=5000;                     // dollars per px for both bar directions
+  const svg=svgEl('svg',{viewBox:`0 0 ${W} ${H}`});
+  const n=YEARS.length, slot=(W-padL-padR)/n, bw=24;
+  const yLine=v=>y0-88-(v/130000)*112;   // independent scale for the line, over the upper bars
+  svg.appendChild(svgEl('line',{x1:padL,x2:W-padR,y1:y0,y2:y0,stroke:'var(--baseline)','stroke-width':1}));
+  for(let i=0;i<n;i++){
+    const cx=padL+slot*i+slot/2, x=cx-bw/2, yr=YEARS[i].replace('*','');
+    // year label at the bottom
+    const t=svgEl('text',{x:cx,y:H-6,'text-anchor':'middle','class':'axis'}); t.textContent=YEARS[i]; svg.appendChild(t);
+    // liabilities, upward
+    const dh=debt[i]/PPD, dtop=y0-dh;
+    const db=svgEl('path',{d:roundTop(x,dtop,bw,dh,4),fill:'var(--books)'});
+    db.dataset.tip=yr+(i==4?' (Jul 22, Finaloop)':'')+'\nTotal liabilities '+fmt(debt[i]); svg.appendChild(db);
+    const dl=svgEl('text',{x:cx,y:dtop-6,'text-anchor':'middle','class':'val'}); dl.textContent=fmtK(debt[i]); svg.appendChild(dl);
+    // net loss, downward
+    const lh=loss[i]/PPD;
+    const lb=svgEl('path',{d:roundBottom(x,y0,bw,lh,4),fill:'var(--loss)'});
+    lb.dataset.tip=yr+'\nNet loss '+fmt(loss[i])+(lossWash[i]?'\nOperating loss $271,832\n(one-time $155K credit in between)':''); svg.appendChild(lb);
+    let lEnd=y0+lh;
+    if(lossWash[i]>0){
+      const wh=lossWash[i]/PPD;
+      const wr=svgEl('rect',{x,y:lEnd+2,width:bw,height:wh-2,fill:'var(--loss)',opacity:.18,rx:4});
+      wr.dataset.tip=lb.dataset.tip; svg.appendChild(wr); lEnd+=wh;
+    }
+    const ll=svgEl('text',{x:cx,y:lEnd+15,'text-anchor':'middle','class':'val'});
+    ll.textContent = lossWash[i]>0 ? '$115K → $272K*' : fmtK(loss[i]); svg.appendChild(ll);
+  }
+  // founder-payments line, independent scale, drawn last so it sits over the bars
+  let d=''; const pts=[];
+  for(let i=0;i<n;i++){const cx=padL+slot*i+slot/2, cy=yLine(jer[i]); pts.push([cx,cy]); d+=(i?'L':'M')+cx+' '+cy+' ';}
+  svg.appendChild(svgEl('path',{d,fill:'none',stroke:'var(--jer)','stroke-width':2,'stroke-linejoin':'round','stroke-linecap':'round'}));
+  pts.forEach((p,i)=>{
+    svg.appendChild(svgEl('circle',{cx:p[0],cy:p[1],r:6,fill:'var(--surface)'}));
+    const c=svgEl('circle',{cx:p[0],cy:p[1],r:4.5,fill:'var(--jer)'});
+    c.dataset.tip=YEARS[i].replace('*','')+'\nTo founder & personal creditors '+fmt(jer[i]); svg.appendChild(c);
+    const lab=svgEl('text',{x:p[0],y:p[1]-11,'text-anchor':'middle','class':'val'}); lab.textContent=fmtK(jer[i]); svg.appendChild(lab);
+  });
+  const m=document.getElementById('chMain'); m.appendChild(svg); bindTips(m);
+})();
+
+// EXHIBIT B — stated vs ledger
+const pairs=[
+ {label:'2025 net loss',            told:46157,  books:115190, chip:'2.5×'},
+ {label:'2025 operating expenses',  told:353657, books:422690, chip:'+$69,033'},
+ {label:'2026 operating loss, Jan–Jun', told:21974, books:57295, chip:'2.6×'},
+ {label:'“The $75K I have drawn”', told:75000, books:168854, chip:'2.3×'},
+ {label:'Cash in the bank, July 7', told:107,    books:2379,  chip:'22×'},
+ {label:'Total liabilities, end of 2025', told:736000, books:805512, chip:'+$69,440'},
+];
+const pw=document.getElementById('pairs');
+pairs.forEach(p=>{
+  const mx=Math.max(p.told,p.books);
+  const row=document.createElement('div'); row.className='pair';
+  row.innerHTML=`<div class="plabel"><b>${p.label}</b><span class="chipd">${p.chip}</span></div>
+  <div class="bars">
+    <div class="btag">STATED</div><div class="btrack"><div class="bfill" style="background:var(--told);width:${Math.max(0.5,p.told/mx*72)}%"></div><span class="bval" style="left:${Math.max(0.5,p.told/mx*72)}%">${fmt(p.told)}</span></div>
+    <div class="btag">LEDGER</div><div class="btrack"><div class="bfill" style="background:var(--books);width:${p.books/mx*72}%"></div><span class="bval" style="left:${p.books/mx*72}%">${fmt(p.books)}</span></div>
+  </div>`;
+  pw.appendChild(row);
+});
+
+// EXHIBIT C — itemized vs not, stacked
+(function(){
+  const doc=[46188,30300,80691,22612,0], und=[0,0,2309,93413,50316];
+  const W=800,H=190,padL=8,padR=8,padB=22,padT=20,max=130000;
+  const svg=svgEl('svg',{viewBox:`0 0 ${W} ${H}`});
+  const n=5, slot=(W-padL-padR)/n, bw=24;
+  svg.appendChild(svgEl('line',{x1:padL,x2:W-padR,y1:H-padB,y2:H-padB,stroke:'var(--baseline)','stroke-width':1}));
+  for(let i=0;i<n;i++){
+    const cx=padL+slot*i+slot/2, x=cx-bw/2, yr=YEARS[i].replace('*','');
+    const t=svgEl('text',{x:cx,y:H-6,'text-anchor':'middle','class':'axis'}); t.textContent=YEARS[i]; svg.appendChild(t);
+    const dh=(H-padT-padB)*doc[i]/max, uh=(H-padT-padB)*und[i]/max;
+    if(doc[i]>0){const r=svgEl('rect',{x,y:(H-padB)-dh,width:bw,height:dh,fill:'var(--docfill)'});
+      r.dataset.tip=yr+'\nItemized '+fmt(doc[i]); svg.appendChild(r);}
+    let stackTop=(H-padB)-dh;
+    if(und[i]>0){const top=(H-padB)-dh-uh-(doc[i]>0?2:0);
+      const r=svgEl('path',{d:roundTop(x,top,bw,uh,4),fill:'var(--jer)'});
+      r.dataset.tip=yr+'\nNot itemized '+fmt(und[i])+'\nItemized '+fmt(doc[i]); svg.appendChild(r); stackTop=top;}
+    const lab=svgEl('text',{x:cx,y:stackTop-6,'text-anchor':'middle','class':'val'});
+    lab.textContent = und[i]>10000 ? fmtK(und[i]) : fmtK(doc[i]+und[i]);
+    svg.appendChild(lab);
+  }
+  document.getElementById('chDoc').appendChild(svg); bindTips(document.getElementById('chDoc'));
+})();
+</script>

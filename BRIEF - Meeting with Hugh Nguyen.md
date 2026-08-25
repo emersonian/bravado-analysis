@@ -52,6 +52,17 @@ Each of these is a statement of **existing fact** (not a forecast), made in writ
 
 Set aside any single misstatement. Here is what the ledgers show happened while we were being told a story of founder sacrifice:
 
+**The five-year picture (companion chart deck: "Bravado, by the Books" artifact):**
+
+| Year | Company net result | Company total debt | Cash to Jer | Documented | Undocumented |
+|---|---:|---:|---:|---:|---:|
+| 2022 | ($30,966) | $502,261 | $46,200 | $46,188 | ~$0 |
+| 2023 | ($564,654) | $869,363 | $30,300 | $39,474 | $0 |
+| 2024 | ($294,663) | $699,125 | $83,000 | $80,691 | ~$2,300 |
+| 2025 | ($115,190) | $805,512 | $116,025 | $22,612 | $93,413 |
+| 2026 · 7 mo | ($57,300) | $907,500 | $50,316 | $0 | $50,316 |
+
+
 | Period | What he told investors | What the ledger shows |
 |---|---|---|
 | 2025 | "Took outside jobs to put more money in; skipped my own paychecks" | ~**$93K net out to Jer** or his personal creditors, already net of his $22.6K documented reimbursements† (bi-monthly draws + company paying his personal cards, incl. a $10,891 Apple Card payment). Meanwhile ~$480K of one-time cash (SBA $326K + ERC $155K) came in — and the year still ended with **$3,146**. |

@@ -20,17 +20,15 @@ One more piece of their judgment is on the record. In **January–February 2025*
 
 All figures from the general ledger; payments classified by their bank descriptions.
 
-| Year | Cash out to Jer / his creditors | Substantiated by itemized split JEs | Payments left charged against accrued wages | Unsubstantiated excess (accountants' sweep or balance) | Jer's wages booked for the year (paid + newly accrued)¹ | Company net income (loss) for the year² | Company total liabilities at year-end³ |
-|---|---|---|---|---|---|---|---|
-| 2022 | ~$46,200 | **$46,188** | — | ~$0 (account netted flat) | not separable (Gusto-aggregated; no accrual account yet) | n/a — no 2022 P&L in the record (CFO trend sheet shows negative operating cash) | **$502,261** |
-| 2023 | ~$30,300 | **$39,474** | $0 | $0 — substantiation *exceeded* payments; company owed Jer $9,132 at YE | **$68,750** accrued unpaid (account established; may include earlier periods) | **($564,654)** | **$869,363** |
-| 2024 | ~$83,000 | **$45,047** | **$35,644** (real paydown of accrued wages) | small; swept $21,315 to "Due from Jer" at YE (incl. prior balances) | **$74,775** ($35,644 paid + $39,131 newly accrued) | **($294,663)** | **$699,125** (down — $200K Nguyen wire converted/reclassed to equity and loan; $100K+ of old credit lines retired) |
-| 2025 | **$116,025** ($110,694 via 33500 + $5,331 draws) | **$22,612** | $0 — every wage-charged payment was reversed out by the accountants | **$93,413** | **$69,033** accrued, $0 paid as wages | **($115,190)** — and ($271,832) operating, before the one-time $155K ERC | **$805,512** (up $106K despite the ERC — the $326K of new SBA money became new long-term debt) |
-| 2026 (Jan–Jul, Finaloop) | $50,316 | **$0** | $0 (no payroll to him at all) | $49,392 after $924 was flagged personal → his receivable | **$0** — no pay to him through payroll; cash moved as distributions/"reimbursements" instead | ≈ **($57,300)** operating, Jan–Jul (Finaloop ledger reconstruction) | ≈ **$907,500** (Finaloop, Jul 22) — vs. "$736K" told to investors for YE-2025 and "$572,715 + carve-outs" in August |
+| Year | Cash to Jer | Documented | Undocumented | Jer wages booked | Company net result | Company total debt |
+|---|---:|---:|---:|---:|---:|---:|
+| 2022 | $46,200 | $46,188 | ~$0 | n/a | ($30,966) | $502,261 |
+| 2023 | $30,300 | $39,474 | $0 | $68,750 | ($564,654) | $869,363 |
+| 2024 | $83,000 | $80,691 | ~$2,300 | $74,775 | ($294,663) | $699,125 |
+| 2025 | $116,025 | $22,612 | $93,413 | $69,033 | ($115,190) | $805,512 |
+| 2026 · 7 mo | $50,316 | $0 | $50,316 | $0 | ($57,300) | $907,500 |
 
-¹ *"Wages booked" and the cash-out columns overlap by design, not double-count: the accrued wages are the liability his draws were later argued to net against. His W-2 salary actually paid through Gusto in earlier years cannot be isolated per person (Gusto posts aggregate journal entries); the accrual account begins with the $68,750 opening balance dated 2023.*
-² *QuickBooks net income per year; 2026 is the Finaloop-based operating reconstruction through the Jul 23 export.*
-³ *Total liabilities per the QuickBooks balance sheet at each December 31 (Dec 2022 $502,261; Dec 2023 $869,363; Dec 2024 $699,125; Dec 2025 $805,512), and per Finaloop's account balances at the Jul 22–23, 2026 export (~$907.5K — the sum of its liability accounts: vendors' bills $176K, payroll payable to Jer $177K, SBA $348K, Nguyen $89K, Tallerine LOC $69K, OnDeck/Amex/Shopify ~$40K, cards and deferred revenue ~$12K). These totals include trade A/P, the accrued wages to Jer, and the father's "forgiven" $69,440 LOC — all of which the investor presentations carve out to reach smaller headline numbers ($736K, then $572,715). Note the arc this column adds: liabilities never fell below half a million dollars in five years, and rose ~$102K from the end of 2024 (when Comatri invested) to mid-2026 — the period covered by the "triage worked" narrative. The juxtaposition to notice: in every year from 2023 on, Jer's booked compensation plus unsubstantiated cash-out ran at $69K–$162K while the company lost $115K–$565K — his economics were the most protected line in the business.*
+Notes: "Documented" = itemized split journal entries plus, in 2024, $35,644 properly charged against accrued wages. "Undocumented" = the accountants' own sweep balances. Jer's Gusto W-2 salary in early years is not separable by person. The 2022 net result has no standalone P&L export; it is computed from the full general ledger using QuickBooks' own P&L account structure — a method that reproduces the official 2023–2025 reports to the dollar (same computation: 2021 = ($116,154), 2020 = $309,938). 2025 net result includes the one-time $155K ERC; operating loss was ($271,832). 2026 is the Finaloop reconstruction through Jul 23; its debt figure is Finaloop's account balances, which include trade A/P, the $176,914 accrued wages, and the "forgiven" $69,440 — items the investor presentations carve out to reach $736K and then $572,715. Debt never fell below half a million dollars in five years and rose ~$102K from Comatri's investment (late 2024) to mid-2026.
 
 Three things jump out:
 
