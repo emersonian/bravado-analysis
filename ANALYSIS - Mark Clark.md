@@ -63,6 +63,18 @@ Clark's "Jer Accts" tab led straight to this, verified in the general ledger:
 - **And he is the knowledge nexus**: the person who introduced Hugh, built the draw ledger, flagged discretionary payments, edited the wage accrual, and then — as far as any record shows — stayed silent while documents contradicting his own workpapers went to the investors he brought in.
 - The fair characterization for Hugh: *"I'm not accusing Mark of anything. But the person who brought you in has five conflicting roles, an undisclosed $25,000 claim on the company, and provably knew both facts the July document got wrong. He is a witness and a conflicted party — he cannot be our referee."*
 
+## 5a. Mark's Aug 25, 2026 email — his claims vs. the records
+
+Mark wrote to Blake: *"I have not been the company's fractional CFO for quite some time. I am available to help Jer informally as needed but at this point my only relationship with the company is as an investor."* Checked against the records:
+
+| Claim | What the records show |
+|---|---|
+| "Not the fractional CFO for quite some time" | His **paid monthly engagement ran through mid/late 2025**: $2,500 bills to Professional Fees monthly Jan–Aug 2025 ($20,000), payments through **Sep 18, 2025** — the same day Jer *deleted* a further $2,500 Clark bill and its invoice attachment. "Quite some time" is therefore ~11 months as to *fees* — but his **last substantive work in QuickBooks is Apr 8, 2026**: he signed in and edited **AJE-547, the $69,033 founder wage accrual**, twice on Mar 31, 2026 and twice on Apr 8, 2026 (his only ledger edits ever). Editing the founder's wage-accrual journal entry ~4.5 months before this email is CFO-type work, whatever the title. |
+| "Only relationship is as an investor" | Three other relationships exist in the current records: (1) **creditor for services** — Finaloop carries a **$25,000 A/P balance to Mark Clark at 12/31/2025, classified "Other professional services,"** still on the books at the Jul 23, 2026 export and absent from every investor debt table; (2) **designated operator-contact** — on Jul 21, 2026 Jer named Mark (with Marissa) as a **primary contact while Jer took ~10 days away**, one month before this email; (3) former lender — his $5,000 loan was repaid/offset to zero by May 16, 2025, while trade creditors stretched. The investor relationship is real too: "Capital - Mark Clark" $39,000 in Finaloop. |
+| "Available to help Jer informally" | Consistent with the record — the pattern of sign-ins without edits, the budget workbooks, the Jan 2025 discipline email. But "informal" help that includes editing journal entries in the general ledger is participation in the accounting, not observation of it. |
+
+Read fairly: the email is not flatly false — the *paid title* likely did lapse in 2025 — but it is materially incomplete. The precise reply-questions it invites: **On what date did your engagement end, and is the $25,000 payable to you at 12/31/2025 accurate?** Both are documents-based, neither is accusatory, and both are already in the records request. His answer to the second question also tests the investor documents, since no debt schedule shown to investors includes it.
+
 ## 6. Questions to put to Mark (through Hugh or directly)
 
 1. Did you review the July 2026 State of the Business before it was sent? Did you know its 2025 figures exclude AJE-547, the entry you edited in March–April?
