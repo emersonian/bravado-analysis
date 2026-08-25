@@ -24,7 +24,7 @@ The deferred-wages row states his $176,914 of unpaid wages nets against **$75K**
 | "53000 Jer's Draw" | $5,330.80 |
 | **Total drawn** | **$168,853.89** |
 
-The claim counts only the first line. Actual net position: $176,914 − $168,854 = **~$8,060** owed to him — not ~$101K. The draw figure was understated by **$93,854** in a document promising every number was real. (Finaloop's 2026 migration puts the net even less favorably to him.)
+The claim counts only the first line. Actual net position: $176,914 − $168,854 = **~$8,060** owed to him — not ~$101K. The draw figure was understated by **$93,854** in a document promising every number was real. (Finaloop's 2026 migration puts the net even less favorably to him.) *Methodology note: the $168,854 is by construction already net of all substantiated, itemized reimbursements — the documented credits were applied to these accounts before the balances were struck. The year-by-year substantiation record, and the finding that his "$75K" is precisely the pre-2025 balance of the accountants' own unsubstantiated-draw sweep account, are in `ANALYSIS - Reimbursement Legitimacy.md`.*
 
 ### 2.2 "Holiday projections were deliberately tempered to 2-3x our verified baseline rather than the 6x a spreadsheet would let you dream"
 

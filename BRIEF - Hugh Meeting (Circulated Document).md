@@ -63,7 +63,7 @@
 
 ## 4. The timing v4 never disclosed: the money moved out *before* the crisis
 
-v4 blamed the 2026 collapse on consumer spending and Buc-ee's. What it never mentioned: in **January–February 2026 — the two strongest collection months — ~$33.2K moved to Jer's personal accounts**, immediately before the company hit the floor (from the Finaloop ledger, accounts "Distributions – Jeremiah Tallerine" and "Reimbursements to owners"):
+v4 blamed the 2026 collapse on consumer spending and Buc-ee's. What it never mentioned: in **January–February 2026 — the two strongest collection months — ~$33.2K moved to Jer's personal accounts** (~$17.5K as distributions, unambiguously personal; ~$15.8K as unsubstantiated card-bill payments), immediately before the company hit the floor (from the Finaloop ledger, accounts "Distributions – Jeremiah Tallerine" and "Reimbursements to owners"):
 
 | Date | Ledger description | Amount | Booked as |
 |---|---|---|---|

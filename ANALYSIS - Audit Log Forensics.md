@@ -32,7 +32,7 @@ From the ledgers and audit log together, calendar 2025 received roughly **$480K 
 - SBA disaster loan disbursements: **$25,000 (Dec 27 2024) + $226,200 (Jan 3 2025) + $100,000 (Jul 26 2025) = $351,300** ("SBAD TREAS 310" deposits in the GL);
 - ERC / U.S. Treasury refunds totaling **$156,642** booked to 2025 other income (deposits of $10,196, $7,053, $7,329, $62,268, $14,443, and others logged Jan–Dec 2025).
 
-Despite ~$480K of borrowings and refunds landing in a single year, 2025 ended with **$3,146** in the bank — while (per the GL analysis in the companion report) **~$93K net moved to Jeremiah or his personal creditors** during that same year. The July deck says the ERC "went to debt, inventory, and survival."
+Despite ~$480K of borrowings and refunds landing in a single year, 2025 ended with **$3,146** in the bank — while (per the GL analysis in the companion report) **~$93K net moved to Jeremiah or his personal creditors** during that same year — a figure already net of his $22,612 of documented, itemized reimbursements; per the methodology amendment in `ANALYSIS - Reimbursement Legitimacy.md`, ~$66K of it is presumptively personal (fixed transfers to his personal bank accounts) and ~$27K awaits classification against his card statements. The July deck says the ERC "went to debt, inventory, and survival."
 
 ---
 
