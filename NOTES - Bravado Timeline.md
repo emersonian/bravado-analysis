@@ -16,11 +16,11 @@
 
 **2024-04-22** — Hugh & Christy's $200k is reclassified as $100k loan + $100k equity (papered by CPA William S. Annon, months after the wire).
 
-**2024-07-22** — **Comatri's first investment: $15,010** lands in Chase savings (via Coinbase ACH; the accountants book it to an equity account the bank feed names "Member Equity - Coinbase"). This is ~10 weeks before the pitch deck and 4 months before any agreement is signed.
+**2024-07-21/22** — **First Comatri investment agreement signed** (Company Jul 21, Investor Jul 22): $15,000 for a 3% membership interest, "payment has already been collected," effective July 22, with an option to invest up to $35,000 more for up to another 7% "by Oct 2, 2024 at this same valuation." The Company represents (§2) that it is duly registered, that "pursuant to the Company's Operating Agreement, all approvals have been acquired," that no legal action is pending, and that it is "current in all tax filings and there are no outstanding assessments or other liabilities." **Comatri's first investment: $15,010** lands in Chase savings the same day (via Coinbase ACH; the accountants book it to an equity account the bank feed names "Member Equity - Coinbase"). *(Ledger note: on that date the balance sheet showed ~$660,797 of total liabilities, including a $6,441 remnant of deferred 2020 employer Social Security tax whose CARES Act payment deadline was Dec 31, 2022 — see `ANALYSIS - First Comatri Agreement Reps` section of the forgiven-loan memo.)*
 
 **2024-10-02** — Jer pitches Blake (the "To Blake Only" materials, including the purchase-order history).
 
-**2024-11-26** — **Comatri investment agreement signed.**
+**2024-11-26** — **Second Comatri investment agreement signed.** (The July agreement's $35,000 option had expired Oct 2, 2024; the December investment was made under this fresh agreement.)
 
 **2024-12-02** — **Comatri's second investment: $35,000** (Coinbase ACH, six days after signing). Comatri total: **$50,010**. No member-equity account in either ledger ever carries Comatri's name.
 
@@ -53,8 +53,8 @@
 | Date | Investor | Amount | Form |
 |---|---|---|---|
 | Dec 29, 2023 | Hugh & Christy Nguyen | $200,000 | Wire, "EQUITY INVESTMENT"; split $100k loan / $100k equity by CPA entry Apr 2024 |
-| Jul 22, 2024 | Comatri, Inc. | $15,010 | Coinbase ACH — pre-agreement |
-| Dec 2, 2024 | Comatri, Inc. | $35,000 | Coinbase ACH — 6 days after the Nov 26 agreement |
+| Jul 22, 2024 | Comatri, Inc. | $15,010 | Coinbase ACH — first agreement signed Jul 21–22, 2024 ($15,000 / 3%) |
+| Dec 2, 2024 | Comatri, Inc. | $35,000 | Coinbase ACH — 6 days after the Nov 26 second agreement (July option had expired Oct 2) |
 | Apr 29, 2026 | Blake Benthall (personal) | $7,500 | One-month bridge loan, $8,500 due; never booked |
 | May 1, 2026 | (under verification) | $4,600 | Capital One transfer, booked to "Capital - Blake Benthall" |
 
