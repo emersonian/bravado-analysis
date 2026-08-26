@@ -23,7 +23,7 @@ He also apparently went unpaid in 2026 (Finaloop shows ~$319 of total "other pro
 | Date | Amount | Outcome |
 |---|---|---|
 | **Nov 8, 2023** | $14,000 in | Converted to equity **Dec 31, 2023** ("Offsetting the Loans to the equity") — seven weeks before he introduced Hugh, whose $200,000 wire landed Dec 29, 2023 |
-| **Aug 27, 2024** | $5,000 in | Settled **May 16, 2025** by *offset*: a $5,000 bill titled "Loan repayment" was booked to A/P and cleared against the loan account — no cash left the company |
+| **Aug 27, 2024** | $5,000 in | **Repaid in cash May 16, 2025**: a bill charged to "Loan From Mark Clark" was raised and paid the same day by check from Chase Checking 5189, zeroing the loan. (Correcting an earlier reading of this as a non-cash offset — the bank register shows the $5,000 leaving.) |
 
 **His $39,000 equity was not purchased with cash.** It was assembled from debt in three steps:
 
@@ -38,7 +38,11 @@ He also apparently went unpaid in 2026 (Finaloop shows ~$319 of total "other pro
 
 **So: the company owes Mark Clark $25,000**, and QuickBooks overstates it by $25,000 through a double-count. Both numbers are absent from every investor debt schedule.
 
-**The cash-flow shape of the engagement matters.** In **2024 he billed $30,000 and was paid nothing at all** through A/P — his balance simply accrued during his most active year in the books (72 sessions, both Comatri investments). In **2025 the flow reversed**: he collected $25,000 of value ($20,000 cash + the $5,000 loan offset) in the same months SBG, rent, Uline, and Berlin Packaging were going past due. A consultant whose fees are piling up unpaid has little leverage over the founder — relevant context when weighing his silences in 2024 — but the 2025 ordering is a genuine preference question.
+**The cash-flow shape of the engagement matters.** In **2024 he billed $30,000 and was paid nothing at all** through A/P — his balance simply accrued during his most active year in the books (72 sessions, both Comatri investments). In **2025 the flow reversed**: he received **$22,500 in cash** ($17,500 of fees plus the $5,000 loan repayment) in the same months SBG, rent, Uline, and Berlin Packaging were going past due. A consultant whose fees are piling up unpaid has little leverage over the founder — relevant context when weighing his silences in 2024 — but the 2025 ordering is a genuine preference question.
+
+**Last payment of any kind: September 18, 2025 — $2,500**, by check from Chase Checking 5189. Nothing has been paid to him since, in either accounting system: the Finaloop ledger (Jan 1 – Jul 22, 2026) records no payment to Clark at all, and total "Other professional services" expense for 2026 year-to-date is $319.27, none of it his. As of the August 2026 records he has gone roughly eleven months unpaid while carrying a $25,000 receivable.
+
+**A bookkeeping note on the final bills.** The four monthly fee bills for May, June, July and August 2025 ($10,000 total) were not entered into QuickBooks when incurred — Strata Cloud Accountants created all four on **February 19, 2026**, dated back to 2025, one week before the same firm created AJE-547 (Feb 26, 2026). Both are year-end 2025 accrual work done in early 2026.
 
 **One bookkeeping artifact worth noting.** On **Feb 15, 2025** a $2,500 payment left Chase Checking with the memo, in the bookkeeper's own words: ***"Is this payment to Mark Clark?"*** — and, unanswered, it was ultimately classified as **Jer's Draw** ("//Uncat//jer's draw"). An unlabeled $2,500 transfer that the bookkeepers could not distinguish between "the CFO's monthly fee" and "the founder's personal draw" is a small but concrete illustration of how little documentation supported the outflows.
 
