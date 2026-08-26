@@ -75,6 +75,29 @@ Mark wrote to Blake: *"I have not been the company's fractional CFO for quite so
 
 Read fairly: the email is not flatly false — the *paid title* likely did lapse in 2025 — but it is materially incomplete. The precise reply-questions it invites: **On what date did your engagement end, and is the $25,000 payable to you at 12/31/2025 accurate?** Both are documents-based, neither is accusatory, and both are already in the records request. His answer to the second question also tests the investor documents, since no debt schedule shown to investors includes it.
 
+## 5b. Mark's Aug 25, 2026 text to Hugh (the S-corp admission) — vs. his access at the time
+
+Mark texted Hugh (screenshot preserved at `Correspondence/2026-08-25 - Mark Clark text to Hugh re S corp.jpg`): *"Update. Bravado is an S corp. However Blake's investment in Bravado was via his C corp which is not allowed under S corp rules. Absent amending the investment to be personal by Blake, the S election would be invalidated. **I had thought this adjustment was made but apparently it wasn't.** … given the current situation, there would be no k1 for the shareholders for 2025."* (In the same thread Hugh writes he "found my 2024" — Hugh holds a 2024 K-1 package.)
+
+**What Mark's access and role were when Comatri invested:**
+
+| Fact | Record |
+|---|---|
+| On paid retainer during both investments | $30,000 of Professional Fees billed in 2024 at the $2,500/month cadence — including July and December 2024 |
+| Active in the books around investment #1 | QuickBooks sign-ins **Jul 25, 2024** (three days after the $15,010 landed and the first agreement was signed), Jul 31, and Aug 2 — the window in which the accountants were rebooking the deposit into "Member Equity - Coinbase" (created Aug 16) |
+| Active in the books around investment #2 | Sign-ins Oct 8/13/15/17 (immediately after the Oct 2 pitch), Nov 14 (before the Nov 26 second agreement), and **Dec 17, 2024** — fifteen days after the $35,000 landed. 72 sessions in 2024, his most active year |
+| His own work product carried the investment | The budget workbook sent **"To Blake and Mark" on Jan 27, 2025** shows, on its balance-sheet tab, the row **"Coinbase — 15,010 … 50,010"** — Comatri's equity, tracked to the exact dollar |
+| He raised the money's source | He introduced Hugh (Dec 2023), and his historicals were the backbone of the Oct 2, 2024 materials that preceded Comatri's $35,000 |
+
+**What the text concedes, read against the records:**
+
+1. **"Bravado is an S corp" — first written confirmation**, from the man who was its paid fractional CFO. This settles the classification question the members have been asking about. Either the S election predates July 2024 — in which case accepting a C-corporation's investment on Jul 22, 2024 terminated it *on that day*, while the agreement Jer signed represented "all approvals have been acquired" — or the election was made after Comatri was already an owner, in which case it was invalid when filed and required shareholder consents (Form 2553) that Comatri/Blake never gave. There is no third branch.
+2. **"I had thought this adjustment was made"** — Mark states he believed Comatri's investment had already been converted to Blake-personal. So the conversion plan existed, he knew of it, and he assumed it was executed — all without Blake's consent ever being given. And in the *books* it **was** executed: Finaloop's "Capital - Blake Benthall" account holds Comatri's $50,010 via an opening-balance entry dated Dec 31, 2025 (see `ANALYSIS - Forgiven Loan and Comatri Retitle.md`). What "apparently wasn't" made is the legal amendment — because Blake refused it.
+3. **"No k1 for the shareholders for 2025"** — while the July 2026 private document told Blake "our K-1 filings are cash basis" for 2024. Hugh's 2024 K-1 package is now the single most valuable document in the case: its **form number** (1120-S vs. 1065) and its **shareholder list** will show what the company told the IRS about who owns it — and whether Comatri was omitted or replaced by Blake personally on a filed federal return.
+4. **"Really more a question for the tax accountant"** — from the person who was the paid CFO, with live books access, in the exact months the problem was created.
+
+**Immediate asks this text generates:** (a) Hugh photographs the first page and the shareholder/ownership page of his 2024 K-1; (b) the records request already covers the 2024 return, any Form 2553 with consents, and the Finaloop migration workpapers — this text is the reason they matter; (c) Mark's own words — "I had thought this adjustment was made" — invite the question *who was supposed to make it, on whose instruction, and where is Blake's consent?*
+
 ## 6. Questions to put to Mark (through Hugh or directly)
 
 1. Did you review the July 2026 State of the Business before it was sent? Did you know its 2025 figures exclude AJE-547, the entry you edited in March–April?
