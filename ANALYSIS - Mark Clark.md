@@ -9,12 +9,38 @@
 | Hat | Evidence |
 |---|---|
 | **Member/investor** | 500 shares (~4.7%); "Member Equity – Clark" $39,000, of which **$29,000 was his own debt converted to equity in the April 2024 restructure** — the same event that papered Hugh's loan/equity split |
-| **Paid consultant/CFO** | Professional fees: $7,500 (2022) + $25,000 (2023) + $30,000 (2024) + $20,000 (2025) = **$82,500**; ~$2,500/month cadence |
-| **Creditor** | Loans of $14,000 (2023) + $5,000 (2024); **repaid in full during 2025** — while SBG, rent, Uline, and Berlin Packaging went past due. Plus a **$25,000 payable to Clark at 12/31/2025** (Finaloop opening A/P, "Other professional services") that appears in **no investor debt table** — while a $344 Uline balance got its own row |
+| **Paid consultant/CFO** | Professional fees billed at $2,500/month under a written contract: **$7,500 (2022, from Oct) + $22,500 (2023) + $30,000 (2024) + $20,000 (2025, Jan–Aug) = $80,000**, plus $5,000 entered Apr 2024 as "overdue balance that have no invoice" = **$85,000 through A/P**. Engagement ran **Oct 2022 – Aug/Sep 2025 (~35 months)**; a Sept 2025 bill was created and **deleted by Jer on Sep 18, 2025**, the same day as the final payment |
+| **Creditor** | Loans of $14,000 (Nov 8, 2023) and $5,000 (Aug 27, 2024) — see §1a. Plus an open payable: **$25,000 owed at 12/31/2025** (Finaloop), which appears in **no investor debt table** while a $344 Uline balance got its own row |
 | **Books participant** | QB user since Oct 5, 2022; 200+ sign-in sessions through Apr 2026; author of the budget/forecast workbooks used in the Oct 2024 pitch |
 | **Investor-doc addressee** | Named addressee of the July 2026 State of the Business ("Prepared for our investors: Clark, Hugh Nguyen, Christy Nguyen, and Blake Benthal") |
 
 He also apparently went unpaid in 2026 (Finaloop shows ~$319 of total "other professional services" YTD), meaning his $25K receivable — and his equity — depend on the company surviving and on investors staying patient. He is not an independent party in any conversation about deferrals.
+
+## 1a. Clark's loans, equity, and the balance actually owed — reconciled
+
+**The two loans.** Both arrived as Wells Fargo Fedwires and **neither was ever repaid in cash**:
+
+| Date | Amount | Outcome |
+|---|---|---|
+| **Nov 8, 2023** | $14,000 in | Converted to equity **Dec 31, 2023** ("Offsetting the Loans to the equity") — seven weeks before he introduced Hugh, whose $200,000 wire landed Dec 29, 2023 |
+| **Aug 27, 2024** | $5,000 in | Settled **May 16, 2025** by *offset*: a $5,000 bill titled "Loan repayment" was booked to A/P and cleared against the loan account — no cash left the company |
+
+**His $39,000 equity was not purchased with cash.** It was assembled from debt in three steps:
+
+| Date | Entry | Amount | Source |
+|---|---|---|---|
+| Dec 31, 2023 | "Conversion of outstanding Debt to Equity" | $15,000 | **Unpaid consulting fees** — his A/P balance was exactly $15,000 that day (a $7,500 bill "To correct the balances in Dec" was entered the same day to true it up) |
+| Dec 31, 2023 | "Offsetting the Loans to the equity" | $14,000 | The November 2023 loan |
+| Dec 2, 2024 | "To convert the $10,000 overdue balance to equity" | $10,000 | **More unpaid consulting fees** |
+| | **Total → "Member Equity – Clark" / "Capital - Mark Clark"** | **$39,000** | of which **$25,000 is converted unpaid fees** and $14,000 is the converted loan |
+
+**The $50,000-vs-$25,000 discrepancy resolves cleanly — and Finaloop is right.** QuickBooks A/P shows $85,000 billed less $35,000 paid = **$50,000** still owed. But the two fee-to-equity conversions above ($15,000 + $10,000 = **$25,000**) were posted to equity **without ever being credited against Accounts Payable** — so QuickBooks counts that $25,000 twice, once as equity and once as a payable. $50,000 − $25,000 = **$25,000, exactly the Finaloop figure.**
+
+**So: the company owes Mark Clark $25,000**, and QuickBooks overstates it by $25,000 through a double-count. Both numbers are absent from every investor debt schedule.
+
+**The cash-flow shape of the engagement matters.** In **2024 he billed $30,000 and was paid nothing at all** through A/P — his balance simply accrued during his most active year in the books (72 sessions, both Comatri investments). In **2025 the flow reversed**: he collected $25,000 of value ($20,000 cash + the $5,000 loan offset) in the same months SBG, rent, Uline, and Berlin Packaging were going past due. A consultant whose fees are piling up unpaid has little leverage over the founder — relevant context when weighing his silences in 2024 — but the 2025 ordering is a genuine preference question.
+
+**One bookkeeping artifact worth noting.** On **Feb 15, 2025** a $2,500 payment left Chase Checking with the memo, in the bookkeeper's own words: ***"Is this payment to Mark Clark?"*** — and, unanswered, it was ultimately classified as **Jer's Draw** ("//Uncat//jer's draw"). An unlabeled $2,500 transfer that the bookkeepers could not distinguish between "the CFO's monthly fee" and "the founder's personal draw" is a small but concrete illustration of how little documentation supported the outflows.
 
 ## 2. What Clark knew, and when (the early-knowledge record)
 
