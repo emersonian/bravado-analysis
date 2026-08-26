@@ -18,7 +18,7 @@ He also apparently went unpaid in 2026 (Finaloop shows ~$319 of total "other pro
 
 ## 1a. Clark's loans, equity, and the balance actually owed — reconciled
 
-**The two loans.** Both arrived as Wells Fargo Fedwires and **neither was ever repaid in cash**:
+**The two loans.** Both arrived as Wells Fargo Fedwires; one became equity, the other was repaid in cash:
 
 | Date | Amount | Outcome |
 |---|---|---|
