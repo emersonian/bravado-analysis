@@ -51,7 +51,17 @@ He also apparently went unpaid in 2026 (Finaloop shows ~$319 of total "other pro
 1. **He watched everything.** His QB usage is almost entirely *reading*: 29 sessions in May 2024, 12 in **October 2024 (the Comatri pitch month)**, 39 across Jan–Apr 2025. In four years his only substantive ledger actions are the three AJE-547 edits (§3).
 2. **He authored the pitch model.** The budget workbooks carry his authorship metadata; the Oct 2024 package sent to Blake (2024/2025 budgets, income trend, the presentation that nets the one-time **AJE-229 $23,217 "per Jer this is not payable" write-off into June operating results**) is his work product. The historical columns in it are accurate to the dollar — the presentation choices are where the trouble lives.
 3. **He built a ledger of Jer's draws.** His workbook contains a **"Jer Accts" tab** — a transaction-level reconstruction of "Due From Jeremiah" and "Due to Jeremiah," tracing company payments of Jer's personal Citi/Capital One/Chase cards back to 2022. The tab does not exist in the Oct 2024 version of the file and does exist in the Jan 2025 version — Clark built it in roughly **Dec 2024–Jan 2025**.
-4. **He flagged the problem in writing — the same hour he saved that file.** The workbook's last-modified stamp is **Jan 16, 2025, 3:41 PM**; at 3:47 PM Clark emailed Jer: *"let's not make any discretionary cash payments until sales get back in line."* The CFO had just itemized the founder's draw accounts and told him to stop discretionary outflows. **The draws continued all year (~$93K net in 2025).**
+4. **He flagged the problem in writing — the same hour he saved that file.** The workbook's last-modified stamp is **Jan 16, 2025, 3:41:50 PM** (Central; `lastModifiedBy: mark clark`); at **3:47 PM** — six minutes later — Clark emailed Jer from mark@clarkcfo.com, subject "2025 Budget attached":
+
+   > Items in red for discussion:
+   > - December financial questions/corrections (column AX) with DeEtte
+   > - 2025 budget assumptions (column BN)
+   >
+   > We can discuss on Tuesday, but for now, **let's not make any discretionary cash payments until sales get back in line.**
+
+   The CFO had just itemized the founder's draw accounts and told him to stop discretionary outflows. **The draws continued all year (~$93K net in 2025).** Jer forwarded the message to Blake on **Jan 27, 2025 at 6:45 PM** (`Jer to Investors/2025-01-27 - To Blake and Mark/Fwd_ 2025 Budget attached.eml`), which is how it entered the record.
+
+   **He was unpaid when he wrote it.** On Jan 16, 2025 his last cash payment from Bravado was **March 23, 2023 — twenty-two months earlier**. QuickBooks showed $47,500 owed to him that day (~$22,500 after removing the double-counted equity conversions). The first payment of the 2025 cycle did not arrive until Feb 11, 2025. So the clearest evidence that he was still performing the CFO function — reviewing the prior month's financials, setting budget assumptions, and directing company cash policy — dates from a period in which he had been receiving nothing for nearly two years.
 5. **He edited the wage-accrual entry** (§3) in the six weeks before investor documents were issued that exclude its effect — documents addressed to him — whose "$75K I have drawn" claim is contradicted by his own Jer Accts tab.
 
 ## 3. The AJE-547 edits — what they were, and whether they matter
