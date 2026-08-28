@@ -56,23 +56,27 @@ NOTES BEFORE YOU SEND - not part of the email
 SHORT VERSIONS - for "briefly describe your situation" intake fields
 =====================================================================
 
-STANDARD (about 100 words - use this unless the box is tiny):
+STANDARD (about 110 words - use this unless the box is tiny):
 
-I am a minority member of a Houston LLC. My company invested $50,010 in 2024 under two signed agreements; another investor put in $200,000. The founder is the managing member and majority owner. I am seeking counsel on three things: a books-and-records demand under Tex. Bus. Orgs. Code 101.501-101.502, which I have already drafted; an entity-classification problem, as the company appears to have an S election that my C corporation's ownership may invalidate and no 2025 K-1s have been issued; and related-party transactions in the books, including roughly $227,000 of owner draws against $177,000 of accrued unpaid wages. I have the general ledgers and audit logs. I would like a short call.
+My company, a Delaware corporation I control, is a minority member of a Houston LLC. It invested $50,010 in 2024 under two signed agreements; another investor put in $200,000. The founder is the managing member and majority owner. I am seeking counsel on three things: a books-and-records demand under Tex. Bus. Orgs. Code 101.501-101.502, which I have already drafted; an entity-classification problem, as the company appears to have an S election that my corporation's ownership may invalidate, and no 2025 K-1s have been issued; and related-party transactions in the books, including roughly $227,000 of owner draws against $177,000 of accrued unpaid wages. I also hold a $7,500 personal loan to the company that was never recorded in its books. I have the general ledgers and audit logs. I would like a short call.
 
 
-SHORT (about 45 words - for small fields):
+SHORT (about 50 words - for small fields):
 
-Minority member of a Houston LLC seeking counsel on a books-and-records demand under TBOC 101.502, an S-election defect that may invalidate my C corporation's ownership interest, and related-party transactions by the managing member. I have the ledgers and audit logs. Requesting a short call.
+My company is a minority member of a Houston LLC. I am seeking counsel on a books-and-records demand under TBOC 101.502, an S-election defect that may invalidate my corporation's ownership interest, and related-party transactions by the managing member. I hold the ledgers and audit logs. Requesting a short call.
 
 
 ONE LINE (for a subject line or a very short field):
 
-Minority member of a Houston LLC - books-and-records demand, S-election ownership defect, and related-party transactions by the managing member.
+My company is a minority member of a Houston LLC - books-and-records demand, S-election ownership defect, and related-party transactions by the managing member.
 
 
-Notes: lead with "minority member" and "LLC" so intake routes you to the
-right practice group rather than to general commercial litigation. Naming
-the statute signals you have done the work. Mentioning that you already
-hold the ledgers is the line most likely to get an attorney, rather than a
+Notes: the member is Comatri, Inc., not you personally, and that distinction
+is the entire S-election problem - so state it in the first clause rather
+than correcting it later. You are separately a creditor in your own name
+through the $7,500 loan, which is why the standard version mentions it.
+Leading with "minority member" and "LLC" routes you to the right practice
+group rather than to general commercial litigation. Naming the statute
+signals you have done the work. Mentioning that you already hold the
+ledgers is the line most likely to get an attorney, rather than a
 paralegal, to call you back.
