@@ -122,7 +122,31 @@ If debt is exchanged for an equity interest worth less than the face amount of t
 - **If Bravado files as a partnership (Form 1065):** COD income generally flows through to *all* members on their K-1s, and the insolvency exclusion is applied **at the member level**. A solvent member — Comatri — could be allocated taxable income with no cash to pay it.
 - **If Bravado is an S corporation (Form 1120-S):** the insolvency exclusion is generally applied **at the entity level**, and excluded COD income does not pass through to shareholders.
 
-**So the tax consequence to Blake of Hugh's decision literally depends on the 1065-vs-1120-S answer that nobody has yet produced.** This must go to a CPA before any conversion is agreed to, and it is one more reason the K-1 and Form 2553 requests are the priority items.
+**So the tax consequence of Hugh's decision literally depends on the 1065-vs-1120-S answer that nobody has yet produced.** This must go to a CPA before any conversion is agreed to, and it is one more reason the K-1 and Form 2553 requests are the priority items.
+
+### 7.5a Because the member is a C corporation, not an individual
+
+Blake's interest is held by **Comatri, Inc., a Delaware C corporation**, which changes the analysis in several ways. *(All of this needs CPA confirmation; the mechanics below are the shape of the question, not settled advice.)*
+
+- **The allocation lands on Comatri, not on Blake's personal return.** It would be taxed at the flat **21% federal corporate rate** and would not touch his 1040 unless and until Comatri distributes.
+- **The insolvency exclusion is tested at the member level, and the relevant member is Comatri.** Bravado being insolvent by half a million dollars does *not* help — what matters is whether **Comatri** is insolvent. A solvent holding company gets no exclusion and simply recognizes the income.
+- **The dollar amounts are modest** at Comatri's 9.35% allocation (Article 3.1, per Exhibit 2), assuming the equity received is treated as worth roughly zero:
+
+  | Conversion scenario | COD income | Comatri's 9.35% | Tax at 21% |
+  |---|---:|---:|---:|
+  | Hugh alone converts $88,767 | $88,767 | $8,296 | **$1,742** |
+  | Hugh + Anthony's $69,440 | $158,207 | $14,786 | **$3,105** |
+  | All non-founder debt (Scenario C) | $201,707 | $18,851 | **$3,959** |
+
+- **It is phantom income.** Comatri would owe tax on an allocation it never receives in cash, and would need its own funds to pay it.
+- **The basis offset is real but may be stranded.** The allocated income increases Comatri's outside basis in Bravado, which can produce a loss later when the interest is disposed of or becomes worthless — so in principle this is partly a timing cost. **But a C corporation's capital losses can only offset capital gains** (three-year carryback, five-year carryforward). If Comatri has no capital gains in that window, the later loss is unusable and the tax becomes permanent rather than deferred. (Abandonment of a partnership interest can in some circumstances produce an *ordinary* loss instead, which would be materially better — fact-specific, and a question for the CPA.)
+- **Comatri's own attributes may absorb it.** If Comatri carries net operating losses, they may cover the allocation entirely.
+
+**The irony worth keeping in view:** the branch of the analysis that protects the members from COD income — S corporation, where the insolvency exclusion applies at the entity level — is precisely the branch in which **Comatri cannot lawfully be an owner at all.** There is no version of the facts in which Comatri is both a valid owner and shielded from the tax.
+
+### 7.5b A live compliance problem, not a hypothetical one
+
+Mark Clark's August 25 text states that **no K-1s will issue for 2025**. Comatri, Inc. has its own federal filing obligations and needs that K-1 to report its share of Bravado's 2025 results. That is a current problem for Blake's company, independent of any conversion, and it is a concrete reason the K-1 request cannot wait.
 
 ### 7.6 What this means procedurally
 
