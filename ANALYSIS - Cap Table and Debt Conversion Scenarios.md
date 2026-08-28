@@ -73,3 +73,57 @@ That inverts the entire exercise. In Scenario D, a "everyone converts their debt
 ## 6. What to request to firm this up
 
 The trimmed records request already covers all of it: item 30 (member ledger and capitalization table, plus §6.2 capital accounts), item 31 (the §1.9 admission consents), and item 32 (any document reflecting a transfer, issuance, conversion or **retitling** of a membership interest). The 200-share discrepancy and the Comatri-vs-Benthall titling question are both answered by the same document.
+
+
+---
+
+## 7. If Hugh converts his loan — what he may be getting wrong
+
+Hugh has said he can let the company default on the $100,000 loan portion and convert it to equity. That conversion **was** in the scenarios above (it is the Nguyen line in A, B and C), but three things need correcting before anyone relies on it.
+
+### 7.1 The amount is $88,767, not $100,000
+
+He was repaid three times in 2025 — $4,707 on Jul 7, Jul 28 and Sep 2 — totalling **$14,121 in cash, of which $11,233 reduced principal** and $2,888 was interest. The loan is interest-bearing (a fact his debt-schedule row never mentions), so any conversion figure should be the balance plus any accrued unpaid interest, computed from the note.
+
+### 7.2 Nobody has seen the note, so the conversion right is unverified
+
+"Default and convert" describes a **remedy**, and a remedy has to exist in the instrument. If the promissory note contains no conversion feature, default gives him the rights of an unpaid creditor — demand, acceleration, collection — **not** a unilateral right to take shares. Converting would then be a negotiated workout requiring the company's agreement and, per §3 above, very likely unanimous member consent. **Item 28 of the records request asks for exactly this document.** Until it is produced, the premise is untested.
+
+### 7.3 The conversion price decides everything — and the documented price is bad for him
+
+At the **$50/share** price set by both Comatri agreements, converting the balance alone yields 1,775 shares:
+
+| Price/share | New shares | Total | Jer | Nguyen | Comatri | Clark | Control |
+|---:|---:|---:|---:|---:|---:|---:|---|
+| **$50.00** *(2024 price)* | 1,775 | 12,475 | **57.7%** | 30.3% | 8.0% | 4.0% | Jer majority |
+| $30.00 | 2,959 | 13,659 | **52.7%** | 36.3% | 7.3% | 3.7% | Jer majority |
+| $20.00 | 4,438 | 15,138 | 47.6% | 42.5% | 6.6% | 3.3% | no majority |
+| **$13.25** | 6,699 | 17,399 | 41.4% | **50.0%** | 5.7% | 2.9% | Nguyen majority |
+| $10.00 | 8,877 | 19,577 | 36.8% | **55.6%** | 5.1% | 2.6% | Nguyen majority |
+
+**Two conclusions follow.**
+
+**First, converting at the 2024 price accomplishes nothing except diluting the other minority holders.** Jer remains in comfortable control at 57.7%; Comatri drops from 9.35% to 8.02%; Clark drops to 4.0%. Hugh would surrender a senior $88,767 claim to buy an additional 11.6 points of a company with negative equity — and the members who did not convert would pay for it in dilution. **Blake should not consent to a conversion at the 2024 valuation.**
+
+**Second, if Hugh converts at a price reflecting the company's actual condition, the arithmetic changes completely** — at roughly **$13.25/share he alone reaches 50%** and Jer falls to 41%. That is the version worth discussing, and it is a defensible price: the company has ~$908,000 of liabilities, retained earnings of −$903,834, and $3,676 in the bank. Equity value at the 2024 price is not supportable.
+
+### 7.4 Converting trades a senior claim for the most junior one
+
+This is the part most worth saying to Hugh plainly. **Today he is a creditor.** In any wind-down, restructuring, or sale, his $88,767 ranks ahead of every membership interest, including the founder's. He can demand payment, accelerate on default, and refuse the deferral he is being asked to grant — each of which is real leverage over a company with $3,676 in cash.
+
+**A converted holder has none of that.** He would rank behind the SBA's $348K, the trade payables, the father's line of credit, and the founder's own $176,914 wage claim. In a company that is balance-sheet insolvent by roughly half a million dollars, the equity he would receive is, on paper, worth nothing.
+
+"Default and then convert" may be exactly backwards. **Default is what creates his leverage; converting is what gives it away.** If the goal is control rather than recovery, the price has to reflect that — and control acquired at $13/share is a different transaction from the accommodation he is currently being asked for.
+
+### 7.5 A tax consequence that lands on Comatri, not on Hugh
+
+If debt is exchanged for an equity interest worth less than the face amount of the debt, the company can recognize **cancellation-of-indebtedness income** for the difference. How that income is treated depends on the entity classification question that is still unresolved:
+
+- **If Bravado files as a partnership (Form 1065):** COD income generally flows through to *all* members on their K-1s, and the insolvency exclusion is applied **at the member level**. A solvent member — Comatri — could be allocated taxable income with no cash to pay it.
+- **If Bravado is an S corporation (Form 1120-S):** the insolvency exclusion is generally applied **at the entity level**, and excluded COD income does not pass through to shareholders.
+
+**So the tax consequence to Blake of Hugh's decision literally depends on the 1065-vs-1120-S answer that nobody has yet produced.** This must go to a CPA before any conversion is agreed to, and it is one more reason the K-1 and Form 2553 requests are the priority items.
+
+### 7.6 What this means procedurally
+
+Any conversion changes Exhibit 2, which amends the Operating Agreement (§3 above) — so **Blake's written consent is very likely required**, and should not be given until: the note is produced and the conversion right verified; a defensible conversion price is agreed; the CPA has addressed the COD question; and the governance amendment in `ANALYSIS - Accrued Wages Challenge and OA Amendment.md` — particularly the provision requiring unanimous consent for issuances *to existing members*, which is what would stop the founder converting his own $176,914 on the same occasion — is adopted at the same time.
