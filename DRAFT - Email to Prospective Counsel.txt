@@ -50,3 +50,29 @@ NOTES BEFORE YOU SEND - not part of the email
 5. Do not send this to Mark Clark's or the company's counsel, and do not discuss it with Mark. He is a member, a creditor of the company, and a potential witness.
 
 6. Ask each firm about: conflicts; whether they would represent Comatri alone or Comatri and the Nguyens jointly; a flat fee for the records demand phase alone; whether they would take the tax question in-house or refer it; and whether they would consider a contingency or hybrid arrangement on any fiduciary-duty or oppression claim.
+
+
+=====================================================================
+SHORT VERSIONS - for "briefly describe your situation" intake fields
+=====================================================================
+
+STANDARD (about 100 words - use this unless the box is tiny):
+
+I am a minority member of a Houston LLC. My company invested $50,010 in 2024 under two signed agreements; another investor put in $200,000. The founder is the managing member and majority owner. I am seeking counsel on three things: a books-and-records demand under Tex. Bus. Orgs. Code 101.501-101.502, which I have already drafted; an entity-classification problem, as the company appears to have an S election that my C corporation's ownership may invalidate and no 2025 K-1s have been issued; and related-party transactions in the books, including roughly $227,000 of owner draws against $177,000 of accrued unpaid wages. I have the general ledgers and audit logs. I would like a short call.
+
+
+SHORT (about 45 words - for small fields):
+
+Minority member of a Houston LLC seeking counsel on a books-and-records demand under TBOC 101.502, an S-election defect that may invalidate my C corporation's ownership interest, and related-party transactions by the managing member. I have the ledgers and audit logs. Requesting a short call.
+
+
+ONE LINE (for a subject line or a very short field):
+
+Minority member of a Houston LLC - books-and-records demand, S-election ownership defect, and related-party transactions by the managing member.
+
+
+Notes: lead with "minority member" and "LLC" so intake routes you to the
+right practice group rather than to general commercial litigation. Naming
+the statute signals you have done the work. Mentioning that you already
+hold the ledgers is the line most likely to get an attorney, rather than a
+paralegal, to call you back.
