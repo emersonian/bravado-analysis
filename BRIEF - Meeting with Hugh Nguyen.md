@@ -1,5 +1,7 @@
 # Meeting Brief — Blake × Hugh Nguyen
 
+> **Errata (Sep 1, 2026).** The founder-payment figures in this document were superseded by `ANALYSIS - Cash Paid to the Founder (Rebuilt).md`, which rebuilt every figure from the raw ledgers. Principal corrections: 2022 cash to the founder was $41,712 (not $46,200 — the Endorphin Farms charges were on James Nelson's card, paid to the vendor); 2023 was $77,017 gross (not $30,300 — the draw account had been omitted); 2024 "documented" was $26,126 itemized plus $37,992 charged to accrued wages (the earlier $80,691 counted the CPA's $18,069 year-end sweep as documentation); 2026 is $52,422. Itemized reimbursements 2022–2025 total $107,364, not ~$153K. The conclusions below stand; the table figures do not.
+
 **Prepared August 25, 2026.** Every figure below comes from Bravado's own records: QuickBooks (2020–2026), the Finaloop 2026 ledger Jer's own team exported July 23, the QuickBooks audit logs, and Jer's investor documents. Full workings are in the ANALYSIS files in this repository.
 
 ---
