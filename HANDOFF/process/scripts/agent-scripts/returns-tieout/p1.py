@@ -1,0 +1,12 @@
+exec(open('load.py').read())
+inc=['61000 Sales','61200 Hot Sauce','61210 Pineapple & Habanero Hot Sauce','61215 Garlic & Arbol Moruga Scorpion Hot Sauce','61216 Arbol Chili & Garlic Hot Sauce','61217 Manuka Honey Passion Fruit Hot Sauce','61220 Jalapeno & Green Apple Hot Sauce','61225 Ancho Masala Ghost-Reaper Hot Sauce','61230 Ghost Pepper & Blueberry Hot Sauce','61240 Crimson Hot Sauce','61250 Crimson Special Reserve','61260 Serrano & Basil Hot Sauce','61270 Black Garlic & Carolina Reaper Hot Sauce','61280 Creamy Herb & Jalapeño Hot Sauce','61290 Aka Miso Ghost-Reaper Hot Sauce','61310 Jalapeno & Garlic Seasoning','61320 Crimson Seasonings','61330 Garlic & Arbol Seasoning','61410 Pineapple & Jalapeno & Margarita Mix','61420 Ruby Red Grapefruit Margarita Mix','61430 Lime & Yuzu Margarita Mix','61440 Classic Margarita Mix','61500 Sets','61600 Faire Sales','63000 Events/Shows Sales','64000 Online Sales','65100 Amazon US Market Sales','65110 Amazon Refund/Swell US Market Place','65200 Amazon CA Market Sales','66000 Other Income','67000 Uncategorized Income','Discounts given','Sales of Product Income','Shipping Income','Uncollectible Sales']
+cogs=['71000 Cost of Sales (COS)','71100 Shipping & Delivery - COS','71200 Other Costs - COS','71300 Ingredients - COS','71400 Co-Packer - COGS','71500 Materials - COS','71600 Placement/Freefill - COS','Inventory Adjustment','Inventory Shrinkage','Marketing Allowance','On-Invoice Discounts','Pass Thru Deduction','QuickBooks Payments Fees','Spoilage Allowance','Swell Discount','Cost of Goods Sold','Expiration Allowance','Shipping/Transit Discounts']
+inv=['Katana ERP Inventory','Katana Inventory_Materials','Katana Inventory_Product','Shopify/ Web Inventory','Amazon Inventory','20000 Inventory Asset','Faire Inventory','Web Inventory']
+for y in (2022,2023,2024,2025):
+    d=g[g.year==y]
+    s=d.groupby('account').amount.sum()
+    I=s.reindex(inc).fillna(0).sum(); C=s.reindex(cogs).fillna(0).sum()
+    dAR=s.get('12000 Accounts Receivable',0); dAP=s.get('31000 Accounts Payable',0); dInv=s.reindex(inv).fillna(0).sum(); dUF=s.get('15000 Undeposited Funds',0)
+    print(y,'income',round(I,2),'COGS',round(C,2),'dAR',round(dAR,2),'dAP',round(dAP,2),'dInv',round(dInv,2),'dUF',round(dUF,2))
+    print('   income - dAR =',round(I-dAR,2), ' COGS+dInv=',round(C+dInv,2),' COGS+dInv-dAP=',round(C+dInv-dAP,2), ' COGS-dAP=',round(C-dAP,2))
+    print(s.reindex(inv).dropna().round(2).to_dict())

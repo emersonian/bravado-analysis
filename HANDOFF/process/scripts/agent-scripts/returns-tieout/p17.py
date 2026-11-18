@@ -1,0 +1,11 @@
+exec(open('load.py').read())
+pd.set_option('display.max_colwidth',100)
+def show(mask,title):
+    d=g[mask].copy(); d['memo']=d.memo.fillna('').str.slice(0,90); d['split']=d.split.fillna('').str.slice(0,30)
+    print('=====',title); print(d[['account','date','type','num','name','memo','split','amount']].to_string(index=False))
+show(g.num=='AJE-131','AJE-131')
+show((g.account=='35000 Loan Payable - Chevrolet')&(g.year>=2022),'chev loan')
+show((g.account=='Credit card (9532)')&(g.year==2024),'cc 9532 2024')
+show((g.account=='Chase 5039')&(g.year==2025)&(g.amount.abs()>1000),'Chase 5039 2025')
+show((g.account=='32400 Spark Business Credit Card - 4964')&(g.year==2025),'Spark 2025')
+show((g.account=='73110 Office Rent')&(g.year==2024),'office rent 2024')

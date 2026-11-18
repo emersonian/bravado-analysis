@@ -1,0 +1,207 @@
+                                   BRAVADO SPICE CO.
+                                   Investor Update - State of Bravado
+                    August 24, 2026 · Prepared August 21, 2026 · Data reconciled daily to Found Bank
+
+
+1. July 22 Plan vs. Actual (Jul 22 – Aug 20)
+ Line                                   Plan (Jul 22)           Actual                  Variance
+ Beginning cash (Jul 21 close)          $1,325                  $3,597                  +$2,272
+ Cash receipts - operating              $44,900                 $18,664                 −$26,236
+ Cash receipts - new loan (Anthony)     $0                      $10,000                 +$10,000
+ Operating disbursements                $25,372                 $26,181                 +$809
+ Debt/creditor payments                 $13,416                 $4,706                  −$8,710
+ Ending cash (Aug 20)                   $7,436                  $1,374                  −$6,062
+The receipts variance is due to the migration of production from SBG to John Henry's. The production proposal to
+SBG was not accepted; management pivoted to JH, which pushed the Faire and KeHE order shipments out.
+
+
+
+Actual receipts by channel (Jul 22 – Aug 20)
+ Channel                                Actual
+ Faire (wholesale marketplace)          $7,836
+ KeHE (distributor)                     $4,737
+ Amazon FBA                             $2,678
+ DTC (Shopify)                          $2,151
+ Wholesale direct (JJ, Airgoods)        $950
+ Events cash                            $312
+ Total operating receipts               $18,664
+
+
+
+Status of major expected receipts
+ •​ KeHE PO 3773648: PAID $4,736.72.
+ •​ KeHE PO 3802230: shipped Aug 14; payout est. $8,930.67 expected by Sep 3.
+ •​ KeHE PO 3846625: pickup Aug 27; payout est. $10,389.43 expected by Sep 11.
+ •​ JH past-due invoice ($1,555.76) PAID Jul 29 - opening local production.
+ •​ Jungle Jim's PO 1157266 PAID $1,542.47 Aug 12; JJ Fairfield PO 1169741 ships Aug 25 (net-10).
+
+
+2. Variance & Updated Outlook
+Major differences from plan - timing vs. missed
+ •​ TIMING (the −$26.2K receipts variance): Due to the SBG → JH migration after SBG declined the proposal. Faire
+    orders and KeHE POs shipped later than the July plan states. Confirmed in transit: KeHE 3802230 (shipped Aug 14,
+    pays ~Sep 3) and 3846625 (pickup Sep 4, pays ~Sep 18), plus Faire orders that have already begun paying out.
+ •​ DEFERRED (not missed): SBG payments planned Aug ($14,389) were renegotiated into a structured payoff (see
+    Section 4). Debt outflow was $8,710 lighter in the window as a result.
+ •​ NEW BORROWING: $10,000 family loan (Anthony, Jul 28) was raised to facilitate the production migration from
+    SBG to John Henry's.
+
+Revised forecasts
+Forecast point                        July 22 plan            Revised (Aug 21)          Change
+Aug 31 ending cash                    $13,378                 $6,505                    −$6,873
+Dec 31 ending cash                    $30,692                 $40,018                   +$9,326
+
+
+
+Remaining-year revenue: confirmed vs. probable vs. forecast
+Class                                 Amount                  Basis
+Confirmed (shipped/picked up)         $19,320                 KeHE 3802230 +
+                                                              3846625 in transit to
+                                                              payment
+Probable                              $11,000                 Hot Shots order
+                                                              (historical $10–12K,
+                                                              ships late Sep)
+Forecast - KeHE cadence               $36,000                 3 POs at $12K
+                                                              (Sep/Oct/Nov) per
+                                                              current velocity
+Forecast - channels                   ~$150,000               DTC/Amazon/Faire/
+                                                              wholesale dailies incl.
+                                                              Q4 seasonality
+Forecast - new products               $27,374                 Holiday sauce +
+                                                              cocoa + JGS relaunch
+                                                              (launch Sep 23)
+
+
+3. Operations & Production
+Production source status
+ •​ Hot sauce production fully migrated to John Henry's Food Products (Houston).
+ •​ JH advantages: lower COGS, no inbound freight, smaller MOQs - more flexible production while cash is tight.
+ •​ SBG remains a partner, and the relationship is good.
+ •​ Terms: 50% deposit / 50% at pickup, each payment scheduled against a specific funding inflow.
+ •​ PO32-PO34 executed to date: ~12,160 units, $20,653. Seven more scheduled through Dec, plus a January PO with
+    deposit paid in December.
+ •​ Next In-house line launches Sep 23: Jalapeño & Garlic Seasoning, Holiday Hot Sauce, and Holiday Hot Cocoa Mix.
+    Chamoy ends by Oct 31st or when the last bottle sells.
+
+Supplier / vendor issues
+ •​ JH yield miss shorted the KeHE 3802230 order by 86 cases of Creamy Herb (≈$2,181 revenue impact). Additional
+    KeHE PO expected. Yield has been updated. KeHE contacted, and a new PO is incoming. The remaining 86 cases are
+    being produced Monday, Aug 24.
+
+Inventory & Q4 working capital
+ •​ Inventory audit (Aug 11): 1,419 sauce units on hand - the constraint on Q3 sales. Production expansion sized against a
+    full unit-flow model: Q4 sales plan requires ~48,000 units; PO schedule + in-house runs deliver it with ~2,750 units
+    carrying into January plus a 5,500-unit January PO.
+ •​ Q4 working capital is fully scheduled in the daily cash plan: every PO deposit/balance is tied to a named funding
+    inflow. The plan currently shows zero projected negative-balance days through Dec 31.
+
+Ability to support projected Q4 sales
+ •​ Yes, with stated risk: the sales plan is deliverable if the 3 forecast KeHE POs materialize and holiday sell-through
+    tracks the Mango-Chamoy limited-batch precedent (396 units in launch month, sold out in month 2). Stock, not
+    demand, has been the binding constraint.
+
+
+4. Debt & Financial Position
+Current debt schedule (Aug 21)
+Creditor                             Balance               Arrangement                            Status
+SBA loan (HAP)                       $350,000              Hardship plan; full $1,705/mo          Current
+                                                           resumes Dec
+Endorphin Farms (legacy)             $89,298               $500/mo from Sept (confirmed)          Scheduled
+Nguyen (family)                      $88,767               Deferral to 2027 requested             Deferred
+SBG (Bill Sr.)                       $24,306               5 pmts: $5K Oct 6/Oct 23/Nov           Scheduled
+                                                           20/Dec 18 + $4,306 Jan 15
+Amex                                 ~$14,000              $331/mo minimum                        Current
+OnDeck                               ~$13,150              $175/week (new deal Aug 11)            Current
+Anthony (family, new Jul 28)         $10,000               $2.5K Oct 9/Nov 12/Dec 9/Dec 21        Scheduled
+                                                           - done in 2026
+Blake Benthall                       $7,500                Deferral to 2027 requested             Deferred
+Berlin Packaging                     $900                  Past due                               Scheduled
+Uline (collections)                  $344                  2 biweekly pmts remain                 Current
+Past-due rent (in catch-up)          $16,475               $750/mo rider, $3,000 cleared in       Scheduled
+                                                           2026; $13,475 balance in three
+                                                           payments Jan/Feb/Mar 2027
+Unishippers (DISPUTED)               $14,174               Documented amount, in dispute          In dispute
+
+
+ •​ Total debt $572,715, excluding trade A/P, past-due rent, and the disputed freight claim (all shown separately).
+    Trade A/P is carried separately at $29,919, of which JH is $3,553 (PO32 balance after the 50% deposit). PO33
+    and PO34 are scheduled commitments, not yet invoiced.
+
+Past-due obligations
+ •​ Past-due rent $16,475 in active $750/mo catch-up; $3,000 clears inside 2026, and the $13,475 balance is paid in three
+    payments scheduled Jan, Feb, and Mar 2027.
+ •​ Uline in final installments.
+ •​ Berlin Packaging past due and scheduled.
+
+New borrowing since last update
+ •​ Anthony (family) $10,000 on Jul 28 - raised to facilitate the SBG → John Henry's production migration. Repaying
+    $10,000 by Dec 21. No institutional borrowing added. OnDeck restructured to $175/week.
+Overall position
+ •​ IMPROVING. Every creditor is now on a written, scheduled arrangement tied to specific funding days; the
+    cash plan runs 130+ consecutive projected-positive days; production capacity migrated to a faster, more flexible
+    co-packer; one family loan retires fully within 2026; and year-end cash is forecast above the July plan despite
+    absorbing the SBG payoff schedule.
+
+
+5. Management Priorities (through year-end)
+ •​ 1. Execute Q4 stock plan - keep JH PO cadence on time and in full; it feeds every other number.
+ •​ 2. Launch and scale the Sep 23 holiday line (Holiday Sauce, Cocoa, JGS relaunch) - highest-margin revenue in the
+    company (70%+).
+ •​ 3. Convert KeHE placeholders into confirmed POs (Sep/Oct/Nov at ~$12K each) and hold the 10–15 day payment
+    cycle.
+ •​ 4. Retire SBG and Anthony on schedule - $34.3K of debt cleared by mid-January without breaking a single payroll.
+ •​ 5. Put Chamoy on World Market, Central Market, and Whole Foods radar for 2027 category review.
+
+Key risks
+ •​ KeHE forecast POs (3 × $12K) are velocity-based, not yet confirmed - based on last year's sales volume and this year's
+    cadence.
+ •​ Single co-packer concentration at JH (mitigated by in-house line and prebuilt inventory buffers).
+ •​ Thin absolute cash levels through September (~$1.4K today); plan holds but has limited shock absorption until
+    mid-Sep KeHE receipts land.
+
+Key opportunities
+ •​ Holiday limited-batch economics (73% margin cocoa, 84% margin sauce at retail) with proven limited-drop demand.
+ •​ JGS relaunch at 71% in-house margin, loyal customer base and good DTC success rate.
+
+
+6. Investor Reporting & Support
+Proposed cadence: quarterly reporting, twice-yearly meetings
+ •​ A healthy cash cycle runs 45-90 days from production to payout, and demand is seasonal. A single KeHE payout
+    landing a week later moves a monthly number without anything in the business having changed, and any one month is
+    either a peak or a trough rather than a trend. Monthly reporting on this cycle produces noise; quarterly reporting
+    produces signal.
+ •​ A quarter is also the unit management operates in: one production cycle, one selling season, one full receivables turn.
+    Q3 closes Sep 30, Q4 closes Dec 31 - both land where a real decision gets made.
+ •​ Proposal: a reporting pack within 30 days after each quarter close, and a live State of Bravado meeting twice a year -
+    Jan 2027 and Aug 2027.
+ •​ The cash plan is maintained continuously and reconciled with the bank; feel free to request the current file or call
+    anytime.
+
+Quarterly reporting pack (format: Original Forecast | Revised Forecast | Actual)
+Metric                                 Original (Jul 22)          Revised (Aug 21)              Actual (thru Aug 20)
+Revenue (operating receipts, Aug)      $48,407                    $29,394                       $13,616 (thru Aug 20)
+Financing inflows (Jul 22 - Aug        $0 planned                 $10,000 (Anthony, Jul 28)     $10,000 received
+20)
+Operating expenses (Aug, incl.         $15,849                    $23,416                       $14,107 (thru Aug 20)
+COGS)
+Debt payments (Aug)                    $17,396                    $2,663                        $1,325 (thru Aug 20)
+Ending cash (Aug 31)                  $13,378                    $6,505                       $1,374 (Aug 20)
+Blended gross margin                  61.4% (SBG cost basis)     67.7% (JH costs +            56.5% (SBG stock sold
+                                                                 in-house SKUs)               through)
+Trade A/P + past-due rent (excl.      $50,608 ($29,926           $17,781 at Dec 31 ($4,306    $46,393 at Aug 20
+Endorphin)                            current + $4,207 past      current + $13,475 rent       ($27,858 current +
+                                      due + $16,475 rent)        after four $750 payments)    $2,060 past due +
+                                                                                              $16,475 rent)
+Total debt (excl. trade A/P)          $563,065                   $572,715                     $572,715 (Aug 21)
+Confirmed KeHE POs                    $17,747 (3773648           $19,320 open (3802230        $19,320 open (3773648
+                                      $8,389 + 3802230           $8,931 + 3846625             $4,737 already
+                                      $9,358)                    $10,389)                     collected)
+Year-end cash forecast                $30,692                    $40,018                      -
+
+
+
+How investors can help
+ •​ If we can request the resumption of payments on investor loans in March 2027.
+ •​ Spread the word about our unique limited-edition items as they launch; I’ll have sneak-peek samples mailed to each of
+    you once the formula is locked. Please provide good mailing addresses.
+

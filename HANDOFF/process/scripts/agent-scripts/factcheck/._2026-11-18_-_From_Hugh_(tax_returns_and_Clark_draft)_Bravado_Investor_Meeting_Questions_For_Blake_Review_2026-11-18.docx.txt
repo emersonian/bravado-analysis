@@ -1,0 +1,153 @@
+Draft for Blake Benthall / Comatri, Inc. review • November 18, 2026
+
+Working group: Hugh Nguyen, Christy Nguyen, Blake Benthall — with input from Trey Peterson. Status: Internal draft only; not a records request or a notice of accusation.
+
+Purpose
+
+Understand the company’s actual cash position, related-party balances, capitalization, tax reporting and recovery plan. Ask for explanations at the meeting. After Blake’s review and the discussion, decide what supporting records to request separately.
+
+Priority questions | ask first
+
+1. Immediate cash position and creditor pressure
+
+  As of today, how much unrestricted cash is actually available, which obligations are past due, and what payments must Bravado make during the next 13 weeks? How does that compare with the August 2026 cash forecast?
+
+Basis: September draft: $1,963 cash, $204,880 accounts payable and $389,877 current liabilities. August briefing projected a recovery in cash.
+
+2. Who owes Bravado the money recorded as shareholder loans?
+
+  The 2025 Form 1120 reports $294,256 in loans to shareholders, up $162,447 during the year. Mark’s draft separately shows $219,892 due from Jeremiah and James at December 2025. What constitutes each balance, who is responsible, and why is there a $74,364 difference?
+
+Basis: Distinguish money owed TO Bravado from money Bravado owes investors; ask whether these are advances, draws, reclassifications, or documented loans.
+
+3. Jeremiah’s related-party accounts and compensation
+
+  How did the $208,100 due from Jeremiah arise by September 2026? What supports the $177,063 in wages accrued to him, and what cash, property or debt conversions created the $194,932 Jeremiah equity balance shown for December 2024? Were the respective transactions authorized and how are amounts settled?
+
+Basis: Avoid netting these amounts without evidence; balances may reflect multiple accounting treatments.
+
+4. James Nelson and the older owner transactions
+
+  Is “James” in the draft balance sheet James Nelson, who appears in earlier company records? What is his past/current ownership role? What created the $56,369 due from him, including the 2023 member-transfer and Ford Explorer transactions, and how is the balance expected to be recovered?
+
+Basis: The historical QuickBooks records suggest transfers and accounting adjustments, not necessarily a single conventional cash loan.
+
+5. The $69,033 wage accrual and changing 2025 result
+
+  Why did the July 2026 investor update report approximately $46,157 in 2025 net loss while Mark’s later draft shows $115,190? How does journal entry AJE-547 for $69,033 in accrued Jeremiah wages explain the difference, and when was the revised number known?
+
+Basis: The $69,033 arithmetic difference matches the described wage adjustment; the exact complete reconciliation is not yet independently confirmed.
+
+6. Draft financials versus the 2025 tax filing
+
+  Why do Mark’s 2025 draft and the 2025 Form 1120 report different sales ($464,997 vs. $474,616), cost of sales ($314,141 vs. $394,527), and owner receivables ($219,892 vs. $294,256)? Which figures should the shareholders use for decision-making, and what accounting changes explain the differences?
+
+Basis: Book figures can legitimately differ from tax figures; the question is about the reconciliation and whether reporting is consistent.
+
+7. Our capitalization and Comatri’s actual ownership
+
+  The signed agreements record Comatri’s $15,000 investment for 3% and $35,000 more for 700 additional shares. Its second agreement lists 1,000 shares and 10,700 total outstanding, yet the named holders total only 10,500 shares. Who owns or accounts for the remaining 200 shares? Why does “10%” differ from 1,000/10,700 (9.35%), and how were the Nguyens’ 20% and all other interests diluted or adjusted?
+
+Basis: The 700 shares are additional to Comatri’s earlier investment; do not describe 700 versus 1,000 as an unexplained contradiction.
+
+8. S corporation election and 2024/2025 shareholder taxes
+
+  Comatri’s first agreement was effective in July 2024, but the 2025 corporate return describes the S election as terminated January 1, 2025. When did management and its CPA learn of the ineligible corporate shareholder issue, why was that effective date selected, and what is the expected effect on 2024 K-1s and investors’ personal taxes?
+
+Basis: Do not assume deliberate concealment; this needs specialist tax review and contemporaneous documentation.
+
+9. Nguyen promissory note and equity consideration
+
+  What is the current principal and accrued interest on our original $100,000 loan, what payments have been made since 2025, and what payoff date is realistic? Was the potential additional 10% equity provision in the signed note evaluated at June 20, 2025? Has anyone treated the note as deferred or amended without our written agreement?
+
+Basis: The draft balance sheet still shows $88,767 owing to the Nguyens. The equity provision is conditional, not automatically vested.
+
+10. Blake’s investment, personal loan and financial access
+
+  Can we confirm that Comatri’s $50,000 was booked in its own capital account (rather than an unexplained “Coinbase” $50,010 account)? What is the status of Blake’s separate personal loan? Why was Comatri’s financial visibility removed after August 25, 2026, despite the access term in the second investment agreement, and how can constructive transparency be restored?
+
+Basis: Frame the access issue factually and distinguish Comatri’s equity from Blake’s personal creditor claim.
+
+11. Tallerine family notes and the reported forgiveness
+
+  Did Anthony Tallerine or other family members forgive any Bravado loan? Which amounts, on what dates, and what remains payable? How should we understand the “Tallerine” note rising from $69,440 to $79,440 in the September 2026 draft?
+
+Basis: A reported forgiveness and a balance continuing on the books may be reconciled by timing, classification, or missing documentation.
+
+12. What is the credible turnaround plan?
+
+  How will Bravado return to operating cash break-even? What monthly sales and gross margin are required, which customers/products generate positive cash contribution, what are the three near-term management priorities, and what objective milestones will shareholders receive over the next 90 days?
+
+Basis: 2025 sales were far below budget. The nine-month 2026 draft still shows an operating loss despite better reported gross margin.
+
+Additional questions | if time allows
+
+13. Other income and ERC/PPA
+
+  What are the components of $156,641 of 2025 other income on the tax return? Does the draft’s $131,781 “ERC/PPA” plus $24,316 other income explain it, and are any canceled loans included?
+
+14. Reimbursements, bad debt, and owner distributions
+
+  Who received the $31,312 of 2026 “unallocated reimbursements”? Why does $17,587 bad-debt expense match the 2025 accounts receivable? Have owners received compensation, draws, repayments, or distributions, and what policy will govern profit distributions when the company recovers?
+
+15. Accounting-system transition and governance
+
+  What caused the QuickBooks-to-Finaloop opening-balance changes (including the previously identified $157,115 adjustment and AJE-547)? Which reports are presently considered authoritative, and what monthly financial-reporting process will allow all members to evaluate Bravado consistently?
+
+16. Cash versus revenue classification
+
+  A $10,000 July 2026 family borrowing appears in a wholesale-sales field in an earlier cash plan. Was any borrowing included in reported sales or performance metrics? If so, has that presentation been corrected?
+
+17. Inventory, cost of sales and gross margin
+
+  How was 2026 gross margin calculated at 52.8%? Does it fully reflect ingredients, co-packer costs, spoilage, freight, inventory changes and channel fees, and which current products or channels are profitable on a cash basis?
+
+18. Equity rollforward and other historical entries
+
+  How does the 2026 nine-month loss of $63,482 reconcile to retained earnings improving by $7,861? What explains the $71,343 difference and historical entries such as the $129,000 “debt to equity” classification?
+
+19. Creditor priority and fairness
+
+  How do the $204,880 of September draft accounts payable reconcile to the much lower trade-payable amount in the August investor briefing? How are owner-related claims prioritized versus outside vendors and the Nguyen/Blake loans?
+
+20. Path to restoring trust
+
+  What accountability safeguards would Jeremiah and Mark support now—clear monthly close deadlines, independent review of major related-party entries, transparent shareholder reporting, and agreed financial oversight—so we can help the company recover?
+
+For Blake’s review before we finalize
+
+-   Which questions would you move into the top five or remove?
+
+-   What is factually incorrect about the Comatri investment, your personal loan, or access history?
+
+-   What did Jeremiah say in the August meeting or subsequent communications that these questions should reflect?
+
+-   What answers would demonstrate genuine progress toward a credible turnaround?
+
+Discussion guidance
+
+Use a calm, curious tone. Let Jeremiah and Mark explain the accounting. Capture answers, dates, and any commitments made. Do not characterize a mismatch as fraud or agree to new investment, loan deferral, retroactive consent, ratification or waiver during the meeting. This sheet is deliberately NOT the post-meeting records request.
+
+Blake’s notes / suggested changes
+
+Highest-priority issue to add:
+
+__________________________________________________________________________________________
+
+Corrections to dates, amounts or ownership:
+
+__________________________________________________________________________________________
+
+What we should ask differently:
+
+__________________________________________________________________________________________
+
+Questions that can wait until follow-up:
+
+__________________________________________________________________________________________
+
+What would build confidence in the turnaround:
+
+__________________________________________________________________________________________
+
+Sources reviewed: Nguyen investment agreement and note; both Comatri investment agreements and consent; Bravado 2023–2025 tax returns and 2024 K-1s; Mark Clark draft P&L and balance sheet; July/August 2026 investor reporting and cash plans; Financials and Jer to Investors archives; Blake’s August 25 member records request. Figures are preliminary and may reflect different reporting bases or periods.

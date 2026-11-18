@@ -1,0 +1,42 @@
+Bravado Spice
+Balance Sheet
+                                  9/30/2026     12/31/2025     12/31/2024
+Current Assets
+  Cash                                 1,963         3,146         17,186
+  Accts receivable                     1,603        17,587         27,206
+  Inventory                           59,829        57,944         47,287
+  Other                                  652         2,377            271
+                                      64,047        81,054         91,950
+Fixed Assets, Net                          0             0              0
+Other Assets
+   Due from James                     56,369        56,369         56,072
+   Due from Jeremiah                 208,100       163,523         72,195
+   Endorphin Farms                       500
+   Faire clearing acct                                              3,237
+                                     264,969       219,892        131,504
+     Total assets                    329,016       300,946        223,454
+
+Current Liabilities
+  Accts payable                      204,880       170,240        243,571
+  Accrued expenses                       849         5,930          8,771
+  Credit cards                         7,085        17,873         98,183
+  Accrued wages-Jeremiah             177,063       176,914        107,881
+  Due to Jeremiah
+                                     389,877       370,957        458,406
+Notes payable
+  Tallerine                           79,440        69,440         69,440
+  SBA                                349,204       351,300         25,000
+  Shopify                              6,445        13,130            529
+  Nguyens                             88,767        88,767        100,000
+  Other                                19391                       52,192
+                                     543,247       522,637        247,161
+Equity
+  Jeremiah                           173,528       192,849         194,932
+  James                                                               (297)
+  Clark                               39,000         39,000         39,000
+  Coinbase                            50,010         50,010         50,010
+  Nguyens                            100,000        100,000        100,000
+  Retained earnings                 (966,646)      (974,507)      (865,758)
+                                    (604,108)      (592,648)      (482,113)
+     Total liabilities & equity      329,016        300,946        223,454
+

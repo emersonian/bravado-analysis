@@ -1,0 +1,10 @@
+exec(open('load.py').read())
+pd.set_option('display.max_colwidth',100)
+def show(mask,title):
+    d=g[mask].copy(); d['memo']=d.memo.fillna('').str.slice(0,90); d['split']=d.split.fillna('').str.slice(0,30)
+    print('=====',title); print(d[['account','date','type','num','name','memo','split','amount']].to_string(index=False))
+show(g.num.isin(['AJE-35','AJE-308','AJE-180','AJE-169','AJE-303','AJE-397','CPA AJE 1 - 2024','AJE-177']),'JEs')
+show((g.date=='2023-03-07')&(g.amount.abs()>5000),'2023-03-07 big')
+show((g.date=='2024-06-03')&(g.type=='Deposit'),'2024-06-03 deposits')
+show((g.account=='Accumulated Depreciation')&(g.year>=2023),'Acc dep')
+show((g.account=='11200 Chase Checking 5189')&(g.date>='2023-03-01')&(g.date<='2023-03-10')&(g.amount.abs()>5000),'checking early Mar 2023')

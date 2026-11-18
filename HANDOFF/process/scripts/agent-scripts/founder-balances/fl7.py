@@ -1,0 +1,10 @@
+exec(open('fl.py').read())
+g=f[f.dt>='2026-01-01']
+print('--- SBA anywhere'); show(g[g.Description.astype(str).str.contains(r'\bSBA\b|EIDL|SBAD|TREAS',case=False,regex=True)])
+print('--- crypto/blake words'); show(g[g.Description.astype(str).str.contains('USDC|COINBASE|CRYPTO|KRAKEN|PHANTOM|SOLANA|BENTHALL|BLAKE|COMATRI|CIRCLE|BINANCE|GEMINI|ROBINHOOD|MOONPAY|BRIDGE',case=False,regex=True)])
+print('--- amounts 7500/8500/7400/7000-ish in bank accounts Apr 25-May 31')
+BANKACC=g.account.str.startswith(('Checking','Savings','Credit card','Paypal'))
+x=g[BANKACC&(g.dt>='2026-04-25')&(g.dt<='2026-05-31')&(g.amount.abs()>=1000)]; show(x)
+print('--- all inbound >0 to bank accounts with CAPITAL ONE'); show(g[BANKACC&g.Description.astype(str).str.contains('CAPITAL ONE',case=False)&(g.amount>0)])
+print('--- any rows amount in (7500, 8500, 7400, 100 Apr30)'); show(g[g.amount.abs().round(2).isin([7500,8500,7400,7499,7600])])
+print('--- Found bank account inflows Apr 28 - May 10'); fx=g[(g.account=='Checking - Found - Primary 1862')&(g.dt>='2026-04-27')&(g.dt<='2026-05-22')]; show(fx)

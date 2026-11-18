@@ -1,0 +1,31 @@
+Bravado Spice
+Income Statement Summary
+                                    2026 (9 Mos)    2025        2024
+Sales                                    243,334     464,997     805,745
+Cost of Sales                            114,771     314,141     576,381
+Gross Margin                             128,563     150,856     229,364
+                                           52.8%       32.4%       28.5%
+Selling, General & Admin Expenses
+   Compensation & benefits               74,377      238,952     293,822
+   Marketing & advertising                7,437       17,250      44,414
+   Rent                                  20,970       30,575      46,589
+   Office & meals expenses                3,724        9,104      12,282
+   Software                              18,170       24,986      27,909
+   Insurance                              3,126       11,850       8,800
+   Utilities & phone                      2,420        4,183      11,447
+   Professional fees                        664       58,123      47,938
+   Repairs & maintenance                    356        1,982       3,196
+   Taxes & licenses                                      184           1
+   Bank & merchant charges                5,522        8,183      32,868
+   Bad debts                             17,587          850       7,740
+   Travel & autouto                       7,102
+   Unallocated reimbursements            31,312
+   Miscellaneous                          1,490          651       1,794
+                                        194,257      406,873     538,800
+Operating Loss                          (65,694)    (256,017)   (309,436)
+Nonoperating Income(Expense)
+  ERC/PPA                                            131,781
+  Other income                             4,915      24,316      47,764
+  Interest expense                        (2,703)    (15,270)    (39,431)
+Net Loss                                 (63,482)   (115,190)   (301,103)
+

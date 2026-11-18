@@ -1,0 +1,243 @@
+BRAVADO SPICE CO.
+
+State of the Business
+
+For our investors: Clark, Hugh Nguyen, Christy Nguyen, Blake Benthall
+
+July 2026 · Prepared by Jeremiah Tallerine, Founder
+
+Why I called this meeting
+
+-   The last two years have been a real struggle , both for the business and for me personally.
+
+-   I want to walk through the challenges and disappointments, and how we have addressed them.
+
+-   The present financial position is weak. I have a line-by-line plan for recovery through year-end, attached as the daily cash plan.
+
+-   I welcome any suggestions or wisdom you can offer.
+
+The three-year arc
+
+  ----------------------------------------------------------------------------------
+                       2024 (books)      2025 (books)      2026 H2 (cash plan)
+  -------------------- ----------------- ----------------- -------------------------
+  Revenue              $805,744          $464,997          $260,514 net cash
+
+  Gross margin         28.7%             32.4%             59.4% YTD actual
+
+  Operating expenses   $591,278          $353,657          $118,203 (6 mo)
+
+  Operating income     ($360,005)        ($202,799)        +$35,363 net cash flow~
+
+  Net income           ($294,663)        ($46,157)*        n/a (cash view)
+
+  Year-end cash        $17,458           $3,146            $30,692~
+  ----------------------------------------------------------------------------------
+
+* 2025 net includes one-time $155,446 Employee Retention Credit refund. Underlying operating loss ex-ERC was $203K.
+
+2024: The year the wheels came off
+
+-   My business partner's health crisis surfaced hidden, unvetted contracts written by his sales team. I I had to ask him to step down. He did so legally and willingly, though not without a lot of damage to the business, which I learned about after his departure.
+
+-   The company was sized to support the business partner’s and sales teams’ plan.
+
+-   Large contracts brought revenue but contained substantial chargebacks, slotting fees, and promotional commitments that crippled margin.
+
+-   The Long tail of chargebacks, penalties, and financing fees dragged into mid-2025.
+
+-   Result: $360K operating loss, $295K net loss, cash fell from $166K to $17K during the year.
+
+2025: Triage, and it worked
+
+-   Worked out of the bad contracts. Walked away from unprofitable accounts.
+
+-   Cut the sales team. Impaired top-line growth but stopped the bleeding.
+
+-   Invested in higher-margin sales channels: deeper HEB partnership, Faire market rhythm, focus on DTC: website and Amazon
+
+-   Cut overhead nearly in half: rent $64.6K → $30.6K (subleased, then moved); total OpEx $591K → $354K.
+
+-   Strong margin improvement across the year: full-year 28.7% → 32.4%, but the real story is the split , 1H 2025 was 24.7% (still absorbing legacy chargebacks); 2H 2025 jumped to 40.1% once the bad contracts washed out. That underlying margin profile carried into 2026 at 59.4% YTD. Volume we walked away from was not profitable volume.
+
+-   The $155K Employee Retention Credit refund landed in 2025 and went to debt, inventory, and survival.
+
+-   Underlying operating loss cut from $360K to $203K ex-ERC. But the buffer was gone: ended 2025 with $3,146 in the bank.
+
+Margin trajectory , full progression 2024 → 2026 today
+
+  ------------------------------------------------------------------------------------------------
+                       2024           1H 2025 (Jan-Jun)   2H 2025 (Jul-Dec)   2026 YTD (Jan-Jun)
+  -------------------- -------------- ------------------- ------------------- --------------------
+  Sales                $805,745       $231,280            $233,717            $141,119
+
+  Cost of goods sold   $576,381       $174,068            $140,073            $57,368
+
+  Gross margin         28.5%          24.7%               40.1%               59.4%
+
+  Operating loss       ($261,672)     ($107,305)          ($69,812)           ($21,974)
+  ------------------------------------------------------------------------------------------------
+
+The trajectory tells the story: 2024 margin (28.5%) crippled by chargebacks and slotting fees from bad contracts. 1H 2025 dipped to 24.7% while still absorbing that tail. 2H 2025 jumped to 40.1% once the contracts washed out. 2026 YTD sits at 59.4% , the current profile with zero legacy chargeback drag. This is the underlying margin the H2 plan runs on.
+
+2026: Where we are + plan for the rest of the year
+
+The shock (Q1-Q2):
+
+-   Consumer discretionary spending dried up. Gas + grocery inflation, macro drag from the Iran/Strait of Hormuz situation. Specialty hot sauce is a discretionary food dollar.
+
+-   Buc-ee's cut its entire hot sauce category to private label in April. Every brand in the set went. It removed one of our strongest retail accounts.
+
+-   July 7, 2026: the operating account held $107. Low-water mark of a cash cycle, not a default
+
+What is working , the turn:
+
+-   Live 2026 gross margin: 59.4% YTD (74% product-only). First full year free of legacy chargeback drag from the old sales team's deals.
+
+-   HEB via KeHE grew ~3x from strategic demo program. Confirmed KeHE POs in-hand: PO 3773648 (~$9,573 net Aug 10), PO 3802230 (~$9,358 net Aug 19), + Sep/Oct/Nov/Dec POs in the base plan.
+
+-   Hot Shots wholesale reorder $11K confirmed Sep 15. Hot Sauce Bar Japan $2,726 (Sep 22). Dylan @ Heat Hot Sauce $2K (Sep 28).
+
+-   Faire market cadence returned 6x on ad spend in Dec 2025. July 2026 Faire Market projecting $7K total, with $1,900 booked by EOD July 23.
+
+-   Break-even honestly computed at ~$37K/month net cash. H2 plan averages $43K/month , comfortably above.
+
+H2 by month (from cash plan):
+
+  ---------------------------------------------------------------------------------
+  Month               Inflow      OPEX         Debt         Net         End Bank
+  ------------------- ----------- ------------ ------------ ----------- -----------
+  Jul (in progress)   $15,048     ($15,914)    ($1,025)     ($1,890)    ($1,783)
+
+  Aug                 $48,407     ($15,849)    ($17,396)    +$15,162    $13,378
+
+  Sep                 $43,114     ($19,118)    ($27,651)    ($3,655)    $9,723
+
+  Oct                 $34,650     ($23,730)    ($12,245)    ($1,325)    $8,398
+
+  Nov                 $60,002     ($21,539)    ($23,913)    +$14,550    $22,948
+
+  Dec                 $52,872     ($20,410)    ($24,718)    +$7,744     $30,692
+
+  H2 Total            $254,093    ($116,560)   ($106,948)   +$35,363    $30,692
+  ---------------------------------------------------------------------------------
+
+July includes the cash-trough recovery. August cash inflection is when KeHE POs land + SBG payoff begins. December completes SBG restructured plan; SBA HAP returns to full $1,705/mo Dec 1.
+
+The balance sheet, honestly
+
+Total liabilities were $736K at year-end 2025. Most is patient, restructured, or on scheduled payoff. Nothing is hidden. The disputed claim is disputed for cause, with only documented amounts acknowledged. The plan does not depend on new borrowing: it services $107K of debt out of H2 operating cash while still ending the year near $30.7K in the bank.
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Creditor                                                      Balance           Terms                                           Status
+  ------------------------------------------------------------- ----------------- ----------------------------------------------- ------------------------------------------------------
+  Nguyen family loan                                            $88,767           Asking to defer to 2027                         Requires your approval
+
+  Blake Benthall                                                $7,500            Asking to defer to 2027                         Requires your approval
+
+  SBA disaster loan                                             $350,000          $426/mo hardship → $1,705 Dec 1                 HAP program approved; $872 past due
+
+  Endorphin Farms                                               $89,298           $500/mo starting Sept                           Confirmed with Michelle Fehr (email 6/9)
+
+  Tallerine line of credit                                      $69,440           Forgiven                                        Contributed by my father
+
+  Past-due rent                                                 $16,475           $750/mo Sep-Nov + $1,100 Dec = $3,350 in 2026   $13,125 rolls to 2027 plan
+
+  SBG (Bill Sr.) restructured                                   $16,614           $4K/mo Aug to Dec                               Restructure proposal pending final Bill Sr. confirm
+
+  Unishippers/Leviton                                           $14,174           DISPUTED                                        Look-alike domain, only documented amount recognized
+
+  Amex                                                          $14,000           $331/mo minimum                                 Serviced monthly
+
+  OnDeck                                                        $13,500           $750/mo × 18 months                             Starts Aug, ends ~Feb 2028
+
+  SBG PO27 + PO28                                               $13,312           Lump payments Aug-Sep                           Paid from KeHE cash, ahead of new PO commitments
+
+  KeHE chargebacks (open)                                       $2,424            Netted from next PO                             Auto-handled
+
+  Others (Uline, Petal, JH Black Garlic, Berlin, Faire promo)   ~$4,700           Minor recurring / vendor                        Serviced or held pending cash
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What I did personally
+
+-   Took multiple outside jobs to put more money into Bravado and to make skipping my own paychecks possible.
+
+-   Moved employees to 1099 arrangements to keep them working when payroll was not sustainable.
+
+-   All personal credit and personal capital is in this business.
+
+The plan from here
+
+-   August: KeHE PO cash lands; SBG PO27/28 payoff begins; OnDeck repayment starts Aug/Sep.
+
+-   September: Founder pay moves to sustainable $5K/month, conditional on revenue landing. Hard inventory checkpoint for Q4 stock.
+
+-   October: Consolidated production PO for holiday push.
+
+-   November-December: Holiday season on tempered assumptions. SBG restructured plan completes. SBA returns to full $1,705/mo Dec 1. Year-end bank ~$30,692.
+
+What 2026 is and is not:
+
+On the books, 2026 most likely still ends at a net loss. The prize of this plan is different: entering 2027 with real operating capital. That capital is what makes 2027 the year we can turn monthly revenue into break-even and then profitability after full debt service, with every debt folded back into the monthly cost structure.
+
+Open risks, stated plainly:
+
+-   Q4 DTC lift assumes seasonality we did not get to prove in 2025.
+
+-   The third KeHE PO is conditional on holiday sell-through and demo schedule
+
+-   Plan models continued hold on the Nguyen and Blake Benthall loans, requiring your approval, not assumed.
+
+-   Macro environment that hurt us this spring has not completely resolved.
+
+The plan has fallback cases for each. I will report against it monthly.
+
+What I am asking of you
+
+First, my gratitude. Each of you put real money and real trust into this company. Through everything above, that is what kept it alive. Thank you.
+
+Second, my honesty. I am medically burned out. I have carried this company through a partner's collapse, a restructuring, and a cash trough of $107, and done everything I know how. One thing these three years taught me is that I struggle to ask for help. I am asking now.
+
+What I am asking for is not primarily money:
+
+-   Accountability: hold me to the plan in this document, monthly.
+
+-   Advice: several of you have seen businesses through worse. I need that experience at the table.
+
+-   Help in whatever form you are willing to give.
+
+Whatever you decide, you deserved the full picture. This is it.
+
+Appendix: 2024 vs 2025 accrual detail
+
+  -----------------------------------------------------------------------------
+  P&L (accrual books)     2024              2025              Change
+  ----------------------- ----------------- ----------------- -----------------
+  Sales                   $805,011          $463,435          -42%
+
+  Total income            $805,744          $464,997          -42%
+
+  Cost of goods sold      $574,472          $314,139          -45%
+
+  Gross profit            $231,272          $150,858          -35%
+
+  Gross margin            28.7%             32.4%             +3.7 pts
+
+  Marketing/advertising   $44,440           $17,250           -61%
+
+  Overhead (G&A)          $532,634          $332,385          -38%
+
+  Operating income        ($360,005)        ($202,799)        +44%
+
+  Interest & fees         ($39,431)         ($15,270)         -61%
+
+  Other income (ERC)      $5,000            $156,642          ERC $155K
+
+  Net income              ($294,663)        ($46,157)*        +84%
+
+  Year-end cash           $17,458           $3,146            
+  -----------------------------------------------------------------------------
+
+* Net includes $155,446 one-time ERC refund. Underlying operating loss ex-ERC: $203K.
+
+Basis: 2024/2025 figures from Finaloop accrual books (Dec 2025 management report). 2026 figures from daily cash plan (net cash to bank, not accrual revenue).
