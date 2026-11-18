@@ -1,5 +1,7 @@
 # The Tax Returns (2023–2025) and Mark Clark's Draft 2026 Financials
 
+> **Superseded in part (Nov 18, 2026).** An independent re-derivation corrected several figures in this document. See `ANALYSIS - Independent Review of Nov 18 (results and corrections).md`, which governs where the two differ. Principal corrections here: the 2023 return did not deduct the $68,750 accrual on a net basis (§1a); only the loans-to-shareholders line of the 2025 Schedule L follows Finaloop (§5a); the "+$44,577" in Due from Jeremiah compares two ledgers (§5); Finaloop's 2026 result through July 22 is ($51,408), not ($57,300); 2025 other income is $101,290 of Treasury receipts plus $51,405 of card balances written off, not all ERC.
+
 **Prepared:** November 18, 2026 (revised the same day after a line-by-line re-check; corrections are marked ‡), from the documents Hugh Nguyen forwarded that morning: Form 1120-S for 2023 and 2024, Form 1120 for 2025, Hugh's and Christy's 2024 Schedule K-1s, and Mark Clark's draft income statement and balance sheet (2024, 2025, nine months to September 30, 2026). All three returns were prepared by William S. Annon, CPA (Belleair, Florida) and signed by Jeremiah Tallerine as Managing Member. Figures are cross-checked against the QuickBooks general ledger and the Finaloop ledger already in this repository. Nothing here asserts a legal conclusion; where two documents disagree, both are quoted.
 
 ---

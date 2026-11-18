@@ -28,7 +28,7 @@
 
 **2024 EOY** — Bravado posts a loss of $295k ($294,663). Liabilities $699,125.
 
-**2025 EOY** — Bravado posts an operating loss of $272k ($271,832); net loss was $115k ($115,190) due to a one-time government subsidy, the $157k ERC ($156,642). Liabilities $805,512, of which $176,914 is wages accrued to Jer.
+**2025 EOY** — Bravado posts an operating loss of $272k ($271,832); net loss was $115k ($115,190) after $156,641 of one-time other income: $101,290 of U.S. Treasury receipts (ERC) and $51,405 of credit-card balances written off to income by journal entry in June 2025 *(corrected Nov 18, 2026; previously described as all ERC)*. Liabilities $805,512, of which $176,914 is wages accrued to Jer.
 
 **2026-01/02** — Jer moves to NYC, away from his business's Houston headquarters. When pressed he does not give any coherent justification. He draws over $30k from the business in Jan/Feb 2026 (~$33.2k per the Finaloop ledger: ~$17.5k distributions + ~$15.8k unitemized card-bill payments), unexplained, nearly as much as his annual pay in recent years. *(Ledger note: Brooklyn personal transactions and NYC transit charges appear from March; the recurring NYC telehealth charges begin March 1. Blake's recollection of the move is Jan–Feb.)*
 

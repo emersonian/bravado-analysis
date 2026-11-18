@@ -1,5 +1,7 @@
 # Cash Paid to the Founder — Rebuilt from the Ledgers
 
+> **Superseded in part (Nov 18, 2026).** An independent re-derivation corrected several figures in this document. See `ANALYSIS - Independent Review of Nov 18 (results and corrections).md`, which governs where the two differ. Principal corrections here: 2026 cash to the founder is $49,192 (not $52,422) after excluding check #7590, which was paid to a third party and pre-funded by him; 2026 transfers to his checking are $23,689 (not $26,919); the accrued-wage arithmetic is $212,558 less $35,644 = $176,914; 2024 accrual entries are $71,875 ($74,775 includes Gusto lines); only one of the two April 7 Finaloop adjustments has an offsetting entry.
+
 **Prepared:** September 1, 2026. **Supersedes** the founder-payment figures in `ANALYSIS - Reimbursement Legitimacy.md` §2, `BRIEF - Meeting with Hugh Nguyen.md`, and Figures B, C, D and F of the published analysis, all of which have been corrected to match this memo.
 
 **Question raised (Mark Clark, Aug 2026):** *most of the payments shown to the founder were probably his accrued wages.*

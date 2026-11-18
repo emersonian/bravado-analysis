@@ -1,5 +1,7 @@
 # Bravado Spice — Investor Claims vs. the Books
 
+> **Superseded in part (Nov 18, 2026).** An independent re-derivation corrected several figures in this document. See `ANALYSIS - Independent Review of Nov 18 (results and corrections).md`, which governs where the two differ. In particular: the 2025 "ERC" figure of ~$156.6K is $101,290 of Treasury receipts plus $51,405 of card balances written off to income; ($57,295) is the January–June 2026 operating loss, and the net result through July 22 is ($51,408).
+
 **Prepared:** August 24, 2026
 **Scope:** Cross-check of Jeremiah Tallerine's investor communications (Oct 2024 pitch materials, Jul 22 2026 "State of the Business," Aug 24 2026 "State of Bravado" briefing, and the daily cash plans) against the company's own records in this repository: QuickBooks P&L 2023–2026, QuickBooks Balance Sheet (run Aug 24 2026), QuickBooks General Ledger (Jan 2020–Aug 25 2026), QuickBooks audit logs 2020–2026, and the Finaloop general ledger export (2026 YTD, exported Jul 23 2026).
 

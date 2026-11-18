@@ -1,5 +1,7 @@
 # Bravado Spice — Amounts Due from the Company to its Members
 
+> **Superseded in part (Nov 18, 2026).** An independent re-derivation corrected several figures in this document. See `ANALYSIS - Independent Review of Nov 18 (results and corrections).md`, which governs where the two differ. The founder position by version is restated in §1 of that memo; Blake's loan was requested and agreed April 29, 2026 and funded from April 30.
+
 **Prepared:** August 26, 2026. Sources: Finaloop general ledger (export of July 23, 2026, balances as of July 22), QuickBooks general ledger (through August 2026), and the debt schedules in the July 22 and August 24, 2026 investor communications.
 
 The four members of record, per the capital accounts in the current books: **Jeremiah Tallerine** ($202,009.17), **Hugh & Christy Nguyen** ($100,000), **Blake Benthall** ($54,610 — this is Comatri, Inc.'s $50,010 plus a $4,600 May 2026 transfer, titled to Blake personally rather than to Comatri), and **Mark Clark** ($39,000).
