@@ -1,0 +1,64 @@
+Hugh,
+
+Thanks for sending everything. I went through the three returns, the K-1s and Mark's draft against the ledgers. Short version first, then my ranked questions, then notes on your list.
+
+THREE THINGS I DID NOT KNOW UNTIL THIS MORNING
+
+1. The 2025 return is a C-corporation return (Form 1120), not an S return. The attached termination statement, signed by Jer on October 10, 2026, tells the IRS that Comatri acquired its 1,000 shares on January 1, 2025. Comatri's agreements are dated July 21-22 and November 26, 2024, the money landed July 22 and December 2, 2024, and the company's own 2024 Form 1120-S reports shares going from 10,000 to 10,700 during 2024. Your 2024 K-1 allocation of 9.93744% only works if the 700 new shares were issued around the end of November 2024. So the company told the IRS one date in May 2025 and a different date in October 2026. January 1, 2025 happens to be the first date that leaves the 2024 S return and K-1s untouched. I am not drawing a conclusion from that; it is the question to ask.
+
+2. The $69,033 wage accrual is a loan on the tax return and a wage on Mark's draft. The return's "loans to shareholders" of $294,256 equals Finaloop's opening balance for Jer ($237,887, which includes the $69,033) plus James ($56,369), to the dollar. Mark's $219,892 is the QuickBooks figure without the $69,033. Your $74,364 difference is $69,033 plus $5,331 of 2025 draws. And the return's salary deduction of $62,919 is exactly Gusto's 2025 wages of $131,952 minus $69,033. The same $69,033 therefore reduced the wage deduction and increased what the IRS is told Jer owes the company. Mark's draft says the company owes it to him. Both cannot be right, and we were handed both this morning.
+
+3. The returns are cash-basis. Accounts payable, inventory and the accrued wages have never appeared on a return, and the IRS has seen losses of $77K, $50K and $48K for 2023-2025 against book losses of $565K, $295K and $115K. That is a permitted method, but it means the $176,914 "accrued wages" exists only in the internal books and has never been reported or deducted anywhere.
+
+MY TOP QUESTIONS, IN ORDER
+
+1. (Your Q1) Cash today, what is past due, and the next 13 weeks of payments. Mark's draft shows $1,963 of cash against $204,880 of payables at September 30. Ask for the list, not a summary.
+
+2. (Your Q8, sharpened) The S termination. Who chose January 1, 2025 as the acquisition date, what documents did the CPA have, why does the 2024 return show 10,700 shares if Comatri did not own shares until 2025, was Comatri issued a 2024 K-1, and has anyone considered whether 2024 has to be refiled as a split year or relief requested from the IRS. Also: when did Jer and Mark learn the corporate shareholder was a problem, given Mark's August text said S corp and the statement was signed October 10.
+
+3. (Your Q2, Q3, Q5, Q6 combined) The $69,033. State the numbers above and ask one question: is the $69,033 money the company owes Jer, or money Jer owes the company? Whichever answer we get, ask that the other document be corrected and that the accrued-wage balance be removed from every debt schedule and conversion proposal until the company picks one treatment and tells the IRS and the members the same thing.
+
+4. (Your Q3 and Q14) 2026 money to Jer. Mark's draft shows Due from Jeremiah up $44,577 in nine months, a new expense line "Unallocated reimbursements" of $31,312, and Jer's equity down $19,321. That is roughly $95,000 of founder-related outflows in nine months in a company with $1,963 of cash. Ask what the $31,312 is, who received it, and why it was expensed rather than charged to his account. Ask for the transaction list behind the $44,577.
+
+5. (Your Q7) Ownership. The 2025 return reports Jer at 65.421%, which is 7,000 of 10,700 shares. Nguyens 2,000, Clark 500, Comatri 1,000 and Jer 7,000 total 10,500. Who holds the other 200 shares? Ask for the share register.
+
+6. (Your Q11) The Tallerine note. Mark's own draft carries it at $79,440 at September 30: the $69,440 plus $10,000 borrowed July 28, 2026, six days after the meeting at which it was described as forgiven and after the written statements that no new borrowing would be taken. Nothing has been forgiven in any ledger or return. Ask what "forgiven" meant and why the new $10,000 is scheduled for repayment ahead of the members.
+
+7. (Your Q9) Your note. $100,000 at the end of 2024, $88,767 at the end of 2025, unchanged at September 30, 2026. No payment in 2026. Ask for the payment schedule in writing and do not agree to the deferral at the meeting.
+
+8. (Your Q15, Q10, Q20) Which books are authoritative, monthly reporting, and restoring Comatri's access. Three documents now give three answers on the same number. Ask for a monthly package from a single ledger, reviewed by Mark, to all members, and for Comatri's visibility to be restored per the second agreement.
+
+9. (Your Q12) The turnaround plan. I would ask this last and let them talk. The useful answers are a monthly sales number, a gross-margin number, and three priorities with dates.
+
+NOTES ON YOUR LIST
+
+Keep as written: Q1, Q9, Q11, Q12, Q20.
+Keep, with the figures above added: Q2, Q3, Q5, Q6, Q7, Q8, Q10, Q14, Q15, Q18.
+Defer to the written request: Q4 (James is static at $56,369 since 2024; it is history, not tonight), Q13, Q16, Q17.
+Merge Q19 into Q1.
+
+Specific corrections and additions:
+
+Q2: The $74,364 difference is explained: $69,033 (AJE-547) plus $5,331 (2025 draws), both folded into Jer's receivable in Finaloop's opening balances, which the CPA used. Mark's draft excludes them and keeps the $69,033 as accrued wages.
+
+Q5: The reconciliation is exact, not approximate. $115,190 minus $46,157 is $69,033.
+
+Q6: Add the salary line. Form 1120 line 13 is $62,919; Gusto 2025 wages per the ledger are $131,952; the difference is $69,033.
+
+Q7: "Comatri's $15,000 investment for 3%" is right; $15,010 was received. The 2025 return itself puts Jer at 65.421%, so the 200-share gap is now in a federal filing, not just in Exhibit 2.
+
+Q8: Use the dates above. The 2024 K-1 you hold is the cleanest evidence: 1,000 shares all year, 9.93744% allocation, shares outstanding 10,000 to 10,700.
+
+Q10: Comatri's $50,010 is still "Coinbase" on Mark's draft and is lumped into $189,010 of paid-in capital on the return. Finaloop separately carries "Capital - Blake Benthall" of $54,610, including a $4,600 transfer on May 1, 2026 [Blake: confirm whether Comatri sent $4,600]. My personal loan: $7,500 on April 29, 2026, to be repaid as $8,500 within a month, never booked in either ledger; it first appeared in the July 20 cash plan at $7,500, already marked for deferral. Mark's draft has a new $19,391 "Other" note at September 30; ask whether mine is in it. On access: I was told on August 24 that I would not be included in future member meetings. [Blake: state what access you still have, e.g. QuickBooks login, and what you never had, e.g. Finaloop.]
+
+Q11: Add that Mark's draft shows $79,440 and that the extra $10,000 is scheduled in the August cash plan for repayment in 2026.
+
+Q14: The $17,587 bad debt equals the entire December 31, 2025 receivable balance, written off in 2026. Ask which customers.
+
+Q18: The $71,343 unexplained movement is within $2,310 of the $69,033 accrual. Ask whether the accrual was reversed through equity while still shown as a liability.
+
+The written request: it is an LLC, so "Members'" rather than "Shareholders'," and Comatri, Inc. is the member, so I sign as its officer rather than personally. I have a trimmed draft request (33 items plus four questions) that I will send separately; it should go past a lawyer before it is delivered, and I would hold it back from Mark and Jer tonight and present it afterwards as you planned.
+
+Tone for tonight: everything above is a document-versus-document question. Let them explain. Do not agree to the deferral, to any wage-to-equity conversion, or to ratifying the January 1, 2025 date.
+
+Blake
