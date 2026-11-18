@@ -1,64 +1,27 @@
+Subject: Bravado: summary and questions for tonight
+
 Hugh,
 
-I went through the three returns, the K-1s and Mark's draft against both ledgers. Every figure below was re-derived a second time today from the ledgers and the return pages, and I have marked the few points that rest on my memory instead of a document. Findings first, then six questions for the room, then the rest.
+Attached is a six-page summary for tonight. It has six questions in the order I would ask them. Each one has the background in plain terms, a chart where it helps, and numbered sources at the end. It is written so you can have it open in the room.
 
-WHAT THE NEW DOCUMENTS SHOW
+The short version:
 
-1. Tax status. The 2025 return we were given is a C-corporation return. Attached is a statement signed by Jer on October 10, 2026 saying Comatri acquired its 1,000 shares on January 1, 2025. The 2024 return says otherwise in three places. Its balance sheet already counts Comatri's $50,010 as paid-in capital at December 31, 2024 (the money arrived July 22 and December 2, 2024). It reports six shareholders, and shares going from 10,000 to 10,700 during 2024. And the ownership worksheet in your own K-1 package lists change dates of 07-22-2024, 11-20-2024 and 11-26-2024; July 22 and November 26 are the dates of Comatri's two agreements. Mark's August text to you says Comatri's investment "was via his C corp which is not allowed under S corp rules," that he "had thought this adjustment was made" to make it personal to me, and that there would be no K-1 for 2025. Neither Comatri nor I ever agreed to such a change, and neither of us has ever received a K-1.
+1. Cash. Mark's draft shows $1,963 in the bank against $204,880 of unpaid bills.
+2. Jer's time. The books recorded a $75,000 salary as owed to him for three years in which he says he held outside jobs.
+3. What Jer owes. The company's own documents give four different figures, from $163,523 to $237,887. It is the largest asset on the balance sheet.
+4. Payments to Jer. About $49,200 went to him or to card accounts in his name from January to July 22, with no receipts in the ledger.
+5. The books. QuickBooks, Finaloop, Mark's draft and the tax return disagree, mainly over one $69,033 item.
+6. Taxes. The 2025 return says Comatri invested on January 1, 2025. It invested in July and December 2024, and the 2024 return already counts the money. That may affect your 2024 K-1.
 
-2. What Jer owes the company. This is the largest asset on the balance sheet, and the company's own documents give four figures for it:
+A few things I kept out of the attachment because they are between us:
 
-   QuickBooks and Mark's draft, Dec 31, 2025:      $163,523
-   2025 tax return and Finaloop, Dec 31, 2025:     $237,887
-   Finaloop, July 22, 2026 (last books we saw):    $226,744
-   Mark's draft, Sept 30, 2026:                    $208,100
+- Neither Comatri nor I have ever received a K-1 from Bravado, and neither of us agreed to treat the investment as mine personally.
+- On April 29 Jer asked me for 7,500 USDC, to be returned as $8,500 in a month, to catch up SBA payments. It has not been repaid and is not recorded as a loan. The ledger shows $4,600 arriving May 1, booked as my capital.
+- I can still log in to QuickBooks. I no longer have access to Finaloop, where the books now are.
+- Jer told me in April that he planned to step down in January. That is my recollection, not a document, so I left it out of question 2.
 
-   The return shows $294,256 of loans to shareholders, which is Finaloop's $237,887 for Jer plus $56,369 for James. On Mark's September balance sheet, the amounts owed by Jer and James are 80% of total assets.
+For tonight, please do not agree to the note deferral, to converting unpaid salary into ownership, or to the January 1, 2025 date.
 
-3. The $69,033. The gap between the first two lines above is $74,364: the $69,033 wage accrual plus $5,331 of 2025 draws, exactly. QuickBooks and Mark's draft treat the $69,033 as wages the company owes Jer. Finaloop and the tax return put the same amount inside what Jer owes the company. The return's 2025 wage deduction ($62,919) is also $69,033 lower than the wages run through Gusto ($131,952). Every other line of the return's balance sheet follows QuickBooks; only the owner receivable follows Finaloop.
-
-4. The returns' balance sheets leave out $353,000 of liabilities at the end of 2025. No return shows accounts payable or the $176,914 of wages accrued to Jer. The losses per books reported on the returns are $77K, $50K and $48K for 2023 to 2025. QuickBooks shows $565K, $295K and $115K. The 2023 and 2024 returns are marked cash-method, which permits this; the page showing the method is missing from our copy of the 2025 return.
-
-5. The 2025 result was helped by debt written off, not only by the ERC. The $156,641 of "other income" is $101,290 of Treasury receipts and $51,405 of credit-card balances written off to income by journal entry in June 2025 (Chase card 5039, $43,744, and the Spark card, $7,662). In 2024, $23,217 owed on another card was written off the same way with the memo "per Jer this is not part of Bravado Spice's debt." Mark's draft labels $131,781 "ERC/PPA," which I cannot reproduce from the ledger.
-
-6. Mark's draft mixes two ledgers. The December 2025 column is QuickBooks. The September 2026 column is built on Finaloop. So the changes between the two columns in retained earnings ($71,343 unexplained) and in what Jer owes are partly a switch of ledgers, not nine months of activity. Between Finaloop's July 22 balances and Mark's September 30 column, inventory is up $34,000 and payables are up $29,000.
-
-SIX QUESTIONS FOR THE ROOM, IN ORDER
-
-1. Cash. How much is in the bank today, what is past due, and what must be paid in the next 13 weeks? Mark's draft shows $1,963 of cash against $204,880 of payables. Ask for the payables list by vendor, and how much of it is Endorphin Farms and how much is owed to Mark. (Your Q1, Q19.)
-
-2. Who runs Bravado day to day, how many hours a week does Jer work on it, and for how many more months does he intend to run it? He told me in April that he was burned out and planned to step down in January, six weeks from now. (That is my recollection; the July 22 document also describes him as burned out.) Is that still the plan, what is the date, and who takes over the bank accounts, the customers and the books? He holds the majority vote, so he also chooses the next manager; ask who. On hours: the July 22 document says he "took multiple outside jobs," he has lived in New York since early 2026, and the books accrued salary for him at $3,125 per half-month in all three years: $68,750 for 2023, $71,875 for 2024 and $69,033 for 2025. The same document planned "Founder pay moves to sustainable $5K/month" from September. Has that been paid? The operating agreement ties a manager's pay to "the value of such services." Ask Mark the same questions about Jer.
-
-3. What Jer owes the company. Read out the four figures in finding 2 and ask: which is right? Does Jer agree he owes it? Is there a note, interest, or a repayment date? Will it be repaid in cash or set off against the accrued wages, and if set off, will those wages go through payroll with withholding? Why are you being asked to defer your loan while this balance is outstanding? The balance includes the $12,135 check for the Chevrolet sold in 2024, which the ledger records as "received directly by Jer."
-
-4. What the company has paid for Jer in 2026. Payroll ended in March and no wages have been accrued this year. From January 1 to July 22 the ledger shows about $49,200 paid to him or to card accounts in his name: $24,329 of card payments (Capital One $22,960, Citi $980, Petal $389), $23,689 in 36 transfers to his personal checking account, $924 of personal charges, and a $250 lease-application check. Finaloop booked about $18,500 of this as distributions and $27,640 as an expense called "Reimbursements to owners"; none of it was added to what he owes. Mark's draft has the matching line, "Unallocated reimbursements," at $31,312. No 2026 payment has an itemized breakdown in the ledger. For comparison, in 2025 about $118,000 went to him or his card accounts, including a $10,891 Apple Card bill and a $10,104 Bank of America bill in January, and $22,112 of that was matched by itemized entries. He does front real business costs. So ask: where are the expense reports behind the $31,312, which card accounts were paid, will the statements be provided, and who decides whether a payment to him is a distribution, a reimbursement, or a loan? (Your Q3, Q14.)
-
-5. The books. Jer has said they are being redone and we have not seen the result. Is Mark's September column the redone version, and is it a Finaloop export? Who decided to leave QuickBooks when Strata's work ended in March, who gave Finaloop its opening balances, and who has reviewed the books since? Which trial balance did the CPA receive for the 2025 return, and who supplied the owner-receivable figure? Is the $69,033 owed to Jer or by Jer? On April 7, two Finaloop entries of $6,033.40 reduced what Jer owes; one is described "moving to personal" and the other has no offsetting entry, which leaves the ledger out of balance. What were they? Ask that the QuickBooks file and the Finaloop ledger be kept as they are while anything is redone. (Your Q2, Q5, Q6, Q15, Q18.)
-
-6. The S termination. Who chose January 1, 2025, and what did the CPA have in front of him? Who are the six 2024 shareholders, and can we see all six 2024 K-1s? Mark, what was the "adjustment" you thought had been made, and who was to make it? Has anyone advised on whether 2024 must be refiled or relief requested? Can we see the e-file acceptance for each return? (Your Q8.)
-
-IF TIME ALLOWS, OTHERWISE IN THE WRITTEN REQUEST
-
-7. Your note. Three payments of $4,707 were made, on July 7, July 28 and September 2, 2025: $11,233 of principal and $2,888 of interest. Nothing since. The balance is $88,767 in every version of the books. No interest has been accrued for you in 2026; at the 1% a month the books used, that is about $888 a month. Interest accrued for September to December 2025 ($3,320) appears to have been written off to income in January 2026. Ask how many payments have been missed and whether interest is accruing. Do not agree to the deferral tonight. (Your Q9.)
-
-8. The Tallerine note. Mark's draft carries it at $79,440: the $69,440 described as "Forgiven" in July, plus $10,000 borrowed July 28, six days after the July document said "The plan does not depend on new borrowing." The 2025 return lists the $69,440 as a liability. Is there anything in writing from the lender, either a note or a release? (Your Q11.)
-
-9. Ownership. The 2025 return puts Jer at 65.421%, which is 7,000 of 10,700 shares. Comatri's first agreement listed him at 72% in July 2024; the second listed 7,000 shares in November 2024, with the named holders totaling 10,500. Who received the 200 shares, and is that the sixth shareholder? (Your Q7.)
-
-10. Debt written off to income. For the $51,405 in 2025 and the $23,217 in 2024: whose cards were they, is there a settlement letter, and who is paying them now?
-
-11. My loan, Comatri's capital, and access. On April 29 Jer texted me: "I have a lock on the next 300k from SBA but I need to bring my SBA account balance to zero. Would you consider a 7500 usdc transfer for a 8500 return in a month?" I sent the USDC to a wallet address he gave me. It has not been repaid. Finaloop has no loan to me. It shows $4,600 arriving from a Capital One account on May 1, booked as "Capital - Blake Benthall," which I did not send as capital; it may be part of my loan. The only SBA payments in the 2026 ledger are $1,705 on March 3 and $1,705 on May 20. Ask where the $7,500 went, whether the company or Jer owes me the $8,500, what became of the $300K SBA application, and whether my loan is inside the new $19,391 "Other" note on Mark's draft. Comatri's $50,010 is still labeled "Coinbase" on Mark's draft. On access: I can still log in to QuickBooks, which has no ledger entries after March 27, and I no longer have Finaloop. Comatri's second agreement gives it "access to the Company's financial records" for as long as Jer is the majority holder. (Your Q10.)
-
-12. Sales and receivables. Finaloop wrote off the entire $17,587 year-end receivable as bad debt in June. QuickBooks shows about $15,000 of it was collected in January (KeHE $9,565, Buc-ee's $5,477), and Finaloop booked those receipts as 2026 sales. Were 2026 sales and bad debt both overstated by that amount? Was the September 30 inventory of $59,829 counted? (Your Q14, Q17.)
-
-13. The turnaround plan, last, with a time limit. A monthly sales number, a margin number, and three priorities with dates. (Your Q12, Q20.)
-
-NOTES
-
-Leave for the written request: your Q4, Q13, Q16.
-
-The written request: Bravado is an LLC, so "Members'" rather than "Shareholders'." Comatri, Inc. is the member, so I sign as its officer. I have a draft I will send separately. It should be reviewed by a lawyer before it is delivered, and I would hold it back tonight and present it afterwards as you planned.
-
-For tonight: every item above compares one company document with another. Let them explain, and write down the answers. Please do not agree to the note deferral, to any conversion of accrued wages into equity, or to the January 1, 2025 date.
+On your written request: Bravado is an LLC, so "Members'" not "Shareholders'," and I sign as an officer of Comatri, Inc. I will send you my draft separately. A lawyer should review it before it goes to Jer or Mark.
 
 Blake
