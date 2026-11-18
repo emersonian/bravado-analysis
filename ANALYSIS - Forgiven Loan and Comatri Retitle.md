@@ -34,7 +34,7 @@ There is **no rename, edit, or reclassification of that account by Jeremiah — 
 **It happened in the Finaloop migration.** The Finaloop ledger (exported July 23, 2026) contains an account named **"Capital - Blake Benthall"** holding:
 
 - **$50,010** — entry titled *"2026 opening balance adjustment,"* source *"Finaloop equity adjustment,"* system-dated **Dec 31, 2025**. This is exactly Comatri's $15,010 + $35,000.
-- **$4,600** — a "CAPITAL ONE - TRANSFER" into the Found account on **May 1, 2026**, booked directly to Blake's personal capital (Blake is verifying whether Comatri sent this at all).
+- **$4,600** — a "CAPITAL ONE - TRANSFER" into the Found account on **May 1, 2026**, booked directly to Blake's personal capital. **Blake confirmed on Nov 18, 2026 that neither he nor Comatri sent it.** Its bank descriptor ("CAPITAL ONE - TRANSFER RT…") has the same format as the April 23, 2026 $400 deposit that Finaloop booked as Jeremiah's own capital contribution.
 
 Timing bounds: Finaloop's first subscription charge is **January 7, 2026** ($245/month thereafter), so the migration and its opening balances were configured between early January 2026 and the July 23, 2026 export; the opening entry itself is back-dated to Dec 31, 2025 as migration entries are. Finaloop provides no user-level audit log in the records, so the person who keyed the mapping cannot be identified from these files — but it is the founder's system (the July documents state he files corrections with Finaloop directly), and **no consent, member resolution, or communication in the records authorizes treating Comatri, Inc.'s investment as Blake Benthall's personal capital.** Comatri's name appears nowhere in either accounting system.
 

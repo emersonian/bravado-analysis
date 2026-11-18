@@ -38,7 +38,7 @@
 
 **2026-04-29** — Jer asks Blake for an urgent one-month **personal loan of $7,500, to be repaid as $8,500**. The purpose presented is to pay down an SBA loan balance. The loan is never booked in either accounting system; it first appears in company records on July 20, 2026, added to the cash-plan debt schedule at $7,500 (not the agreed $8,500), already marked for deferral.
 
-**2026-05-01** — A $4,600 "CAPITAL ONE - TRANSFER" lands in the Found account and is booked by Finaloop to **"Capital - Blake Benthall"** (Blake is verifying whether Comatri actually sent this). Finaloop also carries Comatri's $50,010 under that same personal-name capital account — not under Comatri.
+**2026-05-01** — A $4,600 "CAPITAL ONE - TRANSFER" lands in the Found account and is booked by Finaloop to **"Capital - Blake Benthall"** (confirmed Nov 18, 2026: neither Blake nor Comatri sent it). Finaloop also carries Comatri's $50,010 under that same personal-name capital account — not under Comatri.
 
 **2026-07-21** — Jer shares the July 2026 investor update (the eight-page "State of the Business") privately with Blake for feedback before the investor meeting. Blake tells Jer it's okay to fail, that he needs to prioritize his mental health, and that Bravado should file for bankruptcy protection. In the same meeting Jer privately says he will be taking ~10 days away from Bravado and that his girlfriend Marissa will be running it; he shares Mark's and Marissa's contact information as the primary contacts while he's away.
 
@@ -56,6 +56,6 @@
 | Jul 22, 2024 | Comatri, Inc. | $15,010 | Coinbase ACH — first agreement signed Jul 21–22, 2024 ($15,000 / 3%) |
 | Dec 2, 2024 | Comatri, Inc. | $35,000 | Coinbase ACH — 6 days after the Nov 26 second agreement (July option had expired Oct 2) |
 | Apr 29, 2026 | Blake Benthall (personal) | $7,500 | One-month bridge loan, $8,500 due; never booked |
-| May 1, 2026 | (under verification) | $4,600 | Capital One transfer, booked to "Capital - Blake Benthall" |
+| May 1, 2026 | Not Blake or Comatri (confirmed Nov 18) | $4,600 | Capital One transfer, booked to "Capital - Blake Benthall" |
 
 Returned to the Nguyens through Aug 2026: $14,121 in total (loan balance $100,000 → $88,767 plus minor amounts). Returned to Comatri or Blake: $0.
