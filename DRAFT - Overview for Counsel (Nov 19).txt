@@ -1,0 +1,49 @@
+Subject: Bravado Spice LLC - overview and what I need advice on
+
+[Name],
+
+Here is the high-level picture. Everything below comes from the company's own ledgers, tax returns and investor documents, which I can send in an organized packet. I have tried to state what the documents show and not draw conclusions.
+
+WHO IS INVOLVED
+
+- Bravado Spice LLC: a manager-managed Texas LLC in Houston that makes hot sauce.
+- Jeremiah (Jer) Tallerine: founder, sole manager, about 65% owner.
+- Comatri, Inc.: my Delaware C corporation, about 9.35%. It invested $50,010 under two agreements, dated July 22 and November 26, 2024.
+- Hugh and Christy Nguyen: about 18.7%, plus a $100,000 loan with $88,767 outstanding and no payment since September 2025.
+- Mark Clark: about 4.7%, the former fractional CFO, owed $25,000 in fees, and now helping with the books informally.
+- Separately, I personally lent 7,500 USDC at Jer's request in April 2026, to be repaid as $8,500 in a month. It is unpaid and not recorded in the books.
+
+THE PROBLEM IN ONE PARAGRAPH
+
+The company is insolvent: its former CFO's draft shows $1,963 of cash, about $933,000 of liabilities and negative equity of about $604,000 at September 30, 2026. Its largest asset is $208,100 owed to it by the manager. From 2023 through July 2026 the company paid about $332,000 to him or to card accounts in his name, of which about $202,000 has no itemization in the ledger. Against that, the books record about $177,000 of unpaid salary owed to him. He set that pay himself, it was never approved by the members or run through payroll tax, it was entered after the fact in catch-up batches, and it was not shown to incoming investors. Management now proposes to add salary for 2026 and net all of it against what he owes, which would turn the company's largest asset into a debt to him.
+
+WHAT IS TIME-SENSITIVE
+
+On November 19 the former CFO wrote that he will (1) add 2026 compensation for the manager and net his accrued wages against the balance he owes, (2) write off $56,369 owed by a former partner, and (3) issue revised statements. The manager also says a $69,440 family loan was forgiven, though the 2025 tax return and the draft statements still show it owed. None of this has been booked yet as far as I know.
+
+OTHER ISSUES
+
+- Statements made when Comatri invested. Both agreements represent that "there are no outstanding assessments or other liabilities." The books showed about $660,000 of liabilities in July 2024 and $680,000 in November 2024. The financial package I was sent in October 2024 had no balance sheet and described figures as "actuals to date" that stopped at June.
+- Tax status. Bravado filed as an S corporation through 2024. The 2025 return was filed as a C corporation with a statement, signed by the manager on October 10, 2026, dating Comatri's acquisition January 1, 2025. Comatri's agreements and payments were in 2024. Comatri has never received a K-1, and I have been asked to retitle its interest into my own name.
+- Records access. Comatri's second agreement grants access to the company's financial records. My access to the current accounting system has been removed. I still have the QuickBooks ledgers and audit logs through March 2026.
+- Governance. The Operating Agreement lets a majority of capital interests elect or remove the manager, has no amendment provision, and says a manager's pay must be "commensurate with the value of such services." Members met on November 18 without Comatri.
+
+WHAT I WANT TO KNOW
+
+1. What should I do this week to object to the netting, the 2026 salary and the write-offs before they are booked, and to make sure the current ledgers are preserved?
+2. Is the accrued salary an enforceable debt of the company without an agreement or member approval? Who has to prove what?
+3. Can the members, or Comatri on the company's behalf, require the manager to document and repay what he owes?
+4. Does Comatri have its own claim from the 2024 agreements, what would the remedy be, and what are the deadlines?
+5. What should Comatri do about the January 1, 2025 date and the missing K-1s? Should it consent to anything, and do I need separate tax counsel?
+6. What is the quickest way to enforce records access?
+7. Is there any realistic route to change who manages the company or to impose controls, given his 65%?
+8. How does the company's insolvency affect all of this, including the Nguyens' position as lenders?
+9. On my personal loan: who is the borrower, and does the $1,000 premium on a one-month loan create a usury problem for me?
+10. Should you represent Comatri alone, or Comatri and the Nguyens together?
+
+WHAT I AM AFTER
+
+Comatri's direct exposure is about $58,000, so I am realistic about proportionality. In order, I want to protect Comatri's ownership and tax position, stop further value leaving the company, get reliable records, and then decide whether to pursue recovery or an exit. I would value your view on what is worth doing first and what it is likely to cost.
+
+Blake Benthall
+Comatri, Inc.
