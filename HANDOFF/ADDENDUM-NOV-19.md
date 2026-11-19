@@ -86,3 +86,13 @@ All entries keyed by user "Strata Cloud Accountants" (outside accountants). Each
 - Miguel Vaquero (operations) moved off Gusto payroll in April 2026; paid by direct transfer since.
 - Only draws/distributions since 2024 in either ledger: Jer's ($5,331 draws in 2025; $21,752 "Distributions - Jeremiah Tallerine" in 2026).
 - QuickBooks contains 2026-dated entries through March 27, 2026; Strata logged 1,111 events in Jan 2026, 198 in Feb, 6 in March.
+
+## 7. Written objection and reply (added after the multi-reviewer pass)
+
+- **Comatri's objection, sent by Blake to the members (date sent: on or shortly after Nov 19, 2026; exact timestamp to be taken from his sent mail):** "For the record, Comatri does not agree to any compensation being accrued for Jer for 2026, or to any netting of accrued wages against the balance he owes the company, until the members have seen the basis for the rate and the periods, the payroll tax treatment, and have agreed to it in writing."
+- **Mark Clark's reply (quoted by Blake):** "Not sure you understand. He has taken draws which are effectively his compensation. The accounting adjustment simply reclassifies those draws to what they are. When i have the amount i'll provide the analysis then we'll have a basis for discussion."
+
+Points to carry forward (documents-only):
+- The person preparing the statements now describes the cash taken as "effectively his compensation." The books recorded the same cash as amounts owed by the manager (a receivable), the 2025 Form 1120 reports $294,256 as "loans to shareholders," the returns show officer compensation of $10,039 (2023) and $3,694 (2024), and the July 2026 update says he "skipped my own paychecks."
+- Mark's two emails describe two different adjustments. Nov 19 (first): "These statements include no expense for Jeremiah's compensation. That will need to be added to the Accrued Wages and to comp expense" and the balances "should be netted." Reply: the adjustment "simply reclassifies those draws to what they are." On Finaloop the 2026 payments ($49,192 through Jul 22) are already booked as distributions ($21,752) and reimbursements ($27,640), not added to the receivable. Reclassifying what was drawn leaves the manager owing roughly $31,000 on Mark's Sept 30 figures ($208,100 less $177,063); accruing nine months at $75,000 a year first and then netting produces about $25,200 owed to him. The difference is about $56,000. Which of the two is intended is not stated.
+- The reply says the analysis will come first and then "we'll have a basis for discussion"; it does not say whether anything will be booked before members agree.
