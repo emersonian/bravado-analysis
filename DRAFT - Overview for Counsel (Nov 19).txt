@@ -15,18 +15,20 @@ WHO IS INVOLVED
 
 THE PROBLEM IN ONE PARAGRAPH
 
-The company is insolvent: its former CFO's draft shows $1,963 of cash, about $933,000 of liabilities and negative equity of about $604,000 at September 30, 2026. Its largest asset is $208,100 owed to it by the manager. From 2023 through July 2026 the company paid about $332,000 to him or to card accounts in his name, of which about $202,000 has no itemization in the ledger. Against that, the books record about $177,000 of unpaid salary owed to him. He set that pay himself, it was never approved by the members or run through payroll tax, it was entered after the fact in catch-up batches, and it was not shown to incoming investors. Management now proposes to add salary for 2026 and net all of it against what he owes, which would turn the company's largest asset into a debt to him.
+The former CFO's unadjusted draft shows $1,963 of cash, about $933,000 of liabilities and negative equity of about $604,000 at September 30, 2026. The largest asset in that draft is $208,100 owed by the manager; the company's records give $163,523 to $237,887 for that balance depending on the version. From 2023 through July 2026 the company paid about $332,000 to him or to card accounts in his name, of which about $204,000 has no itemization in the ledger. Against that, the books record about $177,000 of unpaid salary owed to him. No approval or employment agreement for that pay is in the records, no payroll tax was recorded on it, and the outside accountants entered it after the fact in four catch-up batches. It was not in the financial package sent to me on October 2, 2024. It does appear in a workbook saved October 17, 2024, whose delivery date I am confirming, and in one sent to me on January 27, 2025, the day I was given QuickBooks access. Management now proposes to add salary for 2026 and net all of it against what he owes. If 2026 is accrued at the earlier $75,000 rate (my assumption; no rate has been stated), that would turn the asset into a debt to him.
 
 WHAT IS TIME-SENSITIVE
 
-On November 19 the former CFO wrote that he will (1) add 2026 compensation for the manager and net his accrued wages against the balance he owes, (2) write off $56,369 owed by a former partner, and (3) issue revised statements. The manager also says a $69,440 family loan was forgiven, though the 2025 tax return and the draft statements still show it owed. None of this has been booked yet as far as I know.
+On November 19 the former CFO wrote that he will (1) add 2026 compensation for the manager and net his accrued wages against the balance he owes, (2) write off $56,369 owed by a former partner, and (3) issue revised statements. The manager also says a $69,440 family loan was forgiven, though the 2025 tax return and the draft statements still show it owed. None of this has been booked yet as far as I know. My November 19 reply to the members asked questions about it but did not state an objection.
+
+Two possible deadlines I would like you to check first. One: a two-year limit on a negligent-misrepresentation claim for my $35,000 investment may fall between November 26 and December 2, 2026. Two: on my personal loan (below), a 60-day window to correct a possible usury problem may have started on November 19, 2026.
 
 OTHER ISSUES
 
-- Statements made when Comatri invested. Both agreements represent that "there are no outstanding assessments or other liabilities." The books showed about $660,000 of liabilities in July 2024 and $680,000 in November 2024. The financial package I was sent in October 2024 had no balance sheet and described figures as "actuals to date" that stopped at June.
+- Statements made when Comatri invested. Both agreements represent that "there are no outstanding assessments or other liabilities." As the books stand today they show about $655,000 of liabilities on July 22, 2024 and $665,000 on November 26, 2024; roughly $35,000 of the November figure was entered in January 2025. The financial package I was sent on October 2, 2024 had no balance sheet. Its cover email described the budget as having "actuals to date"; the sheet itself labels January to June "Actual" and July to December "Budget." Both of Comatri's payments reached the company from a Coinbase account in the manager's name.
 - Tax status. Bravado filed as an S corporation through 2024. The 2025 return was filed as a C corporation with a statement, signed by the manager on October 10, 2026, dating Comatri's acquisition January 1, 2025. Comatri's agreements and payments were in 2024. Comatri has never received a K-1, and I have been asked to retitle its interest into my own name.
-- Records access. Comatri's second agreement grants access to the company's financial records. My access to the current accounting system has been removed. I still have the QuickBooks ledgers and audit logs through March 2026.
-- Governance. The Operating Agreement lets a majority of capital interests elect or remove the manager, has no amendment provision, and says a manager's pay must be "commensurate with the value of such services." Members met on November 18 without Comatri.
+- Records access. Comatri's second agreement grants access to the company's financial records. I no longer have access to the current accounting system and have not yet made a formal written request. I still have the QuickBooks ledgers and audit logs through March 2026.
+- Governance. The Operating Agreement lets a majority of capital interests elect or remove the manager, has no amendment provision, and says a manager's pay must be "commensurate with the value of such services." On November 18 another member met the manager and the former CFO; Comatri was not invited.
 
 WHAT I WANT TO KNOW
 
@@ -38,8 +40,9 @@ WHAT I WANT TO KNOW
 6. What is the quickest way to enforce records access?
 7. Is there any realistic route to change who manages the company or to impose controls, given his 65%?
 8. How does the company's insolvency affect all of this, including the Nguyens' position as lenders?
-9. On my personal loan: who is the borrower, and does the $1,000 premium on a one-month loan create a usury problem for me?
-10. Should you represent Comatri alone, or Comatri and the Nguyens together?
+9. On my personal loan: who is the borrower, does the $1,000 premium on a one-month loan create a usury problem for me, and how and by when should I correct it?
+10. Should you represent Comatri alone, or Comatri and the Nguyens together? Their interests differ from mine as lenders and on the tax date.
+11. What must I preserve myself, and should the analysis pages I have already shared by link be taken down or restricted?
 
 WHAT I AM AFTER
 
