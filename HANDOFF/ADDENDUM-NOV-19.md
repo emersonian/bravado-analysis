@@ -96,3 +96,22 @@ Points to carry forward (documents-only):
 - The person preparing the statements now describes the cash taken as "effectively his compensation." The books recorded the same cash as amounts owed by the manager (a receivable), the 2025 Form 1120 reports $294,256 as "loans to shareholders," the returns show officer compensation of $10,039 (2023) and $3,694 (2024), and the July 2026 update says he "skipped my own paychecks."
 - Mark's two emails describe two different adjustments. Nov 19 (first): "These statements include no expense for Jeremiah's compensation. That will need to be added to the Accrued Wages and to comp expense" and the balances "should be netted." Reply: the adjustment "simply reclassifies those draws to what they are." On Finaloop the 2026 payments ($49,192 through Jul 22) are already booked as distributions ($21,752) and reimbursements ($27,640), not added to the receivable. Reclassifying what was drawn leaves the manager owing roughly $31,000 on Mark's Sept 30 figures ($208,100 less $177,063); accruing nine months at $75,000 a year first and then netting produces about $25,200 owed to him. The difference is about $56,000. Which of the two is intended is not stated.
 - The reply says the analysis will come first and then "we'll have a basis for discussion"; it does not say whether anything will be booked before members agree.
+
+## Mark Clark's reply on netting (pasted by Blake Nov 21, 2026; exact send date and the email it answers to be confirmed)
+
+Full text as pasted:
+
+> The reason the due from Jer and accrued wages are not netted on the financials relates directly to your point. Most of the due to Jer balance are draws that i would prefer to have been run through payroll. A smaller amount is reimbursements for company expenses paid by Jer personally. Here is the accounting process.
+>
+> Draws: Debit Due from Jer / Credit Cash
+> Compensation: Debit Comp expense / Credit Accrued wages
+> Co expenses paid by Jer personally: Debit appropriate expense accts / Credit Due from Jer
+> Reimbursement: Debit Due from Jer / Credit cash
+>
+> The last two should wash when all is current. By handling "comp" this way, the wages are recorded on an accrual basis for financial presentation, but not on a cash basis which would be the basis for payroll reporting.
+>
+> Again, i'd prefer the draws be run through payroll, but given they haven't, this accounting process has been discussed with the tax CPA.
+
+What the document states: (1) the two balances are not netted on the financials; (2) most of the balance the manager owes is cash draws, with a smaller part reimbursements that "should wash"; (3) wages are accrued for presentation but not treated as paid for payroll reporting; (4) the process has been discussed with the tax CPA. ("due to Jer" in his second sentence reads as "due from Jer" in context.)
+
+Not stated: whether a note, interest or repayment schedule exists for the balance; what the tax CPA concluded; whether any netting or reclassification is still planned for Version 2.
