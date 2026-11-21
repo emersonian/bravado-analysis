@@ -16,7 +16,7 @@ THIS WEEK
 
 2. My loan. In April 2026 I agreed by text to advance 7,500 USDC against "a 8500 return in a month." Nothing has been repaid. I understand the $1,000 is over the Texas limit and that a written correction within 60 days cures it (Finance Code 305.103). I first raised the question on November 19. Please prepare the correction, to the manager and the company, before anything else mentions the loan.
 
-3. Records. Please send a demand for Comatri alone: the current ledger, the support for the salary entries, the payroll register by employee, the manager's W-2s, the quarterly payroll returns, and the SBA loan file. Please set a deadline so that silence counts as a refusal, and leave my loan out of it.
+3. Records. Please send a demand for Comatri alone: the current ledger, the support for the salary entries, the payroll register by employee, the manager's W-2s, the quarterly payroll returns, the tax CPA's written position on how the draws are treated, and the SBA loan file. Please set a deadline so that silence counts as a refusal, and leave my loan out of it.
 
 4. Preservation. Revised statements are coming. Please ask that the current ledgers be kept, with a list of every change.
 
@@ -33,20 +33,19 @@ WHO IS INVOLVED
 - Jer Tallerine: founder, sole manager, about 65%.
 - Comatri, Inc.: my Delaware C corporation, about 9.35%. It paid $15,010 in July 2024 and $35,000 in December 2024.
 - Hugh and Christy Nguyen: about 18.7%, and owed $88,767 on a note unpaid since September 2025. They may not act with me.
-- Mark Clark: about 4.7%, former fractional CFO, owed about $25,000, helping with the books informally.
+- Mark Clark: about 4.7%, former fractional CFO, owed about $25,000. He prepares the financial statements but says the manager is responsible for them.
 
 
 THE STORY IN SHORT
 
 - Since December 2023 the company took in about $700,000 of new loans and investment (my tally), including $351,200 of SBA disaster loans.
 - About $255,000 of that period's cash, a little over a third, went to or for the manager. Almost none went through payroll.
-- The books record it as money he owes. The 2025 tax return calls it loans to shareholders. His July 2026 investor update says he was "skipping my own paychecks."
+- That cash has five labels. The books record it as money he owes. The 2025 tax return calls it loans to shareholders. His July 2026 investor update says he was "skipping my own paychecks." The former CFO has called it "effectively his compensation" and "draws that i would prefer to have been run through payroll."
 - The books also carry $177,063 of unpaid salary owed to him. It was entered after the fact, at his old payroll rate, with no agreement, no member approval and no payroll tax.
-- On November 19 the former CFO wrote that the two balances "should be netted" and that 2026 pay will be added. I objected in writing. He replied that the draws "are effectively his compensation."
-- He has since written that the two balances are kept separate for the payroll reason, that most of what the manager owes is "draws that i would prefer to have been run through payroll," and that the process "has been discussed with the tax CPA."
-- On November 21 I wrote that I took this to mean no netting or reclassification will be booked. He replied: "You are correct."
-- A netting counts as paying wages. I understand that means a payroll tax bill in the tens of thousands. The latest draft shows $1,963 of cash and about $933,000 of liabilities.
-- That draft shows negative equity of about $604,000. I understand that paying an insider's old salary while a company is insolvent, including by netting, may be open to challenge by creditors for a year.
+- On November 19 the former CFO wrote that the two balances "should be netted" and that 2026 pay will be added. I objected in writing.
+- On November 21 he wrote that they are kept separate for the payroll reason and that the process "has been discussed with the tax CPA." I asked him to confirm that no netting or reclassification will be booked. He replied: "You are correct."
+- He is not the manager. He writes that he has "not worked with the company for over a year" and that "Jer is responsible," yet he prepares the statements and answers for the books. The manager has put nothing in writing.
+- Why netting matters: it counts as paying wages, which I understand means a payroll tax bill in the tens of thousands. The latest draft shows $1,963 of cash, about $933,000 of liabilities and negative equity of about $604,000. I also understand that paying an insider's old salary while a company is insolvent may be open to challenge by creditors for a year.
 - Receipts fell from $1.87 million in 2023 to $475,000 in 2025.
 - When Comatri invested, I believed Bravado was taxed as a C corporation. It was an S corporation, which cannot have a corporate owner. Comatri has never received a K-1.
 
