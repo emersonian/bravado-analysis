@@ -97,7 +97,7 @@ Points to carry forward (documents-only):
 - Mark's two emails describe two different adjustments. Nov 19 (first): "These statements include no expense for Jeremiah's compensation. That will need to be added to the Accrued Wages and to comp expense" and the balances "should be netted." Reply: the adjustment "simply reclassifies those draws to what they are." On Finaloop the 2026 payments ($49,192 through Jul 22) are already booked as distributions ($21,752) and reimbursements ($27,640), not added to the receivable. Reclassifying what was drawn leaves the manager owing roughly $31,000 on Mark's Sept 30 figures ($208,100 less $177,063); accruing nine months at $75,000 a year first and then netting produces about $25,200 owed to him. The difference is about $56,000. Which of the two is intended is not stated.
 - The reply says the analysis will come first and then "we'll have a basis for discussion"; it does not say whether anything will be booked before members agree.
 
-## Mark Clark's reply on netting (pasted by Blake Nov 21, 2026; exact send date and the email it answers to be confirmed)
+## Mark Clark's reply on netting (sent Sat Nov 21, 2026, 8:54 AM, per the email thread)
 
 Full text as pasted:
 
@@ -115,3 +115,10 @@ Full text as pasted:
 What the document states: (1) the two balances are not netted on the financials; (2) most of the balance the manager owes is cash draws, with a smaller part reimbursements that "should wash"; (3) wages are accrued for presentation but not treated as paid for payroll reporting; (4) the process has been discussed with the tax CPA. ("due to Jer" in his second sentence reads as "due from Jer" in context.)
 
 Not stated: whether a note, interest or repayment schedule exists for the balance; what the tax CPA concluded; whether any netting or reclassification is still planned for Version 2.
+
+## Confirmation exchange, Nov 21, 2026 (screenshot in `Correspondence/2026-11-21 - Mark Clark reply - You are correct (screenshot).png`)
+
+- **Blake, 11:24 AM:** "Mark, Thank you, that is helpful. I take from this that the two balances will stay separate and that no netting or reclassification will be booked. Please correct me if that is wrong. Could the tax CPA's position on this treatment be sent to the members in writing? Blake Benthall, Comatri, Inc."
+- **Mark Clark, 11:27 AM:** "You are correct."
+
+What it establishes: the person preparing the statements has confirmed in writing that the two balances stay separate and no netting or reclassification will be booked. What it does not: he is not the manager (his Nov 19 email says "Jer is responsible"); the request for the tax CPA's position was not answered; the 2026 compensation accrual, the rate and the repayment of the balance are not addressed. The screenshot does not show who else was on the thread.
