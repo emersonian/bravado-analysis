@@ -1,92 +1,97 @@
-Subject: Bravado Spice LLC - one decision needed by Wednesday, then overview and questions
+Subject: Bravado Spice LLC - one decision by Wednesday, then the overview
 
 [Name],
 
-Thank you for taking this on. One item is time-critical, so I have put it first. Every figure below comes from the company's own ledgers, tax returns and investor documents, which I can send as an organized packet. I have done some homework on the law so that I can ask sharper questions; please correct anything I have wrong.
+Thank you for taking this on. One item is urgent, so it comes first. Every figure is from the company's own ledgers, tax returns and investor documents. Please correct any law I have wrong.
 
 
-DECISION NEEDED BY WEDNESDAY, NOVEMBER 25
+DECISION BY WEDNESDAY, NOVEMBER 25
 
-I signed my second investment agreement on November 26, 2024. As I understand it, a negligent-misrepresentation claim carries a two-year limit that Texas courts start when the statement led the buyer to act, which makes Wednesday, November 25 the safe last day (the 26th is Thanksgiving).
+I signed my second investment agreement on November 26, 2024. I understand a negligent-misrepresentation claim may expire two years later, which makes Wednesday the safe last day.
 
-1. Is that claim worth preserving at all? The statement I would rely on is inside the contract, and I understand the contract, fraud and Securities Act periods run to 2027 or 2028. If it is worth preserving, will you send a tolling agreement on Monday and file if it is not signed? Should the correction on my personal loan (question 2) go out first?
+1. Is that claim worth saving? If so, will you send a tolling agreement Monday and file if it is not signed?
 
 
-THE REST OF THIS WEEK
+THIS WEEK
 
-2. My personal loan. In April 2026 I agreed by text to advance 7,500 USDC against "a 8500 return in a month." Nothing has been repaid. I understand the $1,000 exceeds the Texas ceiling, that agreeing to it is enough to create liability of about three times the excess plus fees, and that a written correction under Finance Code 305.103 within 60 days of discovery removes it. I first raised the question on November 19. Please prepare the correction, to both the manager and the company, delivered by a method the statute lists. What may I still claim? Should it be paired with a short signed note naming the borrower?
+2. My loan. In April 2026 I agreed by text to advance 7,500 USDC against "a 8500 return in a month." Nothing has been repaid. I understand the $1,000 is over the Texas limit, and that a written correction under Finance Code 305.103 within 60 days of discovery cures it. I first raised the question on November 19. Please prepare the correction, to both the manager and the company. Should it go out before anything else mentions the loan?
 
-3. Records demand. Please send one for Comatri alone under Operating Agreement 4.6, section 1(a) of my second investment agreement, and the current text of Business Organizations Code 101.502. I would like it to cover the dated Finaloop ledger, the attachments to the salary entries, the payroll register, the manager's W-2s, the support for 2026 payments to him, and the SBA loan file. How do we turn silence into a refusal, since I understand fees depend on one?
+3. Records. Please send a demand for Comatri alone. I want the current Finaloop ledger, the support for the salary entries, the payroll register by employee, the manager's W-2s, the quarterly payroll returns, the support for 2026 payments to him, and the SBA loan file.
 
-4. Preservation. The former CFO has said revised statements are coming. Will you send a notice asking that the current ledgers be kept with a list of every change? What must I keep myself, and from what date?
+4. Preservation. Revised statements are coming. Please ask that the current ledgers be kept, with a list of every change. Tell me what I must keep.
 
-5. Material already shared. I will send a list of everything I have shared, with whom and when, and a document-by-document list of the corrections I believe are needed. It includes two pages published by link (one about the former CFO), two August briefs for a co-investor, and a summary that the co-investor handed to the manager on November 18. Some of it has wording I would no longer use, and one page states my loan as $8,500. What should be taken down or corrected, and what may I still share with the co-investors?
+5. What I have shared. I will send a list of what I shared, with whom, and the corrections I think are needed. It includes two pages published by link and a summary a co-investor handed to the manager. One page states my loan as $8,500. What should come down, and what may I still share?
 
-6. Injunction. I have read that a Texas appeals court this year upheld a temporary injunction against a sole manager over his own salary (Mundy v. Savell). Should we seek one before the netting described below is booked?
+6. Injunction. Should we seek one before the netting described below is booked? I have read Mundy v. Savell.
 
 
 WHO IS INVOLVED
 
-- Bravado Spice LLC: a manager-managed Texas LLC in Houston with three people working in it.
-- Jeremiah (Jer) Tallerine: founder, sole manager and only executive, about 65%.
-- Comatri, Inc.: my Delaware C corporation, about 9.35%. It invested $15,010 on July 22, 2024 and $35,000 on December 2, 2024.
-- Hugh and Christy Nguyen: about 18.7%, and lenders with $88,767 of principal unpaid since September 2025. I do not know whether they will act with me.
+- Bravado Spice LLC: a Houston LLC with three people working in it.
+- Jeremiah (Jer) Tallerine: founder, sole manager, about 65%.
+- Comatri, Inc.: my Delaware C corporation, about 9.35%. It paid $15,010 in July 2024 and $35,000 in December 2024.
+- Hugh and Christy Nguyen: about 18.7%, and owed $88,767 of principal on a note unpaid since September 2025. I do not know whether they will act with me.
 - Mark Clark: about 4.7%, the former fractional CFO, owed about $25,000, now helping with the books informally.
 
 
-THE SITUATION
+THE STORY IN SHORT
 
-- The former CFO's unadjusted draft shows $1,963 of cash, about $933,000 of liabilities and negative equity of about $604,000 at September 30, 2026.
-- The largest asset in that draft is $208,100 owed by the manager; the records give $163,523 to $237,887 depending on the version. Against it the books carry $177,063 of unpaid salary owed to him. Net of that salary he owes somewhere between nothing and about $61,000.
-- The salary was entered after the fact, in four batches, by the outside accountants, at his earlier payroll rate. No agreement or member approval is in the records and no payroll tax was recorded on it.
-- From January 1 to July 22, 2026 he received $49,192, none of it itemized; about $18,500 is booked as distributions to him alone. Payroll stopped in March. His own July cash plan set his pay at $2,400 to $4,000 a month for the summer and $5,000 from September.
-- On November 19 the former CFO wrote that 2026 compensation "will need to be added to the Accrued Wages" and that the manager's balance and accrued wages "should be netted." I objected in writing. He replied: "He has taken draws which are effectively his compensation. The accounting adjustment simply reclassifies those draws to what they are."
-- The same cash is recorded in the books as owed by the manager, on the 2025 tax return as loans to shareholders, and in the July investor update as paychecks he "skipped."
+- Since December 2023 the company took in about $700,000 of new loans and investment (my tally from the ledger), including $351,200 of SBA disaster loans.
+- About $255,000 of that period's cash, a little over a third, went to or for the manager. Almost none went through payroll.
+- The books record it as money he owes. The 2025 tax return reports loans to shareholders. His July 2026 investor update says he was "skipping my own paychecks."
+- Separately, the books carry $177,063 of unpaid salary owed to him. It was entered after the fact, in four batches, at his old payroll rate. No agreement, no member approval and no payroll tax are in the records.
+- In 2026 he received $49,192 through July 22, none itemized. About $18,500 is booked as distributions to him alone. His own July plan set his pay at $2,400 to $5,000 a month.
+- On November 19 the former CFO wrote that the two balances "should be netted" and that 2026 pay will be added. I objected in writing. He replied that the draws "are effectively his compensation."
+- A netting counts as paying wages. As I understand it, that creates a payroll tax bill in the tens of thousands of dollars. The September 30 draft shows $1,963 of cash, about $933,000 of liabilities and $208,100 owed by the manager.
+- Receipts fell from $1.87 million in 2023 to $475,000 in 2025.
+- When Comatri invested, I believed Bravado was taxed as a C corporation. It was an S corporation, which cannot have a corporate owner. The 2025 return was prepared as a C corporation, and Comatri has never received a K-1.
 
 
 WEAK POINTS I KNOW ABOUT
 
-- I was given QuickBooks access and a balance sheet on January 27, 2025 and raised nothing for about 22 months.
-- The October 2, 2024 email disclosed a negative bank balance, a need for $100,000, factoring and a pending SBA loan. A workbook saved October 17, 2024 shows a debt schedule and his accrued salary; I am confirming when I received it.
-- The sentence "there are no outstanding assessments or other liabilities" can be read as being about tax only.
-- My first agreement says "Payment has already been collected," and both payments reached the company from a Coinbase account in the manager's name. I am gathering my transfer records.
-- No written consent of the other members to Comatri's admission is in my files.
+- I had QuickBooks access and a balance sheet from January 27, 2025 and raised nothing for 22 months.
+- The October 2024 email disclosed a negative bank balance, a need for $100,000 and a pending SBA loan. A workbook saved October 17, 2024 shows his accrued salary; I am confirming when I received it.
+- "No outstanding assessments or other liabilities" can be read as being about tax only.
+- Both of Comatri's payments reached the company from a Coinbase account in the manager's name. I am gathering my transfer records.
+- I have no written consent of the other members to Comatri's admission.
+- His salary for the period comes to roughly what he took. The argument is about how it was paid and approved, not only how much.
 
 
 WHAT I WANT
 
-My preference is a change of manager, or to buy the brand and operating assets and leave the entity behind. I understand that recovering my $50,010 and my loan may be the more realistic aim. My direct exposure is about $58,000, so proportion matters.
+A change of manager, or to buy the brand and assets and leave the entity behind. I accept that getting back my $50,010 and my loan may be the realistic aim. My exposure is about $58,000, so cost matters.
 
 
 QUESTIONS
 
-The company's claims
-7. The Operating Agreement entitles the manager to pay "commensurate with the value of such services" but sets no rate or approver. Does he bear the burden of proving each year's salary was fair, and can his own 65% supply the members' approval? Which years are realistically at risk?
-8. Can management recharacterize the draws as compensation, or net them, without the members? I understand netting is itself a wage payment for payroll tax. Should Comatri require the payroll-tax calculation and the outside accountant's written position first? Which treatment best protects the company's claim?
-9. The Operating Agreement says "The Members shall determine and distribute available funds." No vote exists, and I understand the default is one vote per member. Are the 2026 distributions recoverable, and does calling them pay cure the problem?
-10. I understand Comatri can sue for the company without a prior demand. With these liabilities, would any recovery go to Comatri, or is the value an injunction and keeping the manager's balance on the books? Can fees be shifted? Does the missing admission consent, or any retitling, endanger standing?
-11. Which limitation rule governs the manager's balance, each draw or an open account? Would the revised statements, or any consent of mine, count as a signed acknowledgment that revives his older salary claims?
+Salary and netting
+7. Must he prove the salary was fair, and can his own 65% approve it? Which years are at risk?
+8. Can management relabel the draws as pay, or net them, without the members? If they do, who funds the withholding and the payroll tax? Can Comatri insist on the tax calculation and the preparer's written position first?
+9. The Operating Agreement says "The Members shall determine and distribute available funds." No vote was held. Are the 2026 distributions to him recoverable?
+10. Can Comatri sue on the company's behalf, would any recovery reach Comatri, and can fees be shifted?
+11. Could the revised statements, or anything I sign, revive his older salary claims? Which limitation rule applies to what he owes?
 
-Comatri's own claims
-12. Is Comatri's interest a security under the Texas Securities Act, and is the manager personally liable as seller or as the person in control? How damaging are the October 2024 email, the workbook and my silence?
-13. Was the sale exempt from registration? If not, I understand that claim on the first $15,010 runs to July 22, 2027.
-14. The remedy appears to be rescission. Would handing back the interest cost Comatri its standing and consent rights? Is this worth more as leverage than as a suit? If I receive a rescission offer, what must I do within 30 days?
+Comatri's investment
+12. Is Comatri's interest a security under the Texas Securities Act, and is the manager personally liable? How much do the October 2024 email, the workbook and my silence hurt?
+13. Was the sale exempt from registration?
+14. Would rescission cost Comatri its standing and consent rights? Is it better as leverage or as a suit?
+15. Does it matter that I believed Bravado was a C corporation, and that Comatri's investment ended the S election?
 
 Tax
-15. Comatri will sign nothing that changes who holds the interest or the 2024 dates. Please confirm what else I should refuse, including any bank or payroll signing authority. Should Comatri request the company's 2024 and 2025 returns from the IRS as a holder of more than 1%? Can any exit be structured to preserve Comatri's tax loss? I would like a referral to a tax practitioner for a fixed-scope review.
+16. Comatri will sign nothing that changes who holds the interest or the 2024 dates. What else should I refuse? Can an exit preserve Comatri's tax loss? I would like a referral to a tax practitioner for a fixed-scope review.
 
 Strategy
-16. Removal needs a majority he holds. Short of his agreement, would a court appoint a receiver on the insolvency ground, and at what cost?
-17. On buying the assets: please run lien searches and obtain the SBA note, security agreement and any guarantees. Who owns the trademark, recipes and marketplace accounts? Since the manager alone can sell and the SBA is owed about $349,000, which route is realistic, and how would I show the price is fair? Must I disclose my interest as a buyer before Comatri demands records?
-18. Please confirm in the engagement letter that you represent Comatri and me personally, and not the co-investors, whose interests differ from mine as lenders and on the tax date.
-19. Please give me a staged plan with a fee cap and a decision point for each stage. Which claims carry fee-shifting, and at what stage does cost exceed what I can realistically recover?
+17. He holds the votes to block his own removal. Would a court appoint a receiver, and at what cost?
+18. Buying the assets. Please run lien searches and get the SBA loan documents. Who owns the trademark, recipes and marketplace accounts? With about $349,000 owed to the SBA, which route is realistic? Must I disclose my interest as a buyer?
+19. Please confirm you represent Comatri and me, and not the co-investors.
+20. Please give me a staged plan with a fee cap and a decision point at each stage.
 
 One further matter I would prefer to raise with you in person, separately from everything above and not as part of any negotiation.
 
 
 DOCUMENTS I CAN SEND
 
-Both investment agreements with the Operating Agreements; the October 2024 and January 2025 emails and workbooks; the 2023 to 2025 tax returns; the July and August 2026 investor updates and cash plans; the former CFO's draft statements; the QuickBooks ledger and audit logs through March 2026; the Finaloop ledger to July 23, 2026; the loan texts; this week's emails; a 137-page source appendix; and a memo of what I have found on each question above.
+Both investment agreements and the Operating Agreements; the October 2024 and January 2025 emails and workbooks; the 2023 to 2025 tax returns; the 2026 investor updates and cash plans; the former CFO's draft statements; the QuickBooks ledger and audit logs; the Finaloop ledger to July 23, 2026; the loan texts; this week's emails; a source appendix; a memo of what I have found on each question; and the list of corrections.
 
 Blake Benthall
 Comatri, Inc.
