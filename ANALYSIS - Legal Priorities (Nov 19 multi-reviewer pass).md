@@ -4,6 +4,8 @@
 
 **Updated November 20, 2026.** Changes since the first version: the written objection has been sent and answered (priority 1); the company's size is now on record (priority 1); the leverage available without the co-investors is set out (priority 7); and a possible purchase of the assets is added (section 7). The agenda for the first meeting with counsel is `BRIEF - First Meeting with Counsel (Nov 20).txt`.
 
+**Superseded in part (November 21, 2026).** A second research round read the statutes and cases directly. See `ANALYSIS - Answers Ahead of Counsel (Nov 21).md`, which governs wherever the two differ. In particular: the near deadline is Wednesday, November 25, 2026 (not November 26 to December 2); "about December 31, 2026" is not a deadline; Comatri's consent on the tax status is worth less as leverage than stated here; and the realistic control tool is a temporary injunction.
+
 **Two limits.**
 - **No legal point was confirmed against official statute text.** The official Texas and federal sites were unreachable from the review environment. Statutes and cases below were matched only in secondary reproductions or recalled from memory, and every one needs a practitioner's confirmation.
 - **Standing rules apply.** Nothing here characterizes anyone's conduct or intent.
