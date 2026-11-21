@@ -1,0 +1,65 @@
+DRAFT FOR COUNSEL'S REVIEW. NOT SENT. Do not send without the lawyer's sign-off on wording, recipients and delivery.
+
+------------------------------------------------------------
+
+[Date]
+
+By certified mail, return receipt requested, and by hand delivery
+
+Jeremiah Tallerine
+[home address]
+
+Bravado Spice LLC
+Attn: Jeremiah Tallerine, Manager
+[principal office address]
+
+Re: Notice and correction under Texas Finance Code section 305.103
+    Advance of 7,500 USDC, April 2026
+
+Jer,
+
+This letter concerns the 7,500 USDC I advanced at the end of April 2026. It is sent to you personally and to Bravado Spice LLC.
+
+1. The advance. On April 29, 2026 you asked me by text for "a 7500 usdc transfer for a 8500 return in a month." I agreed and sent 7,500 USDC to the wallet address you gave me, beginning April 30, 2026. Nothing has been repaid, and I have received no interest or other payment of any kind.
+
+2. Notice. The return described in that exchange is more than the interest Texas law allows on this advance. I first became aware of this on November 19, 2026. This letter is my written notice of that violation.
+
+3. Correction. Effective from the date of the advance:
+
+   (a) I cancel and release any right to the $1,000 difference, and to any return, interest, fee or charge above the amount stated in (b).
+
+   (b) The advance bears simple interest at 10 percent a year on the unpaid principal, from April 30, 2026 until it is repaid. That is $2.05 a day, or $[421.23] through [November 21, 2026].
+
+   (c) The amount owed is therefore the principal of $7,500 plus interest under (b), and nothing else. There are no late charges or other fees.
+
+   (d) In no event will interest be contracted for, charged or received above the maximum Texas law allows. If any amount would exceed it, that amount is cancelled, and anything received above it will be credited to principal or refunded.
+
+4. No refund is due, because I have received nothing. If you believe any payment has been made, please tell me and I will credit or refund it with interest.
+
+5. This letter replaces the return described in the April 29 exchange. It does not change the principal owed or its due date, and I reserve my right to repayment of the principal and the interest stated above.
+
+Please confirm receipt.
+
+Blake Benthall
+[address]
+
+------------------------------------------------------------
+
+NOTES FOR COUNSEL (not part of the letter)
+
+Facts
+- The only writing is a text and Signal exchange of April 29, 2026 (screenshots in Correspondence/). The funds went to a Solana wallet address supplied by the manager: a 100 USDC test on April 30, then the balance. Please confirm the date of the balance transfer from my wallet records before the per-day figure is used.
+- Nothing has been repaid. The company's July and August 2026 debt tables list "Blake Benthall $7,500." The Finaloop ledger through July 23, 2026 shows no loan entry.
+- I first raised the question on November 19, 2026, which would put the 60th day at January 18, 2027. No notice of any violation has come from the borrower.
+- I am the lender personally. Comatri, Inc. is not a party.
+
+Points to decide
+1. Rate. I used 10 percent a year (Finance Code 302.001(b)) because no written agreement sets a higher lawful rate. Is a lower figure, or "the maximum lawful rate," safer?
+2. Recipients. The letter goes to the manager and the company because the borrower is not settled. Is that right, and should it avoid saying which one owes it?
+3. Delivery. Section 305.103(c) lists delivery "personally, by telecopier, or by United States mail to the address shown on the most recent documents in the transaction." No document in the transaction shows an address. Which addresses, and is hand delivery plus certified mail enough?
+4. Completeness. I understand a 2026 decision (Vu v. Medina) rejected a correction that left one charge unaddressed, so paragraph 3 cancels everything above principal and stated interest. Is anything missing?
+5. Stating the discovery date. Does it help or hurt to state November 19 in the letter?
+6. USDC. Should the letter say "7,500 USDC (US$7,500)" or stay with dollars for the amount owed?
+7. A signed note. Should this be paired with a short promissory note naming the borrower, or would asking for one reopen the terms?
+8. Earlier statements. A published page, an email to a co-investor and two August drafts state the advance with the $8,500 figure. Does this letter need to address them, or is taking them out of circulation enough?
+9. Order. This should go out before the records demand or anything else that mentions the advance.
