@@ -42,7 +42,7 @@ THE STORY IN SHORT
 - The books also carry $177,063 of unpaid salary owed to him. It was entered after the fact, at his old payroll rate, with no agreement, no member approval and no payroll tax.
 - On November 19 the former CFO wrote that the two balances "should be netted" and that 2026 pay will be added. I objected in writing. He replied that the draws "are effectively his compensation."
 - A netting counts as paying wages. I understand that means a payroll tax bill in the tens of thousands. The latest draft shows $1,963 of cash and about $933,000 of liabilities.
-- That draft shows negative equity of about $604,000. I understand that paying an insider's old salary while a company is insolvent, including by netting, can be undone by creditors within a year.
+- That draft shows negative equity of about $604,000. I understand that paying an insider's old salary while a company is insolvent, including by netting, may be open to challenge by creditors for a year.
 - Receipts fell from $1.87 million in 2023 to $475,000 in 2025.
 - When Comatri invested, I believed Bravado was taxed as a C corporation. It was an S corporation, which cannot have a corporate owner. Comatri has never received a K-1.
 
@@ -65,7 +65,7 @@ QUESTIONS
 
 Salary and netting
 7. Must he prove the salary was fair? Can his own 65% approve it?
-8. Can management relabel the draws as pay, or net them, without the members? If they do, who funds the payroll tax? Is a netting an insider preference under Business & Commerce Code 24.006(b), and can I challenge it as a creditor through my April advance?
+8. Can management relabel the draws as pay, or net them, without the members? If they do, who funds the payroll tax? Is a netting an insider preference under Business & Commerce Code 24.006(b), or does the SBA's lien or his right of setoff take it outside that section? Is my own remedy capped at my $7,500 advance?
 9. No member vote approved any distribution. Are the 2026 distributions to him (about $18,500) recoverable?
 10. Can Comatri sue for the company, and would any recovery or fees reach Comatri?
 11. Could anything I sign revive his older salary claims?
