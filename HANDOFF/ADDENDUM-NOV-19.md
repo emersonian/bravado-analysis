@@ -49,7 +49,7 @@ All entries keyed by user "Strata Cloud Accountants" (outside accountants). Each
 - Jer was signed in to QuickBooks on Dec 14, 2023, May 23, 2024 and Jan 22, 2025. Mark Clark was signed in May 23, 2024.
 - Timing: first batch is 15 days before the Nguyens' $200,000 wire (Dec 29, 2023). Of the Jan 22, 2025 batch, $34,375 is dated before Comatri's Nov 26, 2024 agreement ($40,625 through Nov 30).
 - Tax returns show "compensation of officers" of $10,039 (2023) and $3,694 (2024). Gusto ledger lines do not name employees.
-- 2023–2025 totals: salary accrued about $209,658; cash to Jer not itemized $153,090; payments recorded against wages $39,992.
+- 2023–2025 totals: salary accrued about $209,658; cash to Jer not itemized $155,090; payments recorded against wages $37,992 ($35,644.29 in 28 transfers in 2024, plus one $2,347.34 item on Sep 18, 2024 whose bank memo names another employee's payroll). Corrected Nov 21: earlier text said $153,090 and $39,992, which counted AJE-345 ($2,000, 2025, a journal entry against accounts payable) as a payment.
 
 ## 4. The 2024 Comatri investment
 
